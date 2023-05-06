@@ -1,0 +1,21 @@
+export default {
+    "halocode_mbuild_humituresensor": "溫濕度感測器",
+    "extensionName": "溫濕度感測器",
+    "extensionDescription": "",
+    "OP_TEMPERATURE_INDEX_0": "1",
+    "OP_TEMPERATURE_INDEX_1": "2",
+    "OP_TEMPERATURE_INDEX_2": "3",
+    "OP_TEMPERATURE_INDEX_3": "4",
+    "OP_TEMPERATURE_INDEX_4": "5",
+    "OP_TEMPERATURE_INDEX_5": "6",
+    "OP_TEMPERATURE_INDEX_6": "7",
+    "OP_TEMPERATURE_INDEX_7": "8",
+    "op_temperature": "溫濕度感測器 [index] 溫度（℃）",
+    "op_htemperature": "溫濕度 [index] 溫度（℉）",
+    "op_humidity": "溫溼度感測器 [index] 空氣濕度（%）",
+    "cate_5ce6a4bb": "溫濕度感測器",
+    "BLOCK_1547779213407": "伺服馬達 [ID] 旋轉到 [angle] 度",
+    "BLOCK_1547779701469": "喇叭 [ID] 播放 [audio] 聲音",
+    "BLOCK_1547779887637": "喇叭 [ID] 播放 [audio] 音樂檔直到結束",
+    "BLOCK_1547781171854": "喇叭 [ID] 的音量設定為 [volume] %"
+};

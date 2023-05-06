@@ -1,0 +1,14 @@
+{
+  "name": "napi-thread-safe-callback",
+  "version": "0.0.6",
+  "description": "C++ utility class to perform callbacks into JavaScript from any thread",
+  "main": "index.js",
+  "author": "Mika Fischer <mika.fischer@zoopnet.de> (https://github.com/mika-fischer)",
+  "license": "ISC",
+  "homepage": "https://github.com/mika-fischer/napi-thread-safe-callback",
+  "repository": "github:mika-fischer/napi-thread-safe-callback",
+  "devDependencies": {
+    "mocha": "^5.0.5",
+    "node-addon-api": "^1.2.0"
+  }
+}

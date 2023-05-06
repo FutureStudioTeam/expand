@@ -1,0 +1,29 @@
+{
+  "name": "array-back",
+  "author": "Lloyd Brookes <75pound@gmail.com>",
+  "version": "3.1.0",
+  "description": "Guarantees an array back",
+  "repository": "https://github.com/75lb/array-back.git",
+  "license": "MIT",
+  "main": "dist/index.js",
+  "engines": {
+    "node": ">=6"
+  },
+  "files": [
+    "index.mjs",
+    "dist/index.js"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "coveralls": "^3.0.3",
+    "jsdoc-to-markdown": "^4.0.1",
+    "rollup": "^1.9.0",
+    "test-runner": "^0.5.1"
+  },
+  "standard": {
+    "ignore": [
+      "dist",
+      "build"
+    ]
+  }
+}

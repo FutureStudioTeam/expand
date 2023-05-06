@@ -1,0 +1,21 @@
+export default {
+    "halocode_mbuild_pirsensor": "ПИР датчик",
+    "extensionName": "ПИР датчик",
+    "extensionDescription": "",
+    "EVENT_PIR_INDEX_0": "1",
+    "EVENT_PIR_INDEX_1": "2",
+    "EVENT_PIR_INDEX_2": "3",
+    "EVENT_PIR_INDEX_3": "4",
+    "EVENT_PIR_INDEX_4": "5",
+    "EVENT_PIR_INDEX_5": "6",
+    "EVENT_PIR_INDEX_6": "7",
+    "EVENT_PIR_INDEX_7": "8",
+    "event_pir": "ПИР датчик [index] обнаруживает человеческое тело?",
+    "pir_count": "ПИР датчик[index] количество раз, когда человеческое тело обнаружено",
+    "pir_count_make_zero": "ПИР датчик [index] Сбрасывает количество раз",
+    "cate_7477652c": "ПИР датчик",
+    "BLOCK_1547779213407": "Серво [ID] вращается [angle] (°)",
+    "BLOCK_1547779701469": "Динамик [ID]  воспроизведения звука [audio]",
+    "BLOCK_1547779887637": "Динамик [ID]  Воспроизведение аудиофайла [audio] до тех пор пока сделано",
+    "BLOCK_1547781171854": "Динамик [ID]  установить объем [volume] %"
+};

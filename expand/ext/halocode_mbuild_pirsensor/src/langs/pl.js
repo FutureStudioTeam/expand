@@ -1,0 +1,21 @@
+export default {
+    "halocode_mbuild_pirsensor": "Czujnik PIR",
+    "extensionName": "Czujnik PIR",
+    "extensionDescription": "",
+    "EVENT_PIR_INDEX_0": "1",
+    "EVENT_PIR_INDEX_1": "2",
+    "EVENT_PIR_INDEX_2": "3",
+    "EVENT_PIR_INDEX_3": "4",
+    "EVENT_PIR_INDEX_4": "5",
+    "EVENT_PIR_INDEX_5": "6",
+    "EVENT_PIR_INDEX_6": "7",
+    "EVENT_PIR_INDEX_7": "8",
+    "event_pir": "Czujnik PIR [index] wykrywa ludzkie ciało?",
+    "pir_count": "Czujnik PIR[index] Liczba przypadków wykrycia przez organizm ludzki",
+    "pir_count_make_zero": "Czujnik PIR [index] resetuje liczbę razy",
+    "cate_7477652c": "Czujnik PIR",
+    "BLOCK_1547779213407": "Serwa [ID] obraca się do [angle] (°)",
+    "BLOCK_1547779701469": "Głośnik [ID]  Odtwarzanie dźwięku [audio]",
+    "BLOCK_1547779887637": "Głośnik [ID]  Odtwarzanie pliku audio [audio] aż do zrobienia",
+    "BLOCK_1547781171854": "Głośnik [ID]  ustawić głośność na [volume] %"
+};

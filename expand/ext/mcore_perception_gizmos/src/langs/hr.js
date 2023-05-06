@@ -1,0 +1,21 @@
+export default {
+    "mcore_perception_gizmos": "Osjećajući Gizmos",
+    "extensionName": "Osjećajući Gizmos",
+    "extensionDescription": "U 5 projekata sa mBot ekstenzijama, možeš pristupiti raznim primjerima koji ti mogu pomoći kako korisititi senzore i naučiti osnove elektronike.",
+    "MCORE_RUN_FAN_PORT_0": "port1",
+    "MCORE_RUN_FAN_PORT_1": "port2",
+    "MCORE_RUN_FAN_PORT_2": "port3",
+    "MCORE_RUN_FAN_PORT_3": "port4",
+    "MCORE_RUN_FAN_FAN_ROTATE_0": "desnokretno",
+    "MCORE_RUN_FAN_FAN_ROTATE_1": "ljevokretno",
+    "MCORE_RUN_FAN_FAN_ROTATE_2": "stani",
+    "mcore_run_fan": "[ICON] ventilator [PORT] [FAN_ROTATE] rotira",
+    "MCORE_DETECT_EXTERNAL_LOUDNESS_PORT_0": "port3",
+    "MCORE_DETECT_EXTERNAL_LOUDNESS_PORT_1": "port4",
+    "mcore_detect_external_loudness": "[ICON] senzor zvuka [PORT] glasnoća",
+    "MCORE_DETEC_TEMPERATURE_SLOT_0": "slot1",
+    "MCORE_DETEC_TEMPERATURE_SLOT_1": "slot2",
+    "mcore_detec_temperature": "[ICON]temperaturni senzor [PORT][SLOT] vrijednost(℃)",
+    "mcore_detect_potentiometer": "[ICON] potenciometar[PORT] Vrijednost",
+    "CATEGORY_PERCEPTION": "Gizmos"
+};

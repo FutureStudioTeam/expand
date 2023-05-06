@@ -1,0 +1,79 @@
+{
+    "id": "halocode_mbuild_temperature_sensor",
+    "iconURL": "halocode_mbuild_temperature_sensor/imgs/1aedf0ee01da4a489b5e459ea2beb1c6.png",
+    "coverURL": "./res/1aedf0ee01da4a489b5e459ea2beb1c6.png",
+    "name": {
+        "zh": "温度传感器",
+        "en": "Temperature Sensor",
+        "de": "Temperatursensor",
+        "es": "Sensor de temperatura",
+        "fr": "Capteur de température",
+        "id": "Sensor suhu",
+        "ja": "温度センサー",
+        "ja-jph": "おんどセンサー",
+        "ko": "온도 센서",
+        "pl": "Czujnik temperatury",
+        "uk": "Датчик температури",
+        "zh-hant": "溫度感測器",
+        "nl": "Temperatuursensor",
+        "it": "Temperatura sensore",
+        "hr": "Senzor temperature",
+        "ru": "Датчик температуры",
+        "pt": "Sensor de temperatura",
+        "fi": "Lämpö tila-anturi",
+        "tr": "Sıcaklık Sensörü",
+        "tk": "Gyzgynlyk derejesini duýujy enjam",
+        "ca": "Sensor de temperatura",
+        "cs": "Teplotní senzor",
+        "fa": "سنسور دما",
+        "vi": "Cảm biến nhiệt độ"
+    },
+    "description": {
+        "zh": "",
+        "en": "",
+        "de": "",
+        "es": "",
+        "fr": "",
+        "id": "",
+        "ja": "",
+        "ja-jph": "",
+        "ko": "",
+        "pl": "",
+        "uk": "",
+        "zh-hant": "",
+        "nl": "",
+        "it": "",
+        "hr": "",
+        "ru": "",
+        "pt": "",
+        "fi": "",
+        "tr": "",
+        "tk": "",
+        "ca": "",
+        "cs": "",
+        "fa": "",
+        "vi": ""
+    },
+    "fromScratch3": false,
+    "targets": [
+        "haloboard",
+        "cyberpi"
+    ],
+    "main": "halocode_mbuild_temperature_sensor/index.js",
+    "codeTypes": [
+        "python"
+    ],
+    "device": false,
+    "sortId": 999,
+    "version": "0.0.3",
+    "extApiVersion": [
+        "1.0.2"
+    ],
+    "platform": [
+        "mblockpc",
+        "mblockweb",
+        "mblockapp"
+    ],
+    "homepage": "http://docs.makeblock.com/diy-platform/zh/mbuild/hardware/sensors/temperature-sensor.html",
+    "feature": []
+}

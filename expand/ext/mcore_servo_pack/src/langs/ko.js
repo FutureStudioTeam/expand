@@ -1,0 +1,21 @@
+export default {
+    "mcore_servo_pack": "서보 팩",
+    "extensionName": "서보 팩",
+    "extensionDescription": "당신의 mBot을 고양이로 바꾸세요. 주위를 둘러보고 밝게 비추고 춤을 춥니다.",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_PORT_0": "포트1",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_PORT_1": "포트2",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_PORT_2": "포트3",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_PORT_3": "포트4",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_LED_POSTION_0": "모두",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_LED_POSTION_1": "1",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_LED_POSTION_2": "2",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_LED_POSTION_3": "3",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_LED_POSTION_4": "4",
+    "mcore_show_external_led_time": "[ICON] RGB LED [PORT] [LED_POSTION] 에 [COLOR] 색으로 [TIME] 초간 켜기",
+    "mcore_show_external_led": "[ICON] RGB LED [PORT] [LED_POSTION] 에 [COLOR] 색으로 켜기",
+    "mcore_show_external_led_rgb": "[ICON] RGB LED [PORT] [LED_POSTION] 에 빨강 [R] 초록 [G] 파랑 [B] 색으로 켜기",
+    "MCORE_RUN_SERVO_SLOT_0": "슬롯1",
+    "MCORE_RUN_SERVO_SLOT_1": "슬롯2",
+    "mcore_run_servo": "[ICON] 서보모터 [PORT] [SLOT] 을(를) [DEGREE] 위치로 이동 ",
+    "CATEGORY_SERVO_PACK": "서보 팩"
+};

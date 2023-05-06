@@ -1,0 +1,65 @@
+{
+  "id": "microbit",
+  "iconURL": "microbit/imgs/f419438e99bc42e7b958dc5b0930badc.png",
+  "coverURL": "./res/f419438e99bc42e7b958dc5b0930badc.png",
+  "res": [
+    "./imgs"
+  ],
+  "name": {
+    "zh": "microbit",
+    "en": "microbit",
+    "de": "microbit",
+    "es": "microbit",
+    "fr": "microbit",
+    "id": "microbit",
+    "ja": "microbit",
+    "ja-jph": "microbit",
+    "ko": "microbit",
+    "pl": "microbit",
+    "uk": "microbit",
+    "zh-hant": "microbit",
+    "nl": "microbit",
+    "it": "microbit",
+    "hr": "microbit",
+    "ru": "microbit",
+    "pt": "microbit",
+    "fi": "microbit",
+    "tr": "microbit",
+    "tk": "microbit"
+  },
+  "description": {
+    "zh": "",
+    "de": "",
+    "es": "",
+    "fr": "",
+    "id": "",
+    "ja": "",
+    "ja-jph": "",
+    "ko": "",
+    "pl": "",
+    "uk": "",
+    "zh-hant": "",
+    "nl": "",
+    "it": "",
+    "hr": "",
+    "ru": "",
+    "pt": "",
+    "fi": "",
+    "tr": "",
+    "tk": ""
+  },
+  "main": "microbit/index.js",
+  "codeTypes": [
+    "python"
+  ],
+  "device": true,
+  "sortId": 999,
+  "version": "0.3.3",
+  "extApiVersion": [
+    "1.0.0"
+  ],
+  "platform": [
+    "mblockpc"
+  ],
+  "homepage": "http://www.mblock.cc/api-docs/_preview/mblock-5/zh/hardware-guide/hardware-guide.html"
+}

@@ -1,0 +1,71 @@
+{
+    "id": "novapi_mbuild_ir_transceiver",
+    "iconURL": "novapi_mbuild_ir_transceiver/imgs/3f40fc4c3e7b4f259b018c9a0fab11e3.png",
+    "coverURL": "./res/3f40fc4c3e7b4f259b018c9a0fab11e3.png",
+    "name": {
+        "zh": "红外收发模块",
+        "en": "IR Transceiver",
+        "de": "IR Transceiver",
+        "es": "IR Transceiver",
+        "fr": "IR Transceiver",
+        "id": "IR Transceiver",
+        "ja": "IR Transceiver",
+        "ja-jph": "IR Transceiver",
+        "ko": "IR Transceiver",
+        "pl": "IR Transceiver",
+        "uk": "IR Transceiver",
+        "zh-hant": "IR Transceiver",
+        "nl": "IR Transceiver",
+        "it": "IR Transceiver",
+        "hr": "IR Transceiver",
+        "ru": "IR Transceiver",
+        "pt": "IR Transceiver",
+        "fi": "IR Transceiver",
+        "tr": "IR Transceiver",
+        "tk": "IR Transceiver",
+        "fa": "IR Transceiver"
+    },
+    "description": {
+        "zh": "",
+        "en": "",
+        "de": "",
+        "es": "",
+        "fr": "",
+        "id": "",
+        "ja": "",
+        "ja-jph": "",
+        "ko": "",
+        "pl": "",
+        "uk": "",
+        "zh-hant": "",
+        "nl": "",
+        "it": "",
+        "hr": "",
+        "ru": "",
+        "pt": "",
+        "fi": "",
+        "tr": "",
+        "tk": "",
+        "fa": ""
+    },
+    "fromScratch3": false,
+    "targets": [
+        "novapi"
+    ],
+    "main": "novapi_mbuild_ir_transceiver/index.js",
+    "codeTypes": [
+        "python"
+    ],
+    "device": false,
+    "sortId": 999,
+    "version": "0.0.1",
+    "extApiVersion": [
+        "1.0.2"
+    ],
+    "platform": [
+        "mblockpc",
+        "mblockweb"
+    ],
+    "homepage": "http://docs.makeblock.com/diy-platform/zh/mbuild/hardware/communication/ir.html",
+    "feature": []
+}

@@ -1,0 +1,23 @@
+export default {
+    "mcore_variety_gizmos": "가젯 팩",
+    "extensionName": "가젯 팩",
+    "extensionDescription": "6개의 mBot 확장 프로젝트에서 로봇이나 장치를 이동하고 모양을 원하는 대로 바꿀 수 있는 방법을 배웁니다. ",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_PORT_0": "포트1",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_PORT_1": "포트2",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_PORT_2": "포트3",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_PORT_3": "포트4",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_LED_POSTION_0": "모두",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_LED_POSTION_1": "1",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_LED_POSTION_2": "2",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_LED_POSTION_3": "3",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_LED_POSTION_4": "4",
+    "mcore_show_external_led_time": "[ICON] RGB LED [PORT] [LED_POSTION] 에 [COLOR] 색으로 [TIME] 초간 켜기",
+    "mcore_show_external_led": "[ICON] RGB LED [PORT] [LED_POSTION] 에 [COLOR] 색으로 켜기 ",
+    "mcore_show_external_led_rgb": "[ICON] RGB LED [PORT][LED_POSTION] 에 빨강 [R] 초록 [G] 파랑 [B] 색으로 켜기",
+    "MCORE_RUN_SERVO_SLOT_0": "슬롯1",
+    "MCORE_RUN_SERVO_SLOT_1": "슬롯2",
+    "mcore_run_servo": "[ICON] 서보모터 [PORT] [SLOT] 을(를) [DEGREE] 위치로 이동 ",
+    "mcore_show_7segments_number": "[ICON] 7-세그먼트 디스플레이 [PORT] 번 [NUMBER] 숫자 출력 설정",
+    "mcore_event_limit_switch": "[ICON] 리미트 스위치 [PORT][SLOT] 번이 눌렸는가?",
+    "CATEGORY_VARITY": "가젯 "
+};

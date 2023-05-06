@@ -1,0 +1,21 @@
+export default {
+    "mcore_servo_pack": "Servo Pack",
+    "extensionName": "Servo Pack",
+    "extensionDescription": "Transforma o teu mBot num gato. Põe-no a dançar, olhar ao redor e iluminar.",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_PORT_0": "porta1",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_PORT_1": "porta2",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_PORT_2": "porta3",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_PORT_3": "porta4",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_LED_POSTION_0": "todos",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_LED_POSTION_1": "1",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_LED_POSTION_2": "2",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_LED_POSTION_3": "3",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_LED_POSTION_4": "4",
+    "mcore_show_external_led_time": "[ICON] LED RGB [PORT] ligado [LED_POSTION] com cor [COLOR] durante [TIME] segundo(s)",
+    "mcore_show_external_led": "[ICON] LED RGB [PORT] ligado [LED_POSTION]com cor [COLOR]",
+    "mcore_show_external_led_rgb": "[ICON] LED RGB [PORT] ligado [LED_POSTION] com cor vermelha [R] verde [G] azul [B]",
+    "MCORE_RUN_SERVO_SLOT_0": "ranhura1",
+    "MCORE_RUN_SERVO_SLOT_1": "ranhura2",
+    "mcore_run_servo": "[ICON] servo [PORT] [SLOT] posicionado no ângulo [DEGREE] ",
+    "CATEGORY_SERVO_PACK": "Servo Pack"
+};

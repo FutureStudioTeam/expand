@@ -1,0 +1,71 @@
+{
+  "id": "irremote",
+  "iconURL": "irremote/imgs/77f2e95f99434902aad0f34ce93d3243.png",
+  "coverURL": "./res/77f2e95f99434902aad0f34ce93d3243.png",
+  "res": [
+    "./imgs"
+  ],
+  "name": {
+    "zh": "红外遥控器",
+    "en": "IR Remote ",
+    "de": "IR-Fernbedienung ",
+    "es": "Mando a distancia infrarrojo ",
+    "fr": "Télécommande infrarouge ",
+    "id": "Remot IR ",
+    "ja": "赤外線リモコン ",
+    "ja-jph": "せきがいせんリモコン ",
+    "ko": "IR 리모컨 ",
+    "pl": "Pilot podczerwieni ",
+    "uk": "ІЧ пульт ",
+    "zh-hant": "紅外線遙控 ",
+    "nl": "IR afstandsbediening ",
+    "it": "Telecomando IR ",
+    "hr": "IR daljinski upravljač ",
+    "ru": "ИК-пульт ",
+    "pt": "Comando de infravermelhos ",
+    "fi": "IR-kaukosäädin ",
+    "tr": "Kızıl ötesi kumanda ",
+    "tk": "IG uzak aralykdan dolandyryjy "
+  },
+  "description": {
+    "zh": "定义自己专属的红外遥控器来操控程小奔吧~",
+    "en": "Custom your own IR remote. And use it to control Codey Rocky! ",
+    "de": "Konfigurieren Sie Ihre eigene Infrarot-Fernbedienung und steuern Sie Codey damit!",
+    "es": "Personaliza tu mando a distancia infrarrojo. ¡Y úsalo para controlar a Codey Rocky! ",
+    "fr": "Personnalisez votre télécommande Infrarouge. Et utilisez-la pour contrôler Codey Rocky ! ",
+    "id": "Kustom remot IR Anda sendiri. Dan gunakan untuk mengontrol Codey Rocky! ",
+    "ja": "赤外線リモコンをカスタマイズして、 Codey Rockyを制御します",
+    "ja-jph": "せきがいせんリモコンをカスタマイズして、 Codey Rockyをせいぎょします",
+    "ko": "사용자 지정 IR 리모컨을 이용해서 Codey Rocky를 조종할 수 있어요! ",
+    "pl": "Zaprogramuj własny pilot na podczerwień. I używaj go do sterowania codey Rocky! ",
+    "uk": "Налаштуйте ваш ІЧ-пульт і використовуйте його для управління Codey Rocky! ",
+    "zh-hant": "自訂紅外線遙控器。用它來控制Codey Rocky！ ",
+    "nl": "Pas uw eigen IR-afstandsbediening aan. En gebruik het om Codey Rocky te besturen! ",
+    "it": "Personalizza il tuo telecomando a infrarossi e usalo per controllare Codey Rocky! ",
+    "hr": "Prilagodi svoj vlastiti IR daljinski upravljač. I koristi ga za upravljanje s Codey Rocky! ",
+    "ru": "Создайте свой собственный ИК-пульт. Используйте его для управления Codey Rocky! ",
+    "pt": "Personaliza o teu próprio comando de infravermelhos. E usa-o para controlar o Codey Rocky! ",
+    "fi": "Kustomoi oma IR kaukosäätimesi. Käytä sitä Codey Rockyn ohjaamiseen! ",
+    "tr": "Kendi kızılötesi uzaktan kumandanız mı var? Codey Rocky'yi bununla kontrol edin! ",
+    "tk": "Öz IG uzak aralykdan dolandyryjyňyzy dörediň. Codey Rocky roboty dolandyrmak üçin mundan peýdalanyň! "
+  },
+  "targets": [
+    "codey"
+  ],
+  "main": "irremote/index.js",
+  "codeTypes": [
+    "python"
+  ],
+  "device": false,
+  "sortId": 999,
+  "version": "0.3.4",
+  "extApiVersion": [
+    "1.0.0"
+  ],
+  "platform": [
+    "mblockpc",
+    "mblockweb",
+    "mblockapp"
+  ],
+  "homepage": "http://www.mblock.cc/api-docs/_preview/mblock-5/zh/use-extensions/use-extensions.html"
+}

@@ -1,0 +1,80 @@
+{
+    "id": "halocode_upload_message",
+    "iconURL": "halocode_upload_message/imgs/6571baeb88d94f988a71f947c74bc440.png",
+    "coverURL": "./res/6571baeb88d94f988a71f947c74bc440.png",
+    "name": {
+        "zh": "上传模式广播",
+        "en": "Upload Mode Broadcast",
+        "de": "Upload Mode Broadcast",
+        "es": "Mensajes entre dispositivos",
+        "fr": "Diffusion en mode Téléversement",
+        "id": "Unggah mode Broadcast",
+        "ja": "アップロードモードのブロードキャスト",
+        "ja-jph": "アップロードモードのブロードキャスト",
+        "ko": "업로드 모드 브로드캐스트",
+        "pl": "Transmisja w trybie przesyłania",
+        "uk": "Транслювати в режимі завантаження",
+        "zh-hant": "上傳模式廣播",
+        "nl": "Broadcast-modus uploaden",
+        "it": "Modalità di upload broadcast",
+        "hr": "Emitiranje načina prijenosa",
+        "ru": "Загрузить режим трансляции",
+        "pt": "Transmissão do modo de upload",
+        "fi": "Lähetä lähetystapa",
+        "tr": "Yükleme Modu Yayını",
+        "tk": "Ýükläp ugradyş düzgüninde ýaýlyma bermek",
+        "ar": "بث وضع التحميل",
+        "ca": "Emissió del mode de pujada",
+        "cs": "Vysílání v režimu nahrávání",
+        "fa": "پخش حالت آپلود",
+        "vi": "Phát sóng chế độ tải lên"
+    },
+    "description": {
+        "zh": "",
+        "en": "",
+        "de": "",
+        "es": "",
+        "fr": "",
+        "id": "",
+        "ja": "",
+        "ja-jph": "",
+        "ko": "",
+        "pl": "",
+        "uk": "",
+        "zh-hant": "",
+        "nl": "",
+        "it": "",
+        "hr": "",
+        "ru": "",
+        "pt": "",
+        "fi": "",
+        "tr": "",
+        "tk": "",
+        "ar": "",
+        "ca": "",
+        "cs": "",
+        "fa": "",
+        "vi": ""
+    },
+    "fromScratch3": false,
+    "targets": [
+        "haloboard"
+    ],
+    "main": "halocode_upload_message/index.js",
+    "codeTypes": [
+        "python"
+    ],
+    "device": false,
+    "sortId": 999,
+    "version": "0.0.6",
+    "extApiVersion": [
+        "1.0.2"
+    ],
+    "platform": [
+        "mblockpc",
+        "mblockweb",
+        "mblockapp"
+    ],
+    "homepage": "http://www.mblock.cc/api-docs/_preview/mblock-5/zh/use-extensions/use-extensions.html",
+    "feature": []
+}

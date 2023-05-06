@@ -1,0 +1,76 @@
+{
+    "id": "megapipro_24gjoystickcontroller",
+    "iconURL": "megapipro_24gjoystickcontroller/imgs/3d9f8f9d2a1841fba3df5b228ae69f27.png",
+    "coverURL": "./res/3d9f8f9d2a1841fba3df5b228ae69f27.png",
+    "name": {
+        "zh": "2.4G无线手柄",
+        "en": "2.4G Wireless Controller",
+        "de": "2.4G Wireless Controller",
+        "es": "2.4G Wireless Controller",
+        "fr": "2.4G Wireless Controller",
+        "id": "2.4G Wireless Controller",
+        "ja": "2.4G Wireless Controller",
+        "ja-jph": "2.4G Wireless Controller",
+        "ko": "2.4G Wireless Controller",
+        "pl": "2.4G Wireless Controller",
+        "uk": "2.4G Wireless Controller",
+        "zh-hant": "2.4G Wireless Controller",
+        "nl": "2.4G Wireless Controller",
+        "it": "2.4G Wireless Controller",
+        "hr": "2.4G Wireless Controller",
+        "ru": "2.4G Wireless Controller",
+        "pt": "2.4G Wireless Controller",
+        "fi": "2.4G Wireless Controller",
+        "tr": "2.4G Wireless Controller",
+        "tk": "2.4G Wireless Controller",
+        "ca": "2.4G Wireless Controller",
+        "cs": "2.4G Wireless Controller",
+        "fa": "2.4G Wireless Controller",
+        "vi": "2.4G Wireless Controller"
+    },
+    "description": {
+        "zh": "用2.4G无线手柄玩转你的设备",
+        "en": "Use the 2.4G wireless controller to make your robot do whatever you would like.",
+        "de": "Use the 2.4G wireless controller to make your robot do whatever you would like.",
+        "es": "Use the 2.4G wireless controller to make your robot do whatever you would like.",
+        "fr": "Use the 2.4G wireless controller to make your robot do whatever you would like.",
+        "id": "Use the 2.4G wireless controller to make your robot do whatever you would like.",
+        "ja": "Use the 2.4G wireless controller to make your robot do whatever you would like.",
+        "ja-jph": "Use the 2.4G wireless controller to make your robot do whatever you would like.",
+        "ko": "Use the 2.4G wireless controller to make your robot do whatever you would like.",
+        "pl": "Use the 2.4G wireless controller to make your robot do whatever you would like.",
+        "uk": "Use the 2.4G wireless controller to make your robot do whatever you would like.",
+        "zh-hant": "Use the 2.4G wireless controller to make your robot do whatever you would like.",
+        "nl": "Use the 2.4G wireless controller to make your robot do whatever you would like.",
+        "it": "Use the 2.4G wireless controller to make your robot do whatever you would like.",
+        "hr": "Use the 2.4G wireless controller to make your robot do whatever you would like.",
+        "ru": "Use the 2.4G wireless controller to make your robot do whatever you would like.",
+        "pt": "Use the 2.4G wireless controller to make your robot do whatever you would like.",
+        "fi": "Use the 2.4G wireless controller to make your robot do whatever you would like.",
+        "tr": "Use the 2.4G wireless controller to make your robot do whatever you would like.",
+        "tk": "Use the 2.4G wireless controller to make your robot do whatever you would like.",
+        "ca": "Use the 2.4G wireless controller to make your robot do whatever you would like.",
+        "cs": "Use the 2.4G wireless controller to make your robot do whatever you would like.",
+        "fa": "Use the 2.4G wireless controller to make your robot do whatever you would like.",
+        "vi": "Use the 2.4G wireless controller to make your robot do whatever you would like."
+    },
+    "targets": [
+        "megapipro"
+    ],
+    "main": "megapipro_24gjoystickcontroller/index.js",
+    "codeTypes": [
+        "arduinoc"
+    ],
+    "device": false,
+    "sortId": 999,
+    "version": "1.0.0",
+    "extApiVersion": [
+        "1.0.0"
+    ],
+    "platform": [
+        "mblockpc",
+        "mblockweb"
+    ],
+    "homepage": "http://www.mblock.cc/api-docs/_preview/mblock-5/zh/use-extensions/use-extensions.html",
+    "feature": []
+}

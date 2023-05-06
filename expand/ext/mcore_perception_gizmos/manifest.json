@@ -1,0 +1,78 @@
+{
+    "id": "mcore_perception_gizmos",
+    "iconURL": "mcore_perception_gizmos/imgs/06c59c0bffa44b3e9f0c614c4f09917f.png",
+    "coverURL": "./res/06c59c0bffa44b3e9f0c614c4f09917f.png",
+    "name": {
+        "zh": "感知小发明",
+        "en": "Sensing Gizmos",
+        "de": "Gizmos erkennen",
+        "es": "Aparatos de detección",
+        "fr": "Gadgets de détection",
+        "id": "Mendeteksi Gawai",
+        "ja": "センシングギズモ",
+        "ja-jph": "センシングギズモ",
+        "ko": "Sensing Gizmos",
+        "pl": "Perception Gizmos",
+        "uk": "Гаджети сприйняття",
+        "zh-hant": "感知小發明",
+        "nl": "Detecterende snufjes",
+        "it": "Sensing Gizmos",
+        "hr": "Osjećajući Gizmos",
+        "ru": "Сенсорные устройства",
+        "pt": "Aparelhos sensoriais",
+        "fi": "Sensing Gizmos",
+        "tr": "Zımbırtı Algılandı",
+        "tk": "Duýujy enjamlar",
+        "ca": "Dallonses de detecció",
+        "cs": "Snímání Gizmos",
+        "fa": "وسایل سنجش",
+        "vi": "Cảm biến Gizmos"
+    },
+    "description": {
+        "zh": "包含5个mBot的扩展案例，丰富的传感器应用案例，非常适合学习电子知识。",
+        "en": "In the 5 mBot extension projects, you can access a variety of examples that help you learn how to use sensors and master the basics of electronics.",
+        "de": "In den fünf mBot-Erweiterungs Projekten können Sie auf eine Vielzahl von Beispielen zugreifen, die Ihnen helfen, den Umgang mit Sensoren zu erlernen und die Grundlagen der Elektronik zu beherrschen.",
+        "es": "En los 5 proyectos de extensión para mBot, puedes consultar varios ejemplos que te ayudarán a aprender cómo se usan los sensores y a dominar los fundamentos de la electrónica.",
+        "fr": "Dans les 5 projets d'extension mBot, vous pouvez accéder à une variété d'exemples qui vous aident à apprendre à utiliser des capteurs et maîtriser les bases de l'électronique.",
+        "id": "Dalam proyek ekstensi mBot 5, Anda dapat mengakses berbagai contoh yang membantu Anda mempelajari bagaimana cara menggunakan sensor dan menguasai dasar dari elektronik.",
+        "ja": "5つのmBot拡張プロジェクトでは、センサーの使い方や電子の基本を学習できるなど、様々な例にアクセスすることができます。",
+        "ja-jph": "5つのmBotかくちょうプロジェクトでは、センサーのつかいかたやでんしのきほんをがくしゅうできるなど、さまざまなれいにアクセスすることができます。",
+        "ko": "5개의 mBot 확장 프로젝트에서는 센서 사용 방법과 전자 제품의 기본 사항을 숙지하는 데 도움이 되는 다양한 예제에 체험할 수 있습니다.",
+        "pl": "Zestaw dodatkowych elementów do mBota i Rangera. Zawiera m.in. silnik DC z wentylatorem, czujnik dźwięku, temperatury, potencjometr i przykłady ich zastosowania. Pozwala na tworzenie bardziej rozbudowanych projektów.",
+        "uk": "У 5 проектах розширення mBot можна отримати доступ до різноманітних винаходів, які допоможуть вам навчитися використовувати датчики та зрозуміти основи електроніки.",
+        "zh-hant": "在 mBot 擴展專案中, 您可以透過各種範例幫助您瞭解如何使用感測器，並且掌握電子模組的知識。",
+        "nl": "In de 5 mBot extensieprojecten heb je toegang tot een verscheidenheid aan voorbeelden die je helpen leren hoe je sensoren moet gebruiken en de basisprincipes van elektronica te beheersen.",
+        "it": "Nei 5 progetti di estensione mBot, si può accedere a vari esempi per imparare a utilizzare i sensori e padroneggiare le basi dell'elettronica.",
+        "hr": "U 5 projekata sa mBot ekstenzijama, možeš pristupiti raznim primjerima koji ti mogu pomoći kako korisititi senzore i naučiti osnove elektronike.",
+        "ru": "В 5 проектах расширения для mBot можно найти множество примеров использования датчиков и отточить свои базовые знания электроники.",
+        "pt": "Nos projetos de extensão 5 mBot, podes aceder a uma variedade de exemplos que te ajudam a aprender em como usar os sensores e a dominar os conceitos básicos de electrónica.",
+        "fi": "5 mBot-laajennushankkeissa voit käyttää erilaisia esimerkkejä, joiden avulla voit oppia käyttämään antureita ja hallitsemaan elektroniikan perusasiat.",
+        "tr": "5 mBot genişleme projelerinde, algılayıcılarla elektronik temellerini öğrenmenize yardımcı olacak çeşitli örneklere erişebilirsiniz.",
+        "tk": "Bäş sany mBot giňeldiş taslamalarynda size duýujy enjamlardan peýdalanmaga we öz başlangyç elektronika bilimiňizi kämilleşdirmäge kömek edýän dürli görnüşli nusgalar elýeterlidir.",
+        "ca": "En els projectes d'ampliació de 5 mBot hi ha una varietat d'exemples que t'ajuden a aprendre com utilitzar sensors i a dominar els fonaments de l'electrònica.",
+        "cs": "V projektech rozšíření 5 mBot máte přístup k řadě příkladů, které vám pomohou naučit se používat senzory a ovládnout základy elektroniky.",
+        "fa": "در 5 پروژه توسعه mBot ، شما به انواع مثال هایی که به شما در یادگیری نحوه بکارگیری سنسورها و اصول اولیه الکترونیکی کمک می کند، دسترسی دارید.",
+        "vi": "Trong các dự án mở rộng 5 mBot, bạn có thể truy cập nhiều ví dụ khác nhau giúp bạn tìm hiểu cách sử dụng cảm biến và làm chủ những điều cơ bản của thiết bị điện tử."
+    },
+    "fromScratch3": false,
+    "targets": [
+        "mcore"
+    ],
+    "main": "mcore_perception_gizmos/index.js",
+    "codeTypes": [
+        "arduinoc"
+    ],
+    "device": false,
+    "sortId": 999,
+    "version": "0.4.1",
+    "extApiVersion": [
+        "1.0.0"
+    ],
+    "platform": [
+        "mblockpc",
+        "mblockweb",
+        "mblockapp"
+    ],
+    "homepage": "http://www.mblock.cc/api-docs/_preview/mblock-5/zh/use-extensions/use-extensions.html",
+    "feature": []
+}

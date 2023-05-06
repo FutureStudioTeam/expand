@@ -1,0 +1,78 @@
+{
+    "id": "mcore_light_sound",
+    "iconURL": "mcore_light_sound/imgs/8e0e1a2dc5a141ba8c0392319781acfd.png",
+    "coverURL": "./res/8e0e1a2dc5a141ba8c0392319781acfd.png",
+    "name": {
+        "zh": "声光互动",
+        "en": "Light Sound",
+        "de": "Licht & Sound",
+        "es": "Luz y Sonido",
+        "fr": "Son et lumière",
+        "id": "Suara Cahaya",
+        "ja": "光・音",
+        "ja-jph": "ひかり・おと",
+        "ko": "빛과 소리",
+        "pl": "Światło i dźwięk",
+        "uk": "Світло-звукове шоу",
+        "zh-hant": "聲光互動",
+        "nl": "Licht Geluid",
+        "it": "Luce - suono",
+        "hr": "Lagani zvuk",
+        "ru": "Свет и звук",
+        "pt": "Luz e Som",
+        "fi": "Kevyt ääni",
+        "tr": "Işık Ses",
+        "tk": "Yşyk & Ses",
+        "ca": "Llum i So",
+        "cs": "Světlo a zvuk",
+        "fa": "صدا نور",
+        "vi": "Ánh sáng & âm thanh"
+    },
+    "description": {
+        "zh": "通过搭建“追光机器人”、“蝎子机器人”和“智能声控台灯”，体验mBot神奇多变的声光互动效果。",
+        "en": "Give your mBot lights and sounds effects by building Light-chasing Robot, Scorpion Robot and Smart Lamp.",
+        "de": "Nutzen Sie die Licht- und Soundeffekte des mBot und verwandeln Sie ihn in einen Lichtverfolgungs-Roboter, Skorpion oder eine intelligente Lampe.",
+        "es": "Añade luces y sonidos a tu mBot construyendo el robot que busca la luz, el robot escorpión y la lámpara inteligente.",
+        "fr": "Donnez à votre mbot des effets de sons et lumières en construisant le Robot chasseur de lumière, le robot Scorpion et la lampe intelligente.",
+        "id": "Berikan mBot Anda efek cahaya dan suara dengan menciptakan Robot Pengejar Cahaya, Robot Kalajengking dan Lampu Cerdas.",
+        "ja": "光追いかけロボット、サソリロボット、知能ランプを構築することによって、mBotに光や音声効果を加えます。",
+        "ja-jph": "ひかりおいかけロボット、サソリロボット、ちのうランプをこうちくすることによって、mBotにひかりやおんせいこうかをくわえます。",
+        "ko": "라이트 체이싱 로봇, 스콜피온 로봇 및 스마트 램프는 mBot의 조명과 사운드 효과를 제공합니다.",
+        "pl": "Rozbuduj mBota o dodatkowe czujniki światła, czujnik dźwięku i moduł z diodami LED. Zbuduj robota podążającego za światłem, robota reagującego na dźwięk lub inteligentną lampkę.",
+        "uk": "Наділіть вашого mBot світло-звуковими ефектами побудувавши з нього Робота-переслідувача, Робота-Скорпіона і Розумну лампу.",
+        "zh-hant": "透過組裝追光機器人，蝎子機器人和智能枱燈，讓您的mBot展現出更多的聲光效果。",
+        "nl": "Geef je mBot licht- en geluidseffecten door het bouwen van een licht-jagende robot, Scorpion Robot of een Smart Lamp.",
+        "it": "Aggiungete luci e suoni effetti al vostro mBot costruendo il robot cacciatore di luce, lo Scorpion robot e la Smart lamp.",
+        "hr": "Dajte svojem mBotu svijetlosne i zvučne efekte gradnjom robota koji lovi svijetlo, robota škorpiona i pametne lampe.",
+        "ru": "Придайте своему mBot свето-звуковые эффекты. Постройте робота, гоняющегося за светом, робота-скорпиона и умную лампу.",
+        "pt": "Dá ao teu mBot luzes e efeitos sonoros ao construir o Robô Perseguidor de Luz, o Robô Escorpião e a Lâmpada inteligente.",
+        "fi": "Anna mBot-valot ja äänet vaikutuksia rakentamalla Light-chasing Robot, Scorpion Robot ja Smart Lamp.",
+        "tr": "Işık Takip Robotu, Akrep Robotu ve Akıllı Lamba ile mBot'a ışık ve ses efektleri verin.",
+        "tk": "Öz mBot robotyňyza yşyk we ses täsirlerini beriň. Yşyk yzarlaýan robot, Içýan robot we akylly çyra robotlaryny guruň.",
+        "ca": "Dóna al mBot llums i efectes de so construint un robot que acaça la llum, un robot escorpí o un llum espavilat.",
+        "cs": "Přidejte svému mBotu světla a zvuky, a to tak, že budete stavět robota, který pronásleduje robota, Scorpion robota a Smart lampu.",
+        "fa": "با ساخت ربات های تعقیب نور ،ربات عقرب و لامپ هوشمند ، به ام بات خود جلوه های تصویری و نوری اضافه کنید.",
+        "vi": "Cung cấp cho đèn mBot của bạn và hiệu ứng âm thanh bằng việc xây dựng ánh sáng-Chasing robot, robot Scorpion và đèn thông minh."
+    },
+    "fromScratch3": false,
+    "targets": [
+        "mcore"
+    ],
+    "main": "mcore_light_sound/index.js",
+    "codeTypes": [
+        "arduinoc"
+    ],
+    "device": false,
+    "sortId": 999,
+    "version": "0.4.1",
+    "extApiVersion": [
+        "1.0.0"
+    ],
+    "platform": [
+        "mblockpc",
+        "mblockweb",
+        "mblockapp"
+    ],
+    "homepage": "http://www.mblock.cc/api-docs/_preview/mblock-5/zh/use-extensions/use-extensions.html",
+    "feature": []
+}

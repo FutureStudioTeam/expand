@@ -1,0 +1,21 @@
+export default {
+    "halocode_mbuild_pirsensor": "热运动传感器",
+    "extensionName": "热运动传感器",
+    "extensionDescription": "",
+    "EVENT_PIR_INDEX_0": "1",
+    "EVENT_PIR_INDEX_1": "2",
+    "EVENT_PIR_INDEX_2": "3",
+    "EVENT_PIR_INDEX_3": "4",
+    "EVENT_PIR_INDEX_4": "5",
+    "EVENT_PIR_INDEX_5": "6",
+    "EVENT_PIR_INDEX_6": "7",
+    "EVENT_PIR_INDEX_7": "8",
+    "event_pir": "热运动传感器 [index]  检测到热运动？",
+    "pir_count": "热运动传感器 [index] 检测到热运动的次数",
+    "pir_count_make_zero": "热运动传感器 [index] 重置检测到热运动的次数",
+    "cate_7477652c": "热运动传感器",
+    "BLOCK_1547779213407": "第[ID]个 舵机控制板设置角度 为 [angle]  (°)",
+    "BLOCK_1547779701469": "第 [ID]  个 扬声器播放 [audio]",
+    "BLOCK_1547779887637": "第 [ID]  个扬声器 播放自定义音频 [filename] 直到结束",
+    "BLOCK_1547781171854": "第 [ID] 个 扬声器 设置音量为 [volume]  %"
+};

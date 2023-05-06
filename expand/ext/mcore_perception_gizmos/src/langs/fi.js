@@ -1,0 +1,21 @@
+export default {
+    "mcore_perception_gizmos": "Sensing Gizmos",
+    "extensionName": "Sensing Gizmos",
+    "extensionDescription": "5 mBot-laajennushankkeissa voit käyttää erilaisia esimerkkejä, joiden avulla voit oppia käyttämään antureita ja hallitsemaan elektroniikan perusasiat.",
+    "MCORE_RUN_FAN_PORT_0": "port1",
+    "MCORE_RUN_FAN_PORT_1": "portti2",
+    "MCORE_RUN_FAN_PORT_2": "portti3",
+    "MCORE_RUN_FAN_PORT_3": "portti4",
+    "MCORE_RUN_FAN_FAN_ROTATE_0": "myötäpäivään",
+    "MCORE_RUN_FAN_FAN_ROTATE_1": "vastapäivään",
+    "MCORE_RUN_FAN_FAN_ROTATE_2": "pysäytä",
+    "mcore_run_fan": "[ICON] tuuletin [PORT] [FAN_ROTATE] pyörii",
+    "MCORE_DETECT_EXTERNAL_LOUDNESS_PORT_0": "portti3",
+    "MCORE_DETECT_EXTERNAL_LOUDNESS_PORT_1": "portti4",
+    "mcore_detect_external_loudness": "[ICON] äänisensori [PORT] voimakkuus",
+    "MCORE_DETEC_TEMPERATURE_SLOT_0": "aukko 1",
+    "MCORE_DETEC_TEMPERATURE_SLOT_1": "aukko 2",
+    "mcore_detec_temperature": "[ICON]lämpötila anturi [PORT][SLOT] astetta(℃)",
+    "mcore_detect_potentiometer": "[ICON] Potentiometri [PORT] arvo",
+    "CATEGORY_PERCEPTION": "Gizmot"
+};

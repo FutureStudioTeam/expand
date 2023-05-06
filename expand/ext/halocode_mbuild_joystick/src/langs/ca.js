@@ -1,0 +1,22 @@
+export default {
+    "halocode_mbuild_joystick": "Palanca de control",
+    "extensionName": "Palanca de control",
+    "extensionDescription": "",
+    "BLOCK_1559707965944_INDEX_0": "1",
+    "BLOCK_1559707965944_INDEX_1": "2",
+    "BLOCK_1559707965944_INDEX_2": "3",
+    "BLOCK_1559707965944_INDEX_3": "4",
+    "BLOCK_1559707965944_INDEX_4": "5",
+    "BLOCK_1559707965944_INDEX_5": "6",
+    "BLOCK_1559707965944_INDEX_6": "7",
+    "BLOCK_1559707965944_INDEX_7": "8",
+    "BLOCK_1559707965944_DIR_0": "cap amunt",
+    "BLOCK_1559707965944_DIR_1": "cap avall",
+    "BLOCK_1559707965944_DIR_2": "cap a l'esquerra",
+    "BLOCK_1559707965944_DIR_3": "cap a la dreta",
+    "BLOCK_1559707965944": "s'ha sacsejat la palanca de control [index] [dir]?",
+    "BLOCK_1559708436297_AXIS_0": "eix x",
+    "BLOCK_1559708436297_AXIS_1": "eix y",
+    "BLOCK_1559708436297": "valor de l'[axis] de la palanca de control [index]",
+    "cate_38b05160": "Palanca de control"
+};

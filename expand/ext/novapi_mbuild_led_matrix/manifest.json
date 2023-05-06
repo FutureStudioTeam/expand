@@ -1,0 +1,71 @@
+{
+    "id": "novapi_mbuild_led_matrix",
+    "iconURL": "novapi_mbuild_led_matrix/imgs/cd672916c79d4ed1938008e6679a0fba.png",
+    "coverURL": "./res/cd672916c79d4ed1938008e6679a0fba.png",
+    "name": {
+        "zh": "LED 点阵",
+        "en": "8×16 LED Matrix",
+        "de": "8×16 LED Matrix",
+        "es": "8×16 LED Matrix",
+        "fr": "8×16 LED Matrix",
+        "id": "8×16 LED Matrix",
+        "ja": "8×16 LED Matrix",
+        "ja-jph": "8×16 LED Matrix",
+        "ko": "8×16 LED Matrix",
+        "pl": "8×16 LED Matrix",
+        "uk": "8×16 LED Matrix",
+        "zh-hant": "8×16 LED Matrix",
+        "nl": "8×16 LED Matrix",
+        "it": "8×16 LED Matrix",
+        "hr": "8×16 LED Matrix",
+        "ru": "8×16 LED Matrix",
+        "pt": "8×16 LED Matrix",
+        "fi": "8×16 LED Matrix",
+        "tr": "8×16 LED Matrix",
+        "tk": "8×16 LED Matrix",
+        "fa": "8×16 LED Matrix"
+    },
+    "description": {
+        "zh": "",
+        "en": "",
+        "de": "",
+        "es": "",
+        "fr": "",
+        "id": "",
+        "ja": "",
+        "ja-jph": "",
+        "ko": "",
+        "pl": "",
+        "uk": "",
+        "zh-hant": "",
+        "nl": "",
+        "it": "",
+        "hr": "",
+        "ru": "",
+        "pt": "",
+        "fi": "",
+        "tr": "",
+        "tk": "",
+        "fa": ""
+    },
+    "fromScratch3": false,
+    "targets": [
+        "novapi"
+    ],
+    "main": "novapi_mbuild_led_matrix/index.js",
+    "codeTypes": [
+        "python"
+    ],
+    "device": false,
+    "sortId": 999,
+    "version": "0.0.2",
+    "extApiVersion": [
+        "1.0.2"
+    ],
+    "platform": [
+        "mblockpc",
+        "mblockweb"
+    ],
+    "homepage": "http://docs.makeblock.com/diy-platform/zh/mbuild/hardware/display/led-matrix.html",
+    "feature": []
+}

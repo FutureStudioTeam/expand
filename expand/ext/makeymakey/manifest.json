@@ -1,0 +1,75 @@
+{
+    "id": "makeymakey",
+    "iconURL": "makeymakey/imgs/53b6655604c74e49983aa88a6125f03d.png",
+    "coverURL": "./res/53b6655604c74e49983aa88a6125f03d.png",
+    "name": {
+        "zh": "组合按键",
+        "en": "Makey Makey",
+        "de": "Makey Makey",
+        "es": "Makey Makey",
+        "fr": "Makey Makey",
+        "id": "Makey Makey",
+        "ja": "Makey Makey",
+        "ja-jph": "Makey Makey",
+        "ko": "Makey Makey",
+        "pl": "Makey Makey",
+        "uk": "Makey Makey",
+        "zh-hant": "Makey Makey",
+        "nl": "Makey Makey",
+        "it": "Makey Makey",
+        "hr": "Makey Makey",
+        "ru": "Makey Makey",
+        "pt": "Makey Makey",
+        "fi": "Makey Makey",
+        "tr": "Makey Makey",
+        "tk": "Makey Makey",
+        "fa": "Makey Makey",
+        "vi": "Makey Makey"
+    },
+    "description": {
+        "zh": "把任何东西变成按键。",
+        "en": "Make anything into a key.",
+        "de": "Make anything into a key.",
+        "es": "Make anything into a key.",
+        "fr": "Make anything into a key.",
+        "id": "Make anything into a key.",
+        "ja": "Make anything into a key.",
+        "ja-jph": "Make anything into a key.",
+        "ko": "Make anything into a key.",
+        "pl": "Make anything into a key.",
+        "uk": "Make anything into a key.",
+        "zh-hant": "Make anything into a key.",
+        "nl": "Make anything into a key.",
+        "it": "Make anything into a key.",
+        "hr": "Make anything into a key.",
+        "ru": "Make anything into a key.",
+        "pt": "Make anything into a key.",
+        "fi": "Make anything into a key.",
+        "tr": "Make anything into a key.",
+        "tk": "Make anything into a key.",
+        "fa": "Make anything into a key.",
+        "vi": "Make anything into a key."
+    },
+    "fromScratch3": true,
+    "targets": [
+        "sprites"
+    ],
+    "main": "makeymakey/index.js",
+    "device": false,
+    "sortId": 999,
+    "version": "0.3.4",
+    "extApiVersion": [
+        "1.0.0",
+        "1.0.1",
+        "1.0.2",
+        "1.0.3"
+    ],
+    "platform": [
+        "mblockweb",
+        "mblockpc"
+    ],
+    "homepage": "http://www.mblock.cc/api-docs/_preview/mblock-5/zh/use-extensions/use-extensions.html",
+    "feature": [
+        "worker"
+    ]
+}

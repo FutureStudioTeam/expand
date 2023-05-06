@@ -1,0 +1,79 @@
+{
+    "id": "halocode_mbuild_angle_sensor",
+    "iconURL": "halocode_mbuild_angle_sensor/imgs/cab322301a644b1488d55f92727b8306.png",
+    "coverURL": "./res/cab322301a644b1488d55f92727b8306.png",
+    "name": {
+        "zh": "角度传感器",
+        "en": "Angle Sensor",
+        "de": "Winkelsensor",
+        "es": "Sensor de ángulo",
+        "fr": "Capteur d'angle",
+        "id": "Sensor sudut",
+        "ja": "角度センサー",
+        "ja-jph": "かくどセンサー",
+        "ko": "각도 센서",
+        "pl": "Czujnik kątowy",
+        "uk": "Датчик кута нахилу",
+        "zh-hant": "角度感測器",
+        "nl": "Hoek sensor",
+        "it": "Sensore ad angolo",
+        "hr": "Senzor kuta",
+        "ru": "Датчик угла",
+        "pt": "Sensor de ângulo",
+        "fi": "Kulman tunnistin",
+        "tr": "Açı Sensörü",
+        "tk": "Burçlary duýujy enjam",
+        "ca": "Sensor d'angle",
+        "cs": "Úhlový senzor",
+        "fa": "سنسور زاویه",
+        "vi": "Cảm biến góc"
+    },
+    "description": {
+        "zh": "",
+        "en": "",
+        "de": "",
+        "es": "",
+        "fr": "",
+        "id": "",
+        "ja": "",
+        "ja-jph": "",
+        "ko": "",
+        "pl": "",
+        "uk": "",
+        "zh-hant": "",
+        "nl": "",
+        "it": "",
+        "hr": "",
+        "ru": "",
+        "pt": "",
+        "fi": "",
+        "tr": "",
+        "tk": "",
+        "ca": "",
+        "cs": "",
+        "fa": "",
+        "vi": ""
+    },
+    "fromScratch3": false,
+    "targets": [
+        "haloboard",
+        "cyberpi"
+    ],
+    "main": "halocode_mbuild_angle_sensor/index.js",
+    "codeTypes": [
+        "python"
+    ],
+    "device": false,
+    "sortId": 999,
+    "version": "0.0.2",
+    "extApiVersion": [
+        "1.0.2"
+    ],
+    "platform": [
+        "mblockpc",
+        "mblockweb",
+        "mblockapp"
+    ],
+    "homepage": "http://docs.makeblock.com/diy-platform/zh/mbuild/hardware/interaction/angle-sensor.html",
+    "feature": []
+}

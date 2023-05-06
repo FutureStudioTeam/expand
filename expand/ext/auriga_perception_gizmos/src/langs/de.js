@@ -1,0 +1,20 @@
+export default {
+    "auriga_perception_gizmos": "Gizmos erkennen",
+    "extensionName": "Gizmos erkennen",
+    "extensionDescription": "In den 2 mBot Ranger-Erweiterungs Projekten lernen Sie, wie Sie Sensoren im Alltag einsetzen und ein besseres Verständnis von Elektronik gewinnen. ",
+    "AURIGA_RUN_FAN_PORT_0": "Port6",
+    "AURIGA_RUN_FAN_PORT_1": "Port7",
+    "AURIGA_RUN_FAN_PORT_2": "Port8",
+    "AURIGA_RUN_FAN_PORT_3": "Port9",
+    "AURIGA_RUN_FAN_PORT_4": "Port10",
+    "AURIGA_RUN_FAN_FAN_ROTATE_0": "Im uhrzeigersinn",
+    "AURIGA_RUN_FAN_FAN_ROTATE_1": "Schleusenweise",
+    "AURIGA_RUN_FAN_FAN_ROTATE_2": "Stoppen",
+    "auriga_run_fan": "[ICON]Fan [PORT] [FAN_ROTATE] Dreht",
+    "auriga_detect_external_loudness": "[ICON] Schallsensor [PORT] Lautstärke",
+    "AURIGA_DETEC_TEMPERATURE_SLOT_0": "slot1",
+    "AURIGA_DETEC_TEMPERATURE_SLOT_1": "slot2",
+    "auriga_detec_temperature": "[ICON]Temperatursensor [PORT] [SLOT] Temperatur (° C)",
+    "auriga_detect_potentiometer": "[ICON] Potentiometer[PORT] Wert",
+    "CATEGORY_PERCEPTION": "Gizmos erkennen"
+};

@@ -1,0 +1,80 @@
+{
+    "id": "cyberpi_upload_message",
+    "iconURL": "cyberpi_upload_message/imgs/6571baeb88d94f988a71f947c74bc440.png",
+    "coverURL": "./res/6571baeb88d94f988a71f947c74bc440.png",
+    "name": {
+        "zh": "上传模式广播",
+        "en": "Upload Mode Broadcast",
+        "de": "Upload Mode Broadcast",
+        "es": "Upload Mode Broadcast",
+        "fr": "Upload Mode Broadcast",
+        "id": "Upload Mode Broadcast",
+        "ja": "Upload Mode Broadcast",
+        "ja-jph": "Upload Mode Broadcast",
+        "ko": "Upload Mode Broadcast",
+        "pl": "Upload Mode Broadcast",
+        "uk": "Upload Mode Broadcast",
+        "zh-hant": "Upload Mode Broadcast",
+        "nl": "Upload Mode Broadcast",
+        "it": "Upload Mode Broadcast",
+        "hr": "Upload Mode Broadcast",
+        "ru": "Upload Mode Broadcast",
+        "pt": "Upload Mode Broadcast",
+        "fi": "Upload Mode Broadcast",
+        "tr": "Upload Mode Broadcast",
+        "tk": "Upload Mode Broadcast",
+        "ar": "Upload Mode Broadcast",
+        "ca": "Upload Mode Broadcast",
+        "cs": "Upload Mode Broadcast",
+        "fa": "Upload Mode Broadcast",
+        "vi": "Upload Mode Broadcast"
+    },
+    "description": {
+        "zh": "https://www.mblock.cc/api-docs/_preview/mblock-5/zh/use-extensions/use-extensions.html",
+        "en": "https://www.mblock.cc/api-docs/_preview/mblock-5/zh/use-extensions/use-extensions.html",
+        "de": "https://www.mblock.cc/api-docs/_preview/mblock-5/zh/use-extensions/use-extensions.html",
+        "es": "https://www.mblock.cc/api-docs/_preview/mblock-5/zh/use-extensions/use-extensions.html",
+        "fr": "https://www.mblock.cc/api-docs/_preview/mblock-5/zh/use-extensions/use-extensions.html",
+        "id": "https://www.mblock.cc/api-docs/_preview/mblock-5/zh/use-extensions/use-extensions.html",
+        "ja": "https://www.mblock.cc/api-docs/_preview/mblock-5/zh/use-extensions/use-extensions.html",
+        "ja-jph": "https://www.mblock.cc/api-docs/_preview/mblock-5/zh/use-extensions/use-extensions.html",
+        "ko": "https://www.mblock.cc/api-docs/_preview/mblock-5/zh/use-extensions/use-extensions.html",
+        "pl": "https://www.mblock.cc/api-docs/_preview/mblock-5/zh/use-extensions/use-extensions.html",
+        "uk": "https://www.mblock.cc/api-docs/_preview/mblock-5/zh/use-extensions/use-extensions.html",
+        "zh-hant": "https://www.mblock.cc/api-docs/_preview/mblock-5/zh/use-extensions/use-extensions.html",
+        "nl": "https://www.mblock.cc/api-docs/_preview/mblock-5/zh/use-extensions/use-extensions.html",
+        "it": "https://www.mblock.cc/api-docs/_preview/mblock-5/zh/use-extensions/use-extensions.html",
+        "hr": "https://www.mblock.cc/api-docs/_preview/mblock-5/zh/use-extensions/use-extensions.html",
+        "ru": "https://www.mblock.cc/api-docs/_preview/mblock-5/zh/use-extensions/use-extensions.html",
+        "pt": "https://www.mblock.cc/api-docs/_preview/mblock-5/zh/use-extensions/use-extensions.html",
+        "fi": "https://www.mblock.cc/api-docs/_preview/mblock-5/zh/use-extensions/use-extensions.html",
+        "tr": "https://www.mblock.cc/api-docs/_preview/mblock-5/zh/use-extensions/use-extensions.html",
+        "tk": "https://www.mblock.cc/api-docs/_preview/mblock-5/zh/use-extensions/use-extensions.html",
+        "ar": "https://www.mblock.cc/api-docs/_preview/mblock-5/zh/use-extensions/use-extensions.html",
+        "ca": "https://www.mblock.cc/api-docs/_preview/mblock-5/zh/use-extensions/use-extensions.html",
+        "cs": "https://www.mblock.cc/api-docs/_preview/mblock-5/zh/use-extensions/use-extensions.html",
+        "fa": "https://www.mblock.cc/api-docs/_preview/mblock-5/zh/use-extensions/use-extensions.html",
+        "vi": "https://www.mblock.cc/api-docs/_preview/mblock-5/zh/use-extensions/use-extensions.html"
+    },
+    "fromScratch3": false,
+    "targets": [
+        "cyberpi"
+    ],
+    "main": "cyberpi_upload_message/index.js",
+    "codeTypes": [
+        "python"
+    ],
+    "device": false,
+    "sortId": 999,
+    "version": "0.0.1",
+    "extApiVersion": [
+        "1.0.2"
+    ],
+    "platform": [
+        "mblockpc",
+        "mblockweb",
+        "mblockapp"
+    ],
+    "homepage": "http://www.mblock.cc/api-docs/_preview/mblock-5/zh/use-extensions/use-extensions.html",
+    "feature": []
+}

@@ -1,0 +1,70 @@
+{
+  "id": "microbit_music",
+  "iconURL": "microbit_music/imgs/1fa2e1d96da14021b8d46e110d5324f0.jpg",
+  "coverURL": "./res/1fa2e1d96da14021b8d46e110d5324f0.jpg",
+  "res": [
+    "./imgs"
+  ],
+  "name": {
+    "zh": "音乐",
+    "en": "Music",
+    "de": "Musik",
+    "es": "Música",
+    "fr": "Musique",
+    "id": "Musik",
+    "ja": "音楽",
+    "ja-jph": "おんがく",
+    "ko": "음악",
+    "pl": "Muzyka",
+    "uk": "Музика",
+    "zh-hant": "音樂",
+    "nl": "Muziek",
+    "it": "Musica",
+    "hr": "Glazba",
+    "ru": "Музыка",
+    "pt": "Música",
+    "fi": "Musiikki",
+    "tr": "Müzik",
+    "tk": "Saz"
+  },
+  "description": {
+    "zh": "配合扬声器，让micro:bit播放优美的音乐！",
+    "en": "Use the speaker to make micro:bit play music!",
+    "de": "Verwenden Sie den Lautsprecher, um microbit -Musik spielen zu lassen!",
+    "es": "¡Usa el altavoz para que microbit toque música!",
+    "fr": "Utilisez le haut-parleur pour faire jouer de la musique au microbit !",
+    "id": "Gunakan speaker untuk membuat microbit bermain musik!",
+    "ja": "スピーカーを使用して、microbitで音楽を再生",
+    "ja-jph": "スピーカーをしようして、microbitでおんがくをさいせい",
+    "ko": "스피커를 사용하면 마이크로비트로 음악을 연주할 수 있습니다.",
+    "pl": "Użyj głośnika aby microbit grał muzykę!",
+    "uk": "Використовувати динамік microbit для відтворення музики!",
+    "zh-hant": "使用揚聲器來讓 microbit 播放音樂!",
+    "nl": "Gebruik de luidspreker om microbit muziek te laten afspelen!",
+    "it": "Utilizzare l'altoparlante si microbit per fare musica!",
+    "hr": "Koristite zvučnik kako bi microbit svirao glazbu!",
+    "ru": "Используйте динамик, чтобы microbit воспроизводил музыку!",
+    "pt": "Usa o altifalante para fazer o microbit reproduzir música!",
+    "fi": "Kaiuttimen avulla microbit voi soittaa musiikkiai!",
+    "tr": "mikro:bit müzik çalmak için hoparlörü kullanın!",
+    "tk": "mikro:bit robotyňyza saz çaldyrmak üçin dinamiklerden peýdalanyň!"
+  },
+  "targets": [
+    "microbit"
+  ],
+  "main": "microbit_music/index.js",
+  "codeTypes": [
+    "python"
+  ],
+  "device": false,
+  "sortId": 999,
+  "version": "0.3.3",
+  "extApiVersion": [
+    "1.0.0"
+  ],
+  "platform": [
+    "mblockpc",
+    "mblockweb"
+  ],
+  "homepage": "http://www.mblock.cc/api-docs/_preview/mblock-5/zh/use-extensions/use-extensions.html"
+}

@@ -1,0 +1,21 @@
+export default {
+    "halocode_mbuild_pirsensor": "Sensor PIR",
+    "extensionName": "Sensor PIR",
+    "extensionDescription": "",
+    "EVENT_PIR_INDEX_0": "1",
+    "EVENT_PIR_INDEX_1": "2",
+    "EVENT_PIR_INDEX_2": "3",
+    "EVENT_PIR_INDEX_3": "4",
+    "EVENT_PIR_INDEX_4": "5",
+    "EVENT_PIR_INDEX_5": "6",
+    "EVENT_PIR_INDEX_6": "7",
+    "EVENT_PIR_INDEX_7": "8",
+    "event_pir": "el sensor PIR [index] detecta un cos humà?",
+    "pir_count": "nombre de vegades que el sensor PIR [index] ha detectat un cos humà",
+    "pir_count_make_zero": "el sensor PIR [index] reinicialitza el comptador",
+    "cate_7477652c": "Sensor PIR",
+    "BLOCK_1547779213407": "orienta el servo [ID] a un angle de [angle]°",
+    "BLOCK_1547779701469": "l'altaveu [ID] reprodueix el so [audio]",
+    "BLOCK_1547779887637": "l'altaveu [ID] reprodueix el fitxer de so [audio] fins al final",
+    "BLOCK_1547781171854": "estableix el volum de l'altaveu [ID] al [volume]%"
+};

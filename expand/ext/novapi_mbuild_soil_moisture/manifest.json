@@ -1,0 +1,71 @@
+{
+    "id": "novapi_mbuild_soil_moisture",
+    "iconURL": "novapi_mbuild_soil_moisture/imgs/37e097674a9c4677852c564c67d995b9.png",
+    "coverURL": "./res/37e097674a9c4677852c564c67d995b9.png",
+    "name": {
+        "zh": "土壤湿度传感器",
+        "en": "Soil Moisture Sensor",
+        "de": "Soil Moisture Sensor",
+        "es": "Soil Moisture Sensor",
+        "fr": "Soil Moisture Sensor",
+        "id": "Soil Moisture Sensor",
+        "ja": "Soil Moisture Sensor",
+        "ja-jph": "Soil Moisture Sensor",
+        "ko": "Soil Moisture Sensor",
+        "pl": "Soil Moisture Sensor",
+        "uk": "Soil Moisture Sensor",
+        "zh-hant": "Soil Moisture Sensor",
+        "nl": "Soil Moisture Sensor",
+        "it": "Soil Moisture Sensor",
+        "hr": "Soil Moisture Sensor",
+        "ru": "Soil Moisture Sensor",
+        "pt": "Soil Moisture Sensor",
+        "fi": "Soil Moisture Sensor",
+        "tr": "Soil Moisture Sensor",
+        "tk": "Soil Moisture Sensor",
+        "fa": "Soil Moisture Sensor"
+    },
+    "description": {
+        "zh": "",
+        "en": "",
+        "de": "",
+        "es": "",
+        "fr": "",
+        "id": "",
+        "ja": "",
+        "ja-jph": "",
+        "ko": "",
+        "pl": "",
+        "uk": "",
+        "zh-hant": "",
+        "nl": "",
+        "it": "",
+        "hr": "",
+        "ru": "",
+        "pt": "",
+        "fi": "",
+        "tr": "",
+        "tk": "",
+        "fa": ""
+    },
+    "fromScratch3": false,
+    "targets": [
+        "novapi"
+    ],
+    "main": "novapi_mbuild_soil_moisture/index.js",
+    "codeTypes": [
+        "python"
+    ],
+    "device": false,
+    "sortId": 999,
+    "version": "0.0.1",
+    "extApiVersion": [
+        "1.0.2"
+    ],
+    "platform": [
+        "mblockpc",
+        "mblockweb"
+    ],
+    "homepage": "http://www.mblock.cc/api-docs/_preview/mblock-5/zh/use-extensions/use-extensions.html",
+    "feature": []
+}

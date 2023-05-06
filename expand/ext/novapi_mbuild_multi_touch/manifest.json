@@ -1,0 +1,71 @@
+{
+    "id": "novapi_mbuild_multi_touch",
+    "iconURL": "novapi_mbuild_multi_touch/imgs/422f07826dcf4f498f0693539d6c06df.png",
+    "coverURL": "./res/422f07826dcf4f498f0693539d6c06df.png",
+    "name": {
+        "zh": "多路触摸",
+        "en": "Multi-Touch",
+        "de": "Multi-Touch",
+        "es": "Multi-Touch",
+        "fr": "Multi-Touch",
+        "id": "Multi-Touch",
+        "ja": "Multi-Touch",
+        "ja-jph": "Multi-Touch",
+        "ko": "Multi-Touch",
+        "pl": "Multi-Touch",
+        "uk": "Multi-Touch",
+        "zh-hant": "Multi-Touch",
+        "nl": "Multi-Touch",
+        "it": "Multi-Touch",
+        "hr": "Multi-Touch",
+        "ru": "Multi-Touch",
+        "pt": "Multi-Touch",
+        "fi": "Multi-Touch",
+        "tr": "Multi-Touch",
+        "tk": "Multi-Touch",
+        "fa": "Multi-Touch"
+    },
+    "description": {
+        "zh": "",
+        "en": "",
+        "de": "",
+        "es": "",
+        "fr": "",
+        "id": "",
+        "ja": "",
+        "ja-jph": "",
+        "ko": "",
+        "pl": "",
+        "uk": "",
+        "zh-hant": "",
+        "nl": "",
+        "it": "",
+        "hr": "",
+        "ru": "",
+        "pt": "",
+        "fi": "",
+        "tr": "",
+        "tk": "",
+        "fa": ""
+    },
+    "fromScratch3": false,
+    "targets": [
+        "novapi"
+    ],
+    "main": "novapi_mbuild_multi_touch/index.js",
+    "codeTypes": [
+        "python"
+    ],
+    "device": false,
+    "sortId": 999,
+    "version": "0.0.2",
+    "extApiVersion": [
+        "1.0.2"
+    ],
+    "platform": [
+        "mblockpc",
+        "mblockweb"
+    ],
+    "homepage": "http://www.mblock.cc/api-docs/_preview/mblock-5/zh/use-extensions/use-extensions.html",
+    "feature": []
+}

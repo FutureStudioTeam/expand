@@ -1,0 +1,21 @@
+export default {
+    "halocode_mbuild_pirsensor": "Capteur de présence",
+    "extensionName": "Capteur de présence",
+    "extensionDescription": "",
+    "EVENT_PIR_INDEX_0": "1",
+    "EVENT_PIR_INDEX_1": "2",
+    "EVENT_PIR_INDEX_2": "3",
+    "EVENT_PIR_INDEX_3": "4",
+    "EVENT_PIR_INDEX_4": "5",
+    "EVENT_PIR_INDEX_5": "6",
+    "EVENT_PIR_INDEX_6": "7",
+    "EVENT_PIR_INDEX_7": "8",
+    "event_pir": "Capteur de présence [index] détecte le corps humain?",
+    "pir_count": "Capteur de présence[index] nombre de fois qu’un corps humain a été détecté",
+    "pir_count_make_zero": "Capteur de présence[index] réinitialise le nombre de fois",
+    "cate_7477652c": "Capteur de présence",
+    "BLOCK_1547779213407": "orienter le servo-moteur [ID] à un angle de [angle] (°)",
+    "BLOCK_1547779701469": "haut-parleur [ID]  jouer le son [audio]",
+    "BLOCK_1547779887637": "haut-parleur [ID]  lire le fichier audio [audio] jusqu'au bout",
+    "BLOCK_1547781171854": "haut-parleur [ID]  Réglez le volume sur [volume] %"
+};

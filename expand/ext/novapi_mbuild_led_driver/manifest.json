@@ -1,0 +1,71 @@
+{
+    "id": "novapi_mbuild_led_driver",
+    "iconURL": "novapi_mbuild_led_driver/imgs/3f89490af5314e94aeb7c41bdc6cb216.png",
+    "coverURL": "./res/3f89490af5314e94aeb7c41bdc6cb216.png",
+    "name": {
+        "zh": "彩灯驱动",
+        "en": "LED Driver",
+        "de": "LED Driver",
+        "es": "LED Driver",
+        "fr": "LED Driver",
+        "id": "LED Driver",
+        "ja": "LED Driver",
+        "ja-jph": "LED Driver",
+        "ko": "LED Driver",
+        "pl": "LED Driver",
+        "uk": "LED Driver",
+        "zh-hant": "LED Driver",
+        "nl": "LED Driver",
+        "it": "LED Driver",
+        "hr": "LED Driver",
+        "ru": "LED Driver",
+        "pt": "LED Driver",
+        "fi": "LED Driver",
+        "tr": "LED Driver",
+        "tk": "LED Driver",
+        "fa": "LED Driver"
+    },
+    "description": {
+        "zh": "",
+        "en": "",
+        "de": "",
+        "es": "",
+        "fr": "",
+        "id": "",
+        "ja": "",
+        "ja-jph": "",
+        "ko": "",
+        "pl": "",
+        "uk": "",
+        "zh-hant": "",
+        "nl": "",
+        "it": "",
+        "hr": "",
+        "ru": "",
+        "pt": "",
+        "fi": "",
+        "tr": "",
+        "tk": "",
+        "fa": ""
+    },
+    "fromScratch3": false,
+    "targets": [
+        "novapi"
+    ],
+    "main": "novapi_mbuild_led_driver/index.js",
+    "codeTypes": [
+        "python"
+    ],
+    "device": false,
+    "sortId": 999,
+    "version": "0.0.2",
+    "extApiVersion": [
+        "1.0.2"
+    ],
+    "platform": [
+        "mblockpc",
+        "mblockweb"
+    ],
+    "homepage": "http://www.mblock.cc/api-docs/_preview/mblock-5/zh/use-extensions/use-extensions.html",
+    "feature": []
+}

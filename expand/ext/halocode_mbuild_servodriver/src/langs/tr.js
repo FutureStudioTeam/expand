@@ -1,0 +1,23 @@
+export default {
+    "halocode_mbuild_servodriver": "Servo sürücü",
+    "extensionName": "Servo sürücü",
+    "extensionDescription": "",
+    "BLOCK_1550543186478_INDEX_0": "1",
+    "BLOCK_1550543186478_INDEX_1": "2",
+    "BLOCK_1550543186478_INDEX_2": "3",
+    "BLOCK_1550543186478_INDEX_3": "4",
+    "BLOCK_1550543186478_INDEX_4": "5",
+    "BLOCK_1550543186478_INDEX_5": "6",
+    "BLOCK_1550543186478_INDEX_6": "7",
+    "BLOCK_1550543186478_INDEX_7": "8",
+    "BLOCK_1550543186478": "servo sürücü [index] açısını ayarlar [angle] °",
+    "BLOCK_1550543202398": "servo sürücü [index] açısını artırır [angle] °",
+    "BLOCK_1550543213773": "servo sürücü [index] sıfır konumuna geri dön",
+    "BLOCK_1550543222423": "servo sürücü [index] akım açısı (°)",
+    "BLOCK_1550543238558": "servo sürücü [index] Yük (%)",
+    "cate_dc643ec1": "Servo sürücü",
+    "BLOCK_1547779213407": "servo [ID] döndürüyor [angle] (°)",
+    "BLOCK_1547779701469": "Hoparlör [ID]  ses oynatma [audio]",
+    "BLOCK_1547779887637": "Hoparlör [ID]  ses dosyasını oynatma [audio] bitirene kadar",
+    "BLOCK_1547781171854": "Hoparlör [ID]  birimi ayarlayın [volume] %"
+};

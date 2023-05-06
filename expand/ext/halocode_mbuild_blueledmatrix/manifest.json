@@ -1,0 +1,79 @@
+{
+    "id": "halocode_mbuild_blueledmatrix",
+    "iconURL": "halocode_mbuild_blueledmatrix/imgs/cd672916c79d4ed1938008e6679a0fba.png",
+    "coverURL": "./res/cd672916c79d4ed1938008e6679a0fba.png",
+    "name": {
+        "zh": "8×16蓝色LED 点阵",
+        "en": "8×16 blue LED Matrix",
+        "de": "8×16 blue LED Matrix",
+        "es": "8×16 blue LED Matrix",
+        "fr": "Matrice Led bleues 8x16",
+        "id": "8×16 blue LED Matrix",
+        "ja": "8×16青色LEDマトリックス",
+        "ja-jph": "8×16あおいろLEDマトリックス",
+        "ko": "8×16 blue LED Matrix",
+        "pl": "Panel niebieskich LED 8 x 16",
+        "uk": "блакитна LED матриця 8×16",
+        "zh-hant": "LED 矩陣",
+        "nl": "8 × 16 blauwe LED matrix",
+        "it": "Matrice LED 8×16 blue",
+        "hr": "8 × 16 plava LED matrica",
+        "ru": "8×16 blue LED Matrix",
+        "pt": "8×16 blue LED Matrix",
+        "fi": "8×16 blue LED Matrix",
+        "tr": "8×16 blue LED Matrix",
+        "tk": "8×16 blue LED Matrisasy",
+        "ca": "Matriu de leds blaus 8x16",
+        "cs": "8×16 modré LED pole",
+        "fa": "8×16 blue LED Matrix",
+        "vi": "LED ma trận xanh dương 8x16"
+    },
+    "description": {
+        "zh": "",
+        "en": "",
+        "de": "",
+        "es": "",
+        "fr": "",
+        "id": "",
+        "ja": "",
+        "ja-jph": "",
+        "ko": "",
+        "pl": "",
+        "uk": "",
+        "zh-hant": "",
+        "nl": "",
+        "it": "",
+        "hr": "",
+        "ru": "",
+        "pt": "",
+        "fi": "",
+        "tr": "",
+        "tk": "",
+        "ca": "",
+        "cs": "",
+        "fa": "",
+        "vi": ""
+    },
+    "fromScratch3": false,
+    "targets": [
+        "haloboard",
+        "cyberpi"
+    ],
+    "main": "halocode_mbuild_blueledmatrix/index.js",
+    "codeTypes": [
+        "python"
+    ],
+    "device": false,
+    "sortId": 999,
+    "version": "0.0.6",
+    "extApiVersion": [
+        "1.0.2"
+    ],
+    "platform": [
+        "mblockpc",
+        "mblockweb",
+        "mblockapp"
+    ],
+    "homepage": "http://docs.makeblock.com/diy-platform/zh/mbuild/hardware/display/led-matrix.html",
+    "feature": []
+}

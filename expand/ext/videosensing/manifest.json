@@ -1,0 +1,75 @@
+{
+    "id": "videosensing",
+    "iconURL": "videosensing/imgs/26770d9bfcf2451eb29952e26602310d.png",
+    "coverURL": "./res/26770d9bfcf2451eb29952e26602310d.png",
+    "name": {
+        "zh": "视频侦测",
+        "en": "Video Sensing",
+        "de": "Video Sensing",
+        "es": "Video Sensing",
+        "fr": "Video Sensing",
+        "id": "Video Sensing",
+        "ja": "Video Sensing",
+        "ja-jph": "Video Sensing",
+        "ko": "Video Sensing",
+        "pl": "Video Sensing",
+        "uk": "Video Sensing",
+        "zh-hant": "Video Sensing",
+        "nl": "Video Sensing",
+        "it": "Video Sensing",
+        "hr": "Video Sensing",
+        "ru": "Video Sensing",
+        "pt": "Video Sensing",
+        "fi": "Video Sensing",
+        "tr": "Video Sensing",
+        "tk": "Video Sensing",
+        "fa": "Video Sensing",
+        "vi": "Video Sensing"
+    },
+    "description": {
+        "zh": "使用摄像头侦测运动。",
+        "en": "Sense motion with the camera.",
+        "de": "Sense motion with the camera.",
+        "es": "Sense motion with the camera.",
+        "fr": "Sense motion with the camera.",
+        "id": "Sense motion with the camera.",
+        "ja": "Sense motion with the camera.",
+        "ja-jph": "Sense motion with the camera.",
+        "ko": "Sense motion with the camera.",
+        "pl": "Sense motion with the camera.",
+        "uk": "Sense motion with the camera.",
+        "zh-hant": "Sense motion with the camera.",
+        "nl": "Sense motion with the camera.",
+        "it": "Sense motion with the camera.",
+        "hr": "Sense motion with the camera.",
+        "ru": "Sense motion with the camera.",
+        "pt": "Sense motion with the camera.",
+        "fi": "Sense motion with the camera.",
+        "tr": "Sense motion with the camera.",
+        "tk": "Sense motion with the camera.",
+        "fa": "Sense motion with the camera.",
+        "vi": "Sense motion with the camera."
+    },
+    "fromScratch3": true,
+    "targets": [
+        "sprites"
+    ],
+    "main": "videosensing/index.js",
+    "device": false,
+    "sortId": 999,
+    "version": "0.3.4",
+    "extApiVersion": [
+        "1.0.0",
+        "1.0.1",
+        "1.0.2",
+        "1.0.3"
+    ],
+    "platform": [
+        "mblockweb",
+        "mblockpc"
+    ],
+    "homepage": "http://www.mblock.cc/api-docs/_preview/mblock-5/zh/use-extensions/use-extensions.html",
+    "feature": [
+        "worker"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "copy-props",
+  "version": "2.0.5",
+  "description": "Copy properties deeply between two objects.",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gulpjs/copy-props.git"
+  },
+  "author": "Gulp Team <team@gulpjs.com> (https://gulpjs.com/)",
+  "license": "MIT",
+  "homepage": "https://github.com/gulpjs/copy-props#readme",
+  "dependencies": {
+    "each-props": "^1.3.2",
+    "is-plain-object": "^5.0.0"
+  },
+  "devDependencies": {
+    "browserify": "^16.5.2",
+    "chai": "^3.5.0",
+    "coveralls": "^3.1.0",
+    "eslint": "^7.9.0",
+    "eslint-config-gulp": "^5.0.1",
+    "mocha": "^3.5.3",
+    "nyc": "^15.1.0",
+    "uglify-js": "^3.10.4"
+  }
+}

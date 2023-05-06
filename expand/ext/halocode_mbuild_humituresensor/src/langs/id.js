@@ -1,0 +1,21 @@
+export default {
+    "halocode_mbuild_humituresensor": "Sensor humobatan",
+    "extensionName": "Sensor humobatan",
+    "extensionDescription": "",
+    "OP_TEMPERATURE_INDEX_0": "1",
+    "OP_TEMPERATURE_INDEX_1": "2",
+    "OP_TEMPERATURE_INDEX_2": "3",
+    "OP_TEMPERATURE_INDEX_3": "4",
+    "OP_TEMPERATURE_INDEX_4": "5",
+    "OP_TEMPERATURE_INDEX_5": "6",
+    "OP_TEMPERATURE_INDEX_6": "7",
+    "OP_TEMPERATURE_INDEX_7": "8",
+    "op_temperature": "sensor humobatan [index] suhu (° c)",
+    "op_htemperature": "humasi[index] suhu (° f)",
+    "op_humidity": "sensor humobatan [index] kelembaban udara (%)",
+    "cate_5ce6a4bb": "Sensor humobatan",
+    "BLOCK_1547779213407": "Servo [ID] berputar untuk [angle] (°)",
+    "BLOCK_1547779701469": "Pembicara [ID]  memutar suara [audio]",
+    "BLOCK_1547779887637": "Pembicara [ID]  memutar file audio [audio] sampai selesai",
+    "BLOCK_1547781171854": "Pembicara [ID]  mengatur volume untuk [volume] %"
+};

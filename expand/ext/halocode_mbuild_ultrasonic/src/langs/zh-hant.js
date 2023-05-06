@@ -1,0 +1,20 @@
+export default {
+    "halocode_mbuild_ultrasonic": "超音波感測器",
+    "extensionName": "超音波感測器",
+    "extensionDescription": "",
+    "BLOCK_1552140890585_INDEX_0": "1",
+    "BLOCK_1552140890585_INDEX_1": "2",
+    "BLOCK_1552140890585_INDEX_2": "3",
+    "BLOCK_1552140890585_INDEX_3": "4",
+    "BLOCK_1552140890585_INDEX_4": "5",
+    "BLOCK_1552140890585_INDEX_5": "6",
+    "BLOCK_1552140890585_INDEX_6": "7",
+    "BLOCK_1552140890585_INDEX_7": "8",
+    "BLOCK_1552140890585": "超音波感測器 [index] 量測到物體的距離(cm)",
+    "BLOCK_1552140919772": "超音波感測器 [index] 超出量測範圍?",
+    "cate_14b3c81a": "超音波感測器",
+    "BLOCK_1547779213407": "伺服馬達 [ID] 設定位置為 [angle] (度)",
+    "BLOCK_1547779701469": "喇叭 [ID] 播放聲音 [audio]",
+    "BLOCK_1547779887637": "喇叭 [ID] 播放自訂音樂 [audio] 直到結束",
+    "BLOCK_1547781171854": "喇叭 [ID] 的音量設定為 [volume] %"
+};

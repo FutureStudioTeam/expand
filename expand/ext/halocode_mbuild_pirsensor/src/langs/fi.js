@@ -1,0 +1,21 @@
+export default {
+    "halocode_mbuild_pirsensor": "PIR-anturi",
+    "extensionName": "PIR-anturi",
+    "extensionDescription": "",
+    "EVENT_PIR_INDEX_0": "1",
+    "EVENT_PIR_INDEX_1": "2",
+    "EVENT_PIR_INDEX_2": "3",
+    "EVENT_PIR_INDEX_3": "4",
+    "EVENT_PIR_INDEX_4": "5",
+    "EVENT_PIR_INDEX_5": "6",
+    "EVENT_PIR_INDEX_6": "7",
+    "EVENT_PIR_INDEX_7": "8",
+    "event_pir": "PIR-anturi [index] havaitsee ihmiskehon?",
+    "pir_count": "PIR-anturi[index] monta kertaa ihmiskeho havaittu",
+    "pir_count_make_zero": "PIR-anturi [index] nollaa useita kertoja",
+    "cate_7477652c": "PIR-anturi",
+    "BLOCK_1547779213407": "servo [ID] pyörii [angle] (°)",
+    "BLOCK_1547779701469": "kaiutin [ID]  toistaa äänen [audio]",
+    "BLOCK_1547779887637": "kaiutin [ID] toistaa äänitiedoston [audio] kunnes valmis",
+    "BLOCK_1547781171854": "kaiutin [ID]  aseta äänenvoimakkuus [volume] %"
+};

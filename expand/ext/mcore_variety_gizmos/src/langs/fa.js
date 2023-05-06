@@ -1,0 +1,23 @@
+export default {
+    "mcore_variety_gizmos": "بسته ابزارها",
+    "extensionName": "بسته Gadgets",
+    "extensionDescription": "در 6 پروژه توسعه ای mBot ، شما فرا می گیرید که چگونه ربات خود را حرکت دهید و همچنین شکل آن را مطابق سلیقه خود تغییر دهید. ",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_PORT_0": "پورت 1",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_PORT_1": "پورت 2",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_PORT_2": "پورت 3",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_PORT_3": "پورت 4",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_LED_POSTION_0": "همه",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_LED_POSTION_1": "1",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_LED_POSTION_2": "2",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_LED_POSTION_3": "3",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_LED_POSTION_4": "4",
+    "mcore_show_external_led_time": "[ICON] ال ای دی آر جی بی [PORT] در [LED_POSTION] به رنگ [COLOR] و به مدت [TIME] ثانیه روشن شود",
+    "mcore_show_external_led": "[ICON] چراغ LED RGB [PORT] چراغ [LED_POSTION]را با رنگ [COLOR] روشن کند ",
+    "mcore_show_external_led_rgb": "[ICON] چراغ LED RGB [PORT] چراغ [LED_POSTION] را با رنگ قرمز [R] سبز [G] آبی [B] روشن کند",
+    "MCORE_RUN_SERVO_SLOT_0": "slot1",
+    "MCORE_RUN_SERVO_SLOT_1": "slot2",
+    "mcore_run_servo": "[ICON] سروو [PORT] [SLOT] در موقعیت [DEGREE] قرار دارد ",
+    "mcore_show_7segments_number": "[ICON] هفت بخش [PORT] شماره [NUMBER] را نشان دهد",
+    "mcore_event_limit_switch": "[ICON] سوئیچ محدود کننده [PORT] [SLOT] فشرده شده است",
+    "CATEGORY_VARITY": "ابزارها "
+};

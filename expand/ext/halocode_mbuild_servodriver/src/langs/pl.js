@@ -1,0 +1,23 @@
+export default {
+    "halocode_mbuild_servodriver": "Kierowca serwomechanizmu",
+    "extensionName": "Kierowca serwomechanizmu",
+    "extensionDescription": "",
+    "BLOCK_1550543186478_INDEX_0": "1",
+    "BLOCK_1550543186478_INDEX_1": "2",
+    "BLOCK_1550543186478_INDEX_2": "3",
+    "BLOCK_1550543186478_INDEX_3": "4",
+    "BLOCK_1550543186478_INDEX_4": "5",
+    "BLOCK_1550543186478_INDEX_5": "6",
+    "BLOCK_1550543186478_INDEX_6": "7",
+    "BLOCK_1550543186478_INDEX_7": "8",
+    "BLOCK_1550543186478": "Sterownik serwomechanizmu [index] Ustawia kąt do [angle] °",
+    "BLOCK_1550543202398": "Sterownik serwomechanizmu [index] zwiększa kąt poprzez [angle] °",
+    "BLOCK_1550543213773": "Sterownik serwomechanizmu [index] Powrót do pozycji zerowej",
+    "BLOCK_1550543222423": "Sterownik serwomechanizmu [index] kąt prądu (°)",
+    "BLOCK_1550543238558": "Sterownik serwomechanizmu [index] obciążenie (%)",
+    "cate_dc643ec1": "Kierowca serwomechanizmu",
+    "BLOCK_1547779213407": "Serwa [ID] obraca się do [angle] (°)",
+    "BLOCK_1547779701469": "Głośnik [ID]  Odtwarzanie dźwięku [audio]",
+    "BLOCK_1547779887637": "Głośnik [ID]  Odtwarzanie pliku audio [audio] aż do zrobienia",
+    "BLOCK_1547781171854": "Głośnik [ID]  ustawić głośność na [volume] %"
+};

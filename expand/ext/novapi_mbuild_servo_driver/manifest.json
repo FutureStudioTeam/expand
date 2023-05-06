@@ -1,0 +1,71 @@
+{
+    "id": "novapi_mbuild_servo_driver",
+    "iconURL": "novapi_mbuild_servo_driver/imgs/eee2261b68bf480eb3f741791b0a1928.png",
+    "coverURL": "./res/eee2261b68bf480eb3f741791b0a1928.png",
+    "name": {
+        "zh": "舵机驱动",
+        "en": "Servo Driver",
+        "de": "Servo Driver",
+        "es": "Servo Driver",
+        "fr": "Servo Driver",
+        "id": "Servo Driver",
+        "ja": "Servo Driver",
+        "ja-jph": "Servo Driver",
+        "ko": "Servo Driver",
+        "pl": "Servo Driver",
+        "uk": "Servo Driver",
+        "zh-hant": "Servo Driver",
+        "nl": "Servo Driver",
+        "it": "Servo Driver",
+        "hr": "Servo Driver",
+        "ru": "Servo Driver",
+        "pt": "Servo Driver",
+        "fi": "Servo Driver",
+        "tr": "Servo Driver",
+        "tk": "Servo Driver",
+        "fa": "Servo Driver"
+    },
+    "description": {
+        "zh": "",
+        "en": "",
+        "de": "",
+        "es": "",
+        "fr": "",
+        "id": "",
+        "ja": "",
+        "ja-jph": "",
+        "ko": "",
+        "pl": "",
+        "uk": "",
+        "zh-hant": "",
+        "nl": "",
+        "it": "",
+        "hr": "",
+        "ru": "",
+        "pt": "",
+        "fi": "",
+        "tr": "",
+        "tk": "",
+        "fa": ""
+    },
+    "fromScratch3": false,
+    "targets": [
+        "novapi"
+    ],
+    "main": "novapi_mbuild_servo_driver/index.js",
+    "codeTypes": [
+        "python"
+    ],
+    "device": false,
+    "sortId": 999,
+    "version": "0.0.1",
+    "extApiVersion": [
+        "1.0.2"
+    ],
+    "platform": [
+        "mblockpc",
+        "mblockweb"
+    ],
+    "homepage": "http://www.mblock.cc/api-docs/_preview/mblock-5/zh/use-extensions/use-extensions.html",
+    "feature": []
+}

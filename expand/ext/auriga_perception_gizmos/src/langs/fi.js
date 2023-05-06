@@ -1,0 +1,20 @@
+export default {
+    "auriga_perception_gizmos": "Sensing Gizmos",
+    "extensionName": "Sensing Gizmos",
+    "extensionDescription": "2 mBot Ranger -laajennusprojekteissa opit käyttämään tunnistimia päivittäisessä elämässä ja saamaan parempaa tietämystä elektroniikasta. ",
+    "AURIGA_RUN_FAN_PORT_0": "port6",
+    "AURIGA_RUN_FAN_PORT_1": "port7",
+    "AURIGA_RUN_FAN_PORT_2": "port8",
+    "AURIGA_RUN_FAN_PORT_3": "port9",
+    "AURIGA_RUN_FAN_PORT_4": "port10",
+    "AURIGA_RUN_FAN_FAN_ROTATE_0": "Myötäpäivään",
+    "AURIGA_RUN_FAN_FAN_ROTATE_1": "Vastapäivään",
+    "AURIGA_RUN_FAN_FAN_ROTATE_2": "Lopettaa",
+    "auriga_run_fan": "[ICON]Tuuletin [PORT] [FAN_ROTATE] Pyörii",
+    "auriga_detect_external_loudness": "[ICON] ääni-anturi [PORT] Äänekkyys",
+    "AURIGA_DETEC_TEMPERATURE_SLOT_0": "slot1",
+    "AURIGA_DETEC_TEMPERATURE_SLOT_1": "slot2",
+    "auriga_detec_temperature": "[ICON]lämpö tila-anturi [PORT] [SLOT] lämpö tila (℃)",
+    "auriga_detect_potentiometer": "[ICON] Potentiometri[PORT] Arvo",
+    "CATEGORY_PERCEPTION": "Sensing Gizmos"
+};

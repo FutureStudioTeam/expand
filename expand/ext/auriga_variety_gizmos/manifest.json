@@ -1,0 +1,73 @@
+{
+    "id": "auriga_variety_gizmos",
+    "iconURL": "auriga_variety_gizmos/imgs/ef8086372d434ec7a3652ce2a40b288d.png",
+    "coverURL": "./res/ef8086372d434ec7a3652ce2a40b288d.png",
+    "name": {
+        "zh": "百变小发明",
+        "en": "Gadgets Pack",
+        "de": "Gadgets Pack",
+        "es": "Pack de artilugios",
+        "fr": "Pack gadgets",
+        "id": "Paket Gawai",
+        "ja": "ガジェットパック",
+        "ja-jph": "こどうぐパック",
+        "ko": "가젯 팩",
+        "pl": "Variety gizmos",
+        "uk": "Різноманітні прибамбаси",
+        "zh-hant": "擴充包",
+        "nl": "Gadgetspak",
+        "it": "Pacchetto Gadgets",
+        "hr": "Paket gadgeta",
+        "ru": "Набор устройств",
+        "pt": "Pacote de Gadgets",
+        "fi": "Gadgets Pack",
+        "tr": "Aletler Paketi",
+        "tk": "Gurallar ýygyndysy",
+        "fa": "بسته ابزارها"
+    },
+    "description": {
+        "zh": "包含2个mBot Ranger的扩展案例，进一步丰富硬件设备的运动控制和外形形态。",
+        "en": "In the 2 mBot Ranger extension projects, you will learn how to make your robot or device move and change its shape as you would like. ",
+        "de": "In den beiden mBot Ranger Erweiterungsprojekten lernen Sie, wie Sie Ihren Roboter oder Ihr Gerät bewegen können und die Form nach Ihren Wünschen anpassen.",
+        "es": "En los 2 proyectos de extensión de mBot Ranger, aprenderás cómo hacer que tu robot o dispositivo se mueva y cambie su forma como tú quieras. ",
+        "fr": "Dans les 2 projets additionnels ranger mBot, vous apprendrez comment faire bouger votre robot ou votre appareil et changer sa forme comme vous le souhaitez. ",
+        "id": "Dalam proyek ekstensi mBot Ranger 2, Anda akan mempelajari cara membuat robot atau perangkat bergerak dan berubah bentuk seperti yang Anda inginkan. ",
+        "ja": "2つのmBot Ranger拡張プロジェクトでは、ロボットやデバイスを移動させたり、思い通りに形を変更させる方法を学ぶことができます。 ",
+        "ja-jph": "2つのmBot Rangerかくちょうプロジェクトでは、ロボットやデバイスをいどうさせたり、おもいどうりにかたちをへんこうさせるほうほうをまなぶことができます。 ",
+        "ko": "2개의 mBot Ranger 확장 프로젝트에서 로봇 또는 장치를 움직이게 하고 원하는 대로 모양을 변경하는 방법에 대해 배우게 됩니다. ",
+        "pl": "Zestaw dodatkowych elementów do mBota i Rangera. Zawiera m.in. serwo, wyłączniki krańcowe, wyświetlacz 7-segmentowy i przykłady ich zastosowania. Pozwala na tworzenie bardziej rozbudowanych projektów.",
+        "uk": "У 2 проектах розширення до mBot Ranger ви дізнаєтеся, як навчити вашого робота або пристрій рухатися, а також зможете змінити їх зовнішній вигляд. ",
+        "zh-hant": "在這 2個 mBot Ranger擴充專案中, 你會學到如何使你的機器人移動，並隨你喜歡地改變外形。 ",
+        "nl": "In de 2 mBot Ranger extensieprojecten zul je leren hoe je je robot of apparaat kunt laten bewegen en zijn vorm veranderen zoals je wilt. ",
+        "it": "Nei progetti di estensione 2 mBot Ranger, imparerai come far muovere il tuo robot o dispositivo e modificarne la forma come preferisci. ",
+        "hr": "S 2 projekta sa mBot Ranger ekstenzijama, naučiti ćeš kako nagovoriti svojeg robota ili uređaj da se miče i promjeni svoj oblik kako ti poželiš. ",
+        "ru": "В двух расширениях для mBot Ranger вы узнаете как научить вашего робота или устройство двигаться, а также как изменять их облик. ",
+        "pt": "Nos projetos de extensão 2 mBot Ranger, irás aprender em como fazer o teu robô ou o dispositivo a mover-se e a mudar a forma como tu quiseres. ",
+        "fi": "2 mBot Ranger -laajennusprojekteissa opit robotin tai laitteen liikuttamiseen ja muuttamaan sen muotoa haluamallasi tavalla. ",
+        "tr": "2 mBot Ranger eklenti projelerinde robotunuzun veya aygıtınızın şeklini nasıl değiştireceğinizi öğreneceksiniz. ",
+        "tk": "Iki sany mBot Ranger giňeldiş taslamalarynda siz öz robotyňyzy ýa-da enjamyňyzy öz islegiňize laýyklykda hereket etdirmegi we şeklini üýtgetdirmegi öwrenersiňiz. ",
+        "fa": "در 2 پروژه توسعه mBot Ranger، شما یاد خواهید گرفت که چگونه ربات یا دستگاه خود را حرکت دهید و شکل آن را به همان صورت که می خواهید تغییر دهید. "
+    },
+    "fromScratch3": false,
+    "targets": [
+        "auriga"
+    ],
+    "main": "auriga_variety_gizmos/index.js",
+    "codeTypes": [
+        "arduinoc"
+    ],
+    "device": false,
+    "sortId": 999,
+    "version": "0.4.2",
+    "extApiVersion": [
+        "1.0.0",
+        "1.0.1"
+    ],
+    "platform": [
+        "mblockpc",
+        "mblockweb",
+        "mblockapp"
+    ],
+    "homepage": "http://www.mblock.cc/api-docs/_preview/mblock-5/zh/use-extensions/use-extensions.html",
+    "feature": []
+}

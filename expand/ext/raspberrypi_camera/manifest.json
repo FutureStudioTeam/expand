@@ -1,0 +1,70 @@
+{
+    "id": "raspberrypi_camera",
+    "iconURL": "raspberrypi_camera/imgs/a242f02a642a41d68c26a0934ac8f598.png",
+    "coverURL": "./res/a242f02a642a41d68c26a0934ac8f598.png",
+    "name": {
+        "zh": "树莓派视觉",
+        "en": "Raspberry Pi Camera",
+        "de": "Raspberry Pi Camera",
+        "es": "Raspberry Pi Camera",
+        "fr": "Raspberry Pi Camera",
+        "id": "Raspberry Pi Camera",
+        "ja": "Raspberry Pi Camera",
+        "ja-jph": "Raspberry Pi Camera",
+        "ko": "Raspberry Pi Camera",
+        "pl": "Raspberry Pi Camera",
+        "uk": "Raspberry Pi Camera",
+        "zh-hant": "Raspberry Pi Camera",
+        "nl": "Raspberry Pi Camera",
+        "it": "Raspberry Pi Camera",
+        "hr": "Raspberry Pi Camera",
+        "ru": "Raspberry Pi Camera",
+        "pt": "Raspberry Pi Camera",
+        "fi": "Raspberry Pi Camera",
+        "tr": "Raspberry Pi Camera",
+        "tk": "Raspberry Pi Camera",
+        "fa": "Raspberry Pi Camera"
+    },
+    "description": {
+        "zh": "",
+        "en": "",
+        "de": "",
+        "es": "",
+        "fr": "",
+        "id": "",
+        "ja": "",
+        "ja-jph": "",
+        "ko": "",
+        "pl": "",
+        "uk": "",
+        "zh-hant": "",
+        "nl": "",
+        "it": "",
+        "hr": "",
+        "ru": "",
+        "pt": "",
+        "fi": "",
+        "tr": "",
+        "tk": "",
+        "fa": ""
+    },
+    "main": "raspberrypi_camera/index.js",
+    "codeTypes": [
+        "python"
+    ],
+    "device": true,
+    "sortId": 999,
+    "version": "1.0.2",
+    "extApiVersion": [
+        "1.0.0",
+        "1.0.1",
+        "1.0.2",
+        "1.0.3"
+    ],
+    "platform": [
+        "mblockweb",
+        "mblockpc"
+    ],
+    "homepage": "http://www.mblock.cc/api-docs/_preview/mblock-5/zh/hardware-guide/hardware-guide.html",
+    "feature": []
+}

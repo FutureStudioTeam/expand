@@ -1,0 +1,71 @@
+{
+    "id": "novapi_mbuild_mq2_gas_sensor",
+    "iconURL": "novapi_mbuild_mq2_gas_sensor/imgs/5c3fee2940d7472a8eed07663ced6586.png",
+    "coverURL": "./res/5c3fee2940d7472a8eed07663ced6586.png",
+    "name": {
+        "zh": "MQ2气体传感器",
+        "en": "MQ2 Gas Sensor",
+        "de": "MQ2 Gas Sensor",
+        "es": "MQ2 Gas Sensor",
+        "fr": "MQ2 Gas Sensor",
+        "id": "MQ2 Gas Sensor",
+        "ja": "MQ2 Gas Sensor",
+        "ja-jph": "MQ2 Gas Sensor",
+        "ko": "MQ2 Gas Sensor",
+        "pl": "MQ2 Gas Sensor",
+        "uk": "MQ2 Gas Sensor",
+        "zh-hant": "MQ2 Gas Sensor",
+        "nl": "MQ2 Gas Sensor",
+        "it": "MQ2 Gas Sensor",
+        "hr": "MQ2 Gas Sensor",
+        "ru": "MQ2 Gas Sensor",
+        "pt": "MQ2 Gas Sensor",
+        "fi": "MQ2 Gas Sensor",
+        "tr": "MQ2 Gas Sensor",
+        "tk": "MQ2 Gas Sensor",
+        "fa": "MQ2 Gas Sensor"
+    },
+    "description": {
+        "zh": "",
+        "en": "",
+        "de": "",
+        "es": "",
+        "fr": "",
+        "id": "",
+        "ja": "",
+        "ja-jph": "",
+        "ko": "",
+        "pl": "",
+        "uk": "",
+        "zh-hant": "",
+        "nl": "",
+        "it": "",
+        "hr": "",
+        "ru": "",
+        "pt": "",
+        "fi": "",
+        "tr": "",
+        "tk": "",
+        "fa": ""
+    },
+    "fromScratch3": false,
+    "targets": [
+        "novapi"
+    ],
+    "main": "novapi_mbuild_mq2_gas_sensor/index.js",
+    "codeTypes": [
+        "python"
+    ],
+    "device": false,
+    "sortId": 999,
+    "version": "0.0.1",
+    "extApiVersion": [
+        "1.0.2"
+    ],
+    "platform": [
+        "mblockpc",
+        "mblockweb"
+    ],
+    "homepage": "http://www.mblock.cc/api-docs/_preview/mblock-5/zh/use-extensions/use-extensions.html",
+    "feature": []
+}

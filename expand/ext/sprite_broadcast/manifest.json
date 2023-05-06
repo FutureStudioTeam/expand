@@ -1,0 +1,70 @@
+{
+    "id": "sprite_broadcast",
+    "iconURL": "sprite_broadcast/imgs/20a9e3e6a87946c2aa1b95349d31a9d5.png",
+    "coverURL": "./res/20a9e3e6a87946c2aa1b95349d31a9d5.png",
+    "name": {
+        "zh": "上传模式广播",
+        "en": "Upload Mode Broadcast",
+        "de": "Upload Mode Broadcast",
+        "es": "Cargar en modo difusión",
+        "fr": "Diffusion en mode Téléversement",
+        "id": "Meng-upload Mode siaran",
+        "ja": "ブロードキャスト",
+        "ja-jph": "アップロードモードのブロードキャスト",
+        "ko": "업로드 모드 브로드캐스트",
+        "pl": "Transmisja w trybie wysyłania",
+        "uk": "Транслювати в режимі завантаження",
+        "zh-hant": "上傳模式廣播",
+        "nl": "Broadcast-modus uploaden",
+        "it": "Modalità di upload broadcast",
+        "hr": "Emitiranje načina prijenosa",
+        "ru": "Трансляция режима передачи",
+        "pt": "Transmissão do modo de upload",
+        "fi": "Lähetä lähetystapa",
+        "tr": "Yükleme modu yayını",
+        "tk": "Ýükläp ugradyş düzgüninde ýaýlyma bermek",
+        "fa": "پخش حالت آپلود"
+    },
+    "description": {
+        "zh": "通过上传模式广播，可以让支持该功能的设备和舞台角色在上传模式下产生互动",
+        "en": "By adding this extension, you enable a device to interact with a sprite in the Upload Mode.",
+        "de": "Durch das Hinzufügen dieser Erweiterung aktivieren Sie ein Gerät, mit einem Sprite im Upload-Modus zu interagieren.",
+        "es": "Al añadir esta extensión, permites que un dispositivo pueda interactuar con un gráfico animado en modo Cargar.",
+        "fr": "En ajoutant cette extension, vous permettez à un appareil d'interagir avec un Objet en mode Téléversement.",
+        "id": "Dengan menambahkan ekstensi ini, Anda mengaktifkan perangkat untuk berinteraksi dengan sebuah sprite dalam modus Upload.",
+        "ja": "この拡張機能を追加すると、デバイスがアップロードモードでスプライトと対話できるようになります。",
+        "ja-jph": "このかくちょうをついかすると、デバイスがアップロードモードでスプライトとたいわできるようになります。",
+        "ko": "이 확장을 추가 하 여 장치가 업로드 모드에서 스프라이트와 상호 작용할 수 있도록 합니다.",
+        "pl": "Dodanie tego rozszerzenia umożliwia interakcję urządzenia z ikoną Sprite w trybie przekazywania.",
+        "uk": "Додавши це розширення, ви дозволите пристрою взаємодіяти зі спрайтом в режимі завантаження.",
+        "zh-hant": "通過添加此擴展, 可以使設備在上傳模式下與角色進行交互。",
+        "nl": "Door deze extensie toe te voegen, activeer je een apparaat om te interageren met een sprite in de upload modus.",
+        "it": "Aggiungendo questa estensione, si abilita un dispositivo a interagire con un costume in modalità Upload.",
+        "hr": "Dodavanjem ovog proširenja omogućite uređaj za interakciju s spritom u načinu prijenosa.",
+        "ru": "Добавив это расширение, вы включите устройство для взаимодействия с спрайтом в режиме загрузки.",
+        "pt": "Ao adicionar essa extensão, você habilita um dispositivo a interagir com um Sprite no modo de carregamento.",
+        "fi": "Lisäämällä tämän laajennuksen voit antaa laitteelle vuorovaikutuksen hahmo-toiminnon kanssa lataustilassa.",
+        "tr": "Bu uzantıyı ekleyerek, bir aygıtın karşıya yükleme modunda bir Sprite ile etkileşime girmesine olanak sağlar.",
+        "tk": "Şu giňeldişi goşmak bilen siz enjamy spraýt bilen ýükläp ugradyş dügüninde baglamaga mümkinçilik döredersiňiz.",
+        "fa": "با اضافه کردن این افزونه ، شما یک دستگاه را برای ارتباط با یک روح در حالت آپلود فعال می کنید."
+    },
+    "fromScratch3": false,
+    "targets": [
+        "sprites"
+    ],
+    "main": "sprite_broadcast/index.js",
+    "codeTypes": [],
+    "device": false,
+    "sortId": 999,
+    "version": "0.0.7",
+    "extApiVersion": [
+        "1.0.0"
+    ],
+    "platform": [
+        "mblockpc",
+        "mblockweb",
+        "mblockapp"
+    ],
+    "homepage": "http://www.mblock.cc/api-docs/_preview/mblock-5/zh/use-extensions/use-extensions.html",
+    "feature": []
+}

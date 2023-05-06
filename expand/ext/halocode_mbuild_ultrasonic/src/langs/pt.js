@@ -1,0 +1,20 @@
+export default {
+    "halocode_mbuild_ultrasonic": "Sensor de ultrassom",
+    "extensionName": "Sensor de ultrassom",
+    "extensionDescription": "",
+    "BLOCK_1552140890585_INDEX_0": "1",
+    "BLOCK_1552140890585_INDEX_1": "2",
+    "BLOCK_1552140890585_INDEX_2": "3",
+    "BLOCK_1552140890585_INDEX_3": "4",
+    "BLOCK_1552140890585_INDEX_4": "5",
+    "BLOCK_1552140890585_INDEX_5": "6",
+    "BLOCK_1552140890585_INDEX_6": "7",
+    "BLOCK_1552140890585_INDEX_7": "8",
+    "BLOCK_1552140890585": "sensor de ultrassom [index] distância até um objeto (cm)",
+    "BLOCK_1552140919772": "sensor de ultrassom [index] fora da faixa de distância?",
+    "cate_14b3c81a": "Sensor de ultrassom",
+    "BLOCK_1547779213407": "servo [ID] define o ângulo para [angle] (°)",
+    "BLOCK_1547779701469": "Falante [ID]  reproduz som [audio]",
+    "BLOCK_1547779887637": "Falante [ID]  Reproduz áudio personalizado [audio] até que feito",
+    "BLOCK_1547781171854": "Falante [ID]  define o volume para [volume] %"
+};

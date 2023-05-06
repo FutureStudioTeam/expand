@@ -1,0 +1,83 @@
+{
+    "id": "uno_shield",
+    "iconURL": "uno_shield/imgs/default--cover.png",
+    "coverURL": "./res/default--cover.png",
+    "name": {
+        "zh": "uno_shield",
+        "en": "Uno Shield",
+        "de": "Uno Shield",
+        "es": "Uno Shield",
+        "fr": "Uno Shield",
+        "id": "Uno Shield",
+        "ja": "Uno Shield",
+        "ja-jph": "Uno Shield",
+        "ko": "Uno Shield",
+        "pl": "Uno Shield",
+        "uk": "Uno Shield",
+        "zh-hant": "Uno Shield",
+        "nl": "Uno Shield",
+        "it": "Uno Shield",
+        "hr": "Uno Shield",
+        "ru": "Uno Shield",
+        "pt": "Uno Shield",
+        "fi": "Uno Shield",
+        "tr": "Uno Shield",
+        "tk": "Uno Shield",
+        "ar": "Uno Shield",
+        "ca": "Uno Shield",
+        "cs": "Uno Shield",
+        "fa": "Uno Shield",
+        "km": "Uno Shield",
+        "he": "Uno Shield",
+        "vi": "Uno Shield"
+    },
+    "description": {
+        "zh": "uno shield扩展",
+        "en": "Uno shield extension",
+        "de": "Uno shield extension",
+        "es": "Uno shield extension",
+        "fr": "Uno shield extension",
+        "id": "Uno shield extension",
+        "ja": "Uno shield extension",
+        "ja-jph": "Uno shield extension",
+        "ko": "Uno shield extension",
+        "pl": "Uno shield extension",
+        "uk": "Uno shield extension",
+        "zh-hant": "Uno shield extension",
+        "nl": "Uno shield extension",
+        "it": "Uno shield extension",
+        "hr": "Uno shield extension",
+        "ru": "Uno shield extension",
+        "pt": "Uno shield extension",
+        "fi": "Uno shield extension",
+        "tr": "Uno shield extension",
+        "tk": "Uno shield extension",
+        "ar": "Uno shield extension",
+        "ca": "Uno shield extension",
+        "cs": "Uno shield extension",
+        "fa": "Uno shield extension",
+        "km": "Uno shield extension",
+        "he": "Uno shield extension",
+        "vi": "Uno shield extension"
+    },
+    "fromScratch3": false,
+    "targets": [
+        "arduino_uno"
+    ],
+    "main": "uno_shield/index.js",
+    "codeTypes": [
+        "arduinoc"
+    ],
+    "device": false,
+    "sortId": 999,
+    "version": "0.0.2",
+    "extApiVersion": [
+        "1.0.3"
+    ],
+    "platform": [
+        "mblockpc",
+        "mblockweb"
+    ],
+    "homepage": "http://www.mblock.cc/api-docs/_preview/mblock-5/zh/use-extensions/use-extensions.html",
+    "feature": []
+}

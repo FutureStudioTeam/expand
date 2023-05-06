@@ -1,0 +1,23 @@
+export default {
+    "halocode_mbuild_servodriver": "伺服馬達驅動器",
+    "extensionName": "伺服馬達驅動器",
+    "extensionDescription": "",
+    "BLOCK_1550543186478_INDEX_0": "1",
+    "BLOCK_1550543186478_INDEX_1": "2",
+    "BLOCK_1550543186478_INDEX_2": "3",
+    "BLOCK_1550543186478_INDEX_3": "4",
+    "BLOCK_1550543186478_INDEX_4": "5",
+    "BLOCK_1550543186478_INDEX_5": "6",
+    "BLOCK_1550543186478_INDEX_6": "7",
+    "BLOCK_1550543186478_INDEX_7": "8",
+    "BLOCK_1550543186478": "伺服馬達驅動器 [index] 設定角度為 [angle] 度",
+    "BLOCK_1550543202398": "伺服馬達驅動器 [index] 增加 [angle] 度的角度",
+    "BLOCK_1550543213773": "伺服馬達驅動器 [index] 移動到零位置",
+    "BLOCK_1550543222423": "伺服馬達驅動器 [index] 現在位置（度）",
+    "BLOCK_1550543238558": "伺服馬達驅動器 [index] 負載 (%)",
+    "cate_dc643ec1": "伺服馬達驅動器",
+    "BLOCK_1547779213407": "伺服馬達 [ID] 旋轉到 [angle] 度",
+    "BLOCK_1547779701469": "喇叭 [ID] 播放 [audio] 聲音",
+    "BLOCK_1547779887637": "喇叭 [ID] 播放 [audio] 音樂檔直到結束",
+    "BLOCK_1547781171854": "喇叭 [ID] 的音量設定為 [volume] %"
+};

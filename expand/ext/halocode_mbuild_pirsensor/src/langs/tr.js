@@ -1,0 +1,21 @@
+export default {
+    "halocode_mbuild_pirsensor": "PIR sensörü",
+    "extensionName": "PIR sensörü",
+    "extensionDescription": "",
+    "EVENT_PIR_INDEX_0": "1",
+    "EVENT_PIR_INDEX_1": "2",
+    "EVENT_PIR_INDEX_2": "3",
+    "EVENT_PIR_INDEX_3": "4",
+    "EVENT_PIR_INDEX_4": "5",
+    "EVENT_PIR_INDEX_5": "6",
+    "EVENT_PIR_INDEX_6": "7",
+    "EVENT_PIR_INDEX_7": "8",
+    "event_pir": "PIR sensörü [index] insan vücudu algılar?",
+    "pir_count": "PIR sensörü[index] bir insan vücudunun kaç kez algılandığını",
+    "pir_count_make_zero": "PIR sensörü [index] zaman sayısını sıfırlar",
+    "cate_7477652c": "PIR sensörü",
+    "BLOCK_1547779213407": "servo [ID] döndürüyor [angle] (°)",
+    "BLOCK_1547779701469": "Hoparlör [ID]  ses oynatma [audio]",
+    "BLOCK_1547779887637": "Hoparlör [ID]  ses dosyasını oynatma [audio] bitirene kadar",
+    "BLOCK_1547781171854": "Hoparlör [ID]  birimi ayarlayın [volume] %"
+};

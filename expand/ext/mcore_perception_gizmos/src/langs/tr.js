@@ -1,0 +1,21 @@
+export default {
+    "mcore_perception_gizmos": "Zımbırtı Algılandı",
+    "extensionName": "Zımbırtı Algılandı",
+    "extensionDescription": "5 mBot genişleme projelerinde, algılayıcılarla elektronik temellerini öğrenmenize yardımcı olacak çeşitli örneklere erişebilirsiniz.",
+    "MCORE_RUN_FAN_PORT_0": "giriş1",
+    "MCORE_RUN_FAN_PORT_1": "giriş2",
+    "MCORE_RUN_FAN_PORT_2": "giriş3",
+    "MCORE_RUN_FAN_PORT_3": "giriş4",
+    "MCORE_RUN_FAN_FAN_ROTATE_0": "saat yönüne",
+    "MCORE_RUN_FAN_FAN_ROTATE_1": "saat yönünün tersine",
+    "MCORE_RUN_FAN_FAN_ROTATE_2": "dur",
+    "mcore_run_fan": "[ICON] fan [PORT] dönsün [FAN_ROTATE]",
+    "MCORE_DETECT_EXTERNAL_LOUDNESS_PORT_0": "giriş3",
+    "MCORE_DETECT_EXTERNAL_LOUDNESS_PORT_1": "giriş4",
+    "mcore_detect_external_loudness": "[ICON] ses algılayıcı [PORT] ses şiddeti",
+    "MCORE_DETEC_TEMPERATURE_SLOT_0": "yuva1",
+    "MCORE_DETEC_TEMPERATURE_SLOT_1": "yuva2",
+    "mcore_detec_temperature": "[ICON] sıcaklık algılayıcı [PORT] [SLOT] değeri(℃)",
+    "mcore_detect_potentiometer": "[ICON] potansiyometre [PORT] değer",
+    "CATEGORY_PERCEPTION": "Zımbırtı"
+};

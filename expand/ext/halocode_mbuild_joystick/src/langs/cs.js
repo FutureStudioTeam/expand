@@ -1,0 +1,22 @@
+export default {
+    "halocode_mbuild_joystick": "Joystick",
+    "extensionName": "Joystick",
+    "extensionDescription": "",
+    "BLOCK_1559707965944_INDEX_0": "1",
+    "BLOCK_1559707965944_INDEX_1": "2",
+    "BLOCK_1559707965944_INDEX_2": "3",
+    "BLOCK_1559707965944_INDEX_3": "4",
+    "BLOCK_1559707965944_INDEX_4": "5",
+    "BLOCK_1559707965944_INDEX_5": "6",
+    "BLOCK_1559707965944_INDEX_6": "7",
+    "BLOCK_1559707965944_INDEX_7": "8",
+    "BLOCK_1559707965944_DIR_0": "nahoru",
+    "BLOCK_1559707965944_DIR_1": "dolů",
+    "BLOCK_1559707965944_DIR_2": "doleva",
+    "BLOCK_1559707965944_DIR_3": "doprava",
+    "BLOCK_1559707965944": "joystick[index] [dir]se třese?",
+    "BLOCK_1559708436297_AXIS_0": "osa-x",
+    "BLOCK_1559708436297_AXIS_1": "osa-y",
+    "BLOCK_1559708436297": "joystick [index] [axis] hodnota",
+    "cate_38b05160": "Joystick"
+};

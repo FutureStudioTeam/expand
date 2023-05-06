@@ -1,0 +1,21 @@
+export default {
+    "mcore_perception_gizmos": "Snímání Gizmos",
+    "extensionName": "Snímání Gizmos",
+    "extensionDescription": "V projektech rozšíření 5 mBot máte přístup k řadě příkladů, které vám pomohou naučit se používat senzory a ovládnout základy elektroniky.",
+    "MCORE_RUN_FAN_PORT_0": "port1",
+    "MCORE_RUN_FAN_PORT_1": "port2",
+    "MCORE_RUN_FAN_PORT_2": "port3",
+    "MCORE_RUN_FAN_PORT_3": "port4",
+    "MCORE_RUN_FAN_FAN_ROTATE_0": "po směru hodinových ručiček",
+    "MCORE_RUN_FAN_FAN_ROTATE_1": "proti směru hodinových ručiček",
+    "MCORE_RUN_FAN_FAN_ROTATE_2": "zastavit",
+    "mcore_run_fan": "[ICON] ventrilátor [PORT] [FAN_ROTATE] otáčet",
+    "MCORE_DETECT_EXTERNAL_LOUDNESS_PORT_0": "port3",
+    "MCORE_DETECT_EXTERNAL_LOUDNESS_PORT_1": "port4",
+    "mcore_detect_external_loudness": "[ICON] senzor zvuku [PORT] hlasitost",
+    "MCORE_DETEC_TEMPERATURE_SLOT_0": "slot 1",
+    "MCORE_DETEC_TEMPERATURE_SLOT_1": "slot 2",
+    "mcore_detec_temperature": "[ICON] teplotní čído [PORT] [SLOT] teplota(℃)",
+    "mcore_detect_potentiometer": "[ICON] potenciometr [PORT] hodnota",
+    "CATEGORY_PERCEPTION": "Gizmos"
+};

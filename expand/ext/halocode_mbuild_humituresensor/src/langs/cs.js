@@ -1,0 +1,21 @@
+export default {
+    "halocode_mbuild_humituresensor": "Senzor vlhkosti",
+    "extensionName": "Senzor vlhkosti",
+    "extensionDescription": "",
+    "OP_TEMPERATURE_INDEX_0": "1",
+    "OP_TEMPERATURE_INDEX_1": "2",
+    "OP_TEMPERATURE_INDEX_2": "3",
+    "OP_TEMPERATURE_INDEX_3": "4",
+    "OP_TEMPERATURE_INDEX_4": "5",
+    "OP_TEMPERATURE_INDEX_5": "6",
+    "OP_TEMPERATURE_INDEX_6": "7",
+    "OP_TEMPERATURE_INDEX_7": "8",
+    "op_temperature": "senzor pocitové teploty [index] teplota (°C)",
+    "op_htemperature": "pocitová teplota [index]（℉）",
+    "op_humidity": "senzor pocitové teploty [index] vzdušná vlhkost (%)",
+    "cate_5ce6a4bb": "Senzor pocitové teploty",
+    "BLOCK_1547779213407": "servo [ID] otočit na [angle] (°)",
+    "BLOCK_1547779701469": "reproduktor [ID]  přehrát zvuk [audio]",
+    "BLOCK_1547779887637": "reproduktor [ID]  přehrát zvukový soubor [audio] až do dokončení",
+    "BLOCK_1547781171854": "reproduktor [ID] nastavi hlasitost na [volume] %"
+};

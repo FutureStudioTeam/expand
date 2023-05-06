@@ -1,0 +1,71 @@
+{
+    "id": "novapi_mbuild_speak",
+    "iconURL": "novapi_mbuild_speak/imgs/6e85f556ba9e40eb87a4307da1021ef0.png",
+    "coverURL": "./res/6e85f556ba9e40eb87a4307da1021ef0.png",
+    "name": {
+        "zh": "扬声器",
+        "en": "Speaker",
+        "de": "Speaker",
+        "es": "Speaker",
+        "fr": "Speaker",
+        "id": "Speaker",
+        "ja": "Speaker",
+        "ja-jph": "Speaker",
+        "ko": "Speaker",
+        "pl": "Speaker",
+        "uk": "Speaker",
+        "zh-hant": "Speaker",
+        "nl": "Speaker",
+        "it": "Speaker",
+        "hr": "Speaker",
+        "ru": "Speaker",
+        "pt": "Speaker",
+        "fi": "Speaker",
+        "tr": "Speaker",
+        "tk": "Speaker",
+        "fa": "Speaker"
+    },
+    "description": {
+        "zh": "",
+        "en": "",
+        "de": "",
+        "es": "",
+        "fr": "",
+        "id": "",
+        "ja": "",
+        "ja-jph": "",
+        "ko": "",
+        "pl": "",
+        "uk": "",
+        "zh-hant": "",
+        "nl": "",
+        "it": "",
+        "hr": "",
+        "ru": "",
+        "pt": "",
+        "fi": "",
+        "tr": "",
+        "tk": "",
+        "fa": ""
+    },
+    "fromScratch3": false,
+    "targets": [
+        "novapi"
+    ],
+    "main": "novapi_mbuild_speak/index.js",
+    "codeTypes": [
+        "python"
+    ],
+    "device": false,
+    "sortId": 999,
+    "version": "0.0.1",
+    "extApiVersion": [
+        "1.0.2"
+    ],
+    "platform": [
+        "mblockpc",
+        "mblockweb"
+    ],
+    "homepage": "http://docs.makeblock.com/diy-platform/zh/mbuild/hardware/output-modules/speaker.html",
+    "feature": []
+}

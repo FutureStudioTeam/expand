@@ -1,0 +1,20 @@
+export default {
+    "auriga_perception_gizmos": "Mendeteksi Gawai",
+    "extensionName": "Mendeteksi Gawai",
+    "extensionDescription": "Dalam proyek ekstensi mBot Ranger 2, Anda akan mempelajari cara menggunakan sensor dalam kehidupan sehari-hari dan mendapatkan pemahaman yang lebih baik tentang elektronik. ",
+    "AURIGA_RUN_FAN_PORT_0": "port6",
+    "AURIGA_RUN_FAN_PORT_1": "port7",
+    "AURIGA_RUN_FAN_PORT_2": "port8",
+    "AURIGA_RUN_FAN_PORT_3": "port9",
+    "AURIGA_RUN_FAN_PORT_4": "port10",
+    "AURIGA_RUN_FAN_FAN_ROTATE_0": "searah jarum jam",
+    "AURIGA_RUN_FAN_FAN_ROTATE_1": "ikut",
+    "AURIGA_RUN_FAN_FAN_ROTATE_2": "Stop",
+    "auriga_run_fan": "[ICON]kipas angin [PORT] [FAN_ROTATE] berputar",
+    "auriga_detect_external_loudness": "[ICON] sensor suara [PORT] kenyaringan",
+    "AURIGA_DETEC_TEMPERATURE_SLOT_0": "Slot1",
+    "AURIGA_DETEC_TEMPERATURE_SLOT_1": "Slot2",
+    "auriga_detec_temperature": "[ICON]sensor suhu [PORT] [SLOT] Temperature(℃)",
+    "auriga_detect_potentiometer": "[ICON] potensiometer[PORT] nilai",
+    "CATEGORY_PERCEPTION": "Mendeteksi Gawai"
+};

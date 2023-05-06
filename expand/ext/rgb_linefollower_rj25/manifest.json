@@ -1,0 +1,76 @@
+{
+    "id": "rgb_linefollower_rj25",
+    "iconURL": "rgb_linefollower_rj25/imgs/6243bdee66c7480e8db0cf776e3b9d5b.png",
+    "coverURL": "./res/6243bdee66c7480e8db0cf776e3b9d5b.png",
+    "name": {
+        "zh": "RGB巡线传感器",
+        "en": "RGB Line Follower",
+        "de": "RGB Line Follower",
+        "es": "RGB Line Follower",
+        "fr": "RGB Line Follower",
+        "id": "RGB Line Follower",
+        "ja": "RGBライントレース",
+        "ja-jph": "RGBライントレース",
+        "ko": "RGB 선 팔로 워",
+        "pl": "RGB Line Followe",
+        "uk": "RGB датчик слідування за лінією",
+        "zh-hant": "RGB循線感測器",
+        "nl": "RGB Lijnvolger",
+        "it": "Inseguitore di linea RGB",
+        "hr": "RGB Line Follower",
+        "ru": "RGB Line Follower",
+        "pt": "RGB Line Follower",
+        "fi": "RGB Line Follower",
+        "tr": "RGB Çizgi İzleyici",
+        "tk": "RGB Çyzygy Yzarlaýjy",
+        "fa": "دنبال کننده خط RGB"
+    },
+    "description": {
+        "zh": "RGB巡线传感器",
+        "en": "RGB Line Follower",
+        "de": "RGB Line Follower",
+        "es": "RGB Line Follower",
+        "fr": "RGB Line Follower",
+        "id": "RGB Line Follower",
+        "ja": "RGBライントレース",
+        "ja-jph": "RGBライントレース",
+        "ko": "RGB 선 팔로 워",
+        "pl": "RGB Line Follower",
+        "uk": "RGB датчик слідування за лінією",
+        "zh-hant": "RGB循線感測器",
+        "nl": "RGB Lijnvolger",
+        "it": "Inseguitore di linea RGB",
+        "hr": "RGB Line Follower",
+        "ru": "RGB Line Follower",
+        "pt": "RGB Line Follower",
+        "fi": "RGB Line Follower",
+        "tr": "RGB Çizgi İzleyici",
+        "tk": "RGB Çyzygy Yzarlaýjy",
+        "fa": "دنبال کننده خط RGB"
+    },
+    "fromScratch3": false,
+    "targets": [
+        "auriga",
+        "mcore",
+        "megapipro",
+        "megapi",
+        "orion"
+    ],
+    "main": "rgb_linefollower_rj25/index.js",
+    "codeTypes": [
+        "arduinoc"
+    ],
+    "device": false,
+    "sortId": 999,
+    "version": "1.0.6",
+    "extApiVersion": [
+        "1.0.0",
+        "1.0.1"
+    ],
+    "platform": [
+        "mblockpc",
+        "mblockweb"
+    ],
+    "homepage": "http://www.mblock.cc/api-docs/_preview/mblock-5/zh/use-extensions/use-extensions.html",
+    "feature": []
+}

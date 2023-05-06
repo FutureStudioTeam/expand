@@ -1,0 +1,77 @@
+{
+    "id": "novapi_mbuild_light_sensor",
+    "iconURL": "novapi_mbuild_light_sensor/imgs/bf32494ee27d49a2af2a28ecdaeddb3c.png",
+    "coverURL": "./res/bf32494ee27d49a2af2a28ecdaeddb3c.png",
+    "name": {
+        "zh": "光线传感器",
+        "en": "Light Sensor",
+        "de": "Light Sensor",
+        "es": "Light Sensor",
+        "fr": "Light Sensor",
+        "id": "Light Sensor",
+        "ja": "Light Sensor",
+        "ja-jph": "Light Sensor",
+        "ko": "Light Sensor",
+        "pl": "Light Sensor",
+        "uk": "Light Sensor",
+        "zh-hant": "Light Sensor",
+        "nl": "Light Sensor",
+        "it": "Light Sensor",
+        "hr": "Light Sensor",
+        "ru": "Light Sensor",
+        "pt": "Light Sensor",
+        "fi": "Light Sensor",
+        "tr": "Light Sensor",
+        "tk": "Light Sensor",
+        "ca": "Light Sensor",
+        "cs": "Light Sensor",
+        "fa": "Light Sensor",
+        "vi": "Light Sensor"
+    },
+    "description": {
+        "zh": "",
+        "en": "",
+        "de": "",
+        "es": "",
+        "fr": "",
+        "id": "",
+        "ja": "",
+        "ja-jph": "",
+        "ko": "",
+        "pl": "",
+        "uk": "",
+        "zh-hant": "",
+        "nl": "",
+        "it": "",
+        "hr": "",
+        "ru": "",
+        "pt": "",
+        "fi": "",
+        "tr": "",
+        "tk": "",
+        "ca": "",
+        "cs": "",
+        "fa": "",
+        "vi": ""
+    },
+    "fromScratch3": false,
+    "targets": [
+        "novapi"
+    ],
+    "main": "novapi_mbuild_light_sensor/index.js",
+    "codeTypes": [
+        "python"
+    ],
+    "device": false,
+    "sortId": 999,
+    "version": "0.0.1",
+    "extApiVersion": [
+        "1.0.2"
+    ],
+    "platform": [
+        "mblockpc",
+        "mblockweb"
+    ],
+    "homepage": "http://www.mblock.cc/api-docs/_preview/mblock-5/zh/use-extensions/use-extensions.html",
+    "feature": []
+}

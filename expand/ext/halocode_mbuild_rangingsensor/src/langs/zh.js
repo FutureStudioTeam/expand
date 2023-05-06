@@ -1,0 +1,20 @@
+export default {
+    "halocode_mbuild_rangingsensor": "测距传感器",
+    "extensionName": "测距传感器",
+    "extensionDescription": "",
+    "OP_RANGING_INDEX_0": "1",
+    "OP_RANGING_INDEX_1": "2",
+    "OP_RANGING_INDEX_2": "3",
+    "OP_RANGING_INDEX_3": "4",
+    "OP_RANGING_INDEX_4": "5",
+    "OP_RANGING_INDEX_5": "6",
+    "OP_RANGING_INDEX_6": "7",
+    "OP_RANGING_INDEX_7": "8",
+    "op_ranging": "测距传感器 [index] 与障碍物的距离 (cm)",
+    "event_ranging_pressed": "测距传感器 [index] 超出量程？",
+    "cate_a8ddb2a0": "测距传感器",
+    "BLOCK_1547779213407": "第[ID]个 舵机控制板设置角度 为 [angle]  (°)",
+    "BLOCK_1547779701469": "第 [ID]  个 扬声器播放 [audio]",
+    "BLOCK_1547779887637": "第 [ID]  个扬声器 播放自定义音频 [filename] 直到结束",
+    "BLOCK_1547781171854": "第 [ID] 个 扬声器 设置音量为 [volume]  %"
+};

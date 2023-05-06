@@ -1,0 +1,22 @@
+export default {
+    "audio_player_rj25": "Reproductor de audio",
+    "extensionName": "Reproductor de audio",
+    "extensionDescription": "Audio Player",
+    "audioplayer_init": "inicializa el reproductor de audio en: cualquier puerto blanco (I2C)",
+    "audioplayer_play_by_sn": "reproductor de audio: reproduce el archivo de audio [FILE_SN]",
+    "audioplayer_play_by_name": "reproductor de audio: reproduce el archivo de audio [FILE_NAME]",
+    "AUDIOPLAYER_SET_PLAY_MODE_PLAY_MODE_0": "solo uno",
+    "AUDIOPLAYER_SET_PLAY_MODE_PLAY_MODE_1": "en bucle",
+    "AUDIOPLAYER_SET_PLAY_MODE_PLAY_MODE_2": "en orden",
+    "AUDIOPLAYER_SET_PLAY_MODE_PLAY_MODE_3": "Shuffle",
+    "audioplayer_set_play_mode": "reproductor de audio: modo de reproducción [PLAY_MODE]",
+    "audioplayer_play_previous": "reproductor de audio: reproduce archivo de audio anterior",
+    "audioplayer_play_next": "reproductor de audio: reproduce el archivo de audio siguiente",
+    "audioplayer_pause": "reproductor de audio: pausa/continua",
+    "audioplayer_stop": "reproductor de audio: para",
+    "audioplayer_set_volume": "reproductor de audio: fija el volumen a [VOLUME] %",
+    "audioplayer_volume_up": "reproductor de audio: sube volumen",
+    "audioplayer_volume_down": "reproductor de audio: baja volumen",
+    "audioplayer_record": "reproductor de audio: inicia la grabación y guárdala en [FILE_NAME]",
+    "audioplayer_record_stop": "reproductor de audio: para la grabación"
+};

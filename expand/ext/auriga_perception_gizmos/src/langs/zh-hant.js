@@ -1,0 +1,20 @@
+export default {
+    "auriga_perception_gizmos": "感知小發明",
+    "extensionName": "感知小發明",
+    "extensionDescription": "在 mBot Ranger擴展專案中, 您將可以學到如何在日常生活中使用感測器，而更加地瞭解電子模組的知識。 ",
+    "AURIGA_RUN_FAN_PORT_0": "連接埠6",
+    "AURIGA_RUN_FAN_PORT_1": "連接埠7",
+    "AURIGA_RUN_FAN_PORT_2": "連接埠8",
+    "AURIGA_RUN_FAN_PORT_3": "連接埠9",
+    "AURIGA_RUN_FAN_PORT_4": "連接埠10",
+    "AURIGA_RUN_FAN_FAN_ROTATE_0": "順時針方向",
+    "AURIGA_RUN_FAN_FAN_ROTATE_1": "逆時針方向",
+    "AURIGA_RUN_FAN_FAN_ROTATE_2": "停止",
+    "auriga_run_fan": "[ICON]風扇 [PORT] [FAN_ROTATE] 旋轉",
+    "auriga_detect_external_loudness": "[ICON] 聲音感器 [PORT] 響度",
+    "AURIGA_DETEC_TEMPERATURE_SLOT_0": "插座1",
+    "AURIGA_DETEC_TEMPERATURE_SLOT_1": "插座2",
+    "auriga_detec_temperature": "[ICON]溫度感測器 [PORT] [SLOT] 溫度 (°c)",
+    "auriga_detect_potentiometer": "[ICON] 電位器[PORT] 數值",
+    "CATEGORY_PERCEPTION": "感知小發明"
+};

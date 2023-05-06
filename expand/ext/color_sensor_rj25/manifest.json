@@ -1,0 +1,75 @@
+{
+  "id": "color_sensor_rj25",
+  "iconURL": "color_sensor_rj25/imgs/0cd25825f1e446279d162dec544b5c46.png",
+  "coverURL": "./res/0cd25825f1e446279d162dec544b5c46.png",
+  "res": [
+    "./imgs"
+  ],
+  "name": {
+    "zh": "颜色传感器",
+    "en": "Color Sensor",
+    "de": "Farbsensor",
+    "es": "Sensor de color",
+    "fr": "Capteur de couleur",
+    "id": "Sensor Warna",
+    "ja": "カラーセンサー",
+    "ja-jph": "カラーセンサー",
+    "ko": "컬러 센서",
+    "pl": "Czujnik koloru",
+    "uk": "Датчик кольору",
+    "zh-hant": "顏色感測器",
+    "nl": "Kleur sensor",
+    "it": "Sensore di colore",
+    "hr": "Senzor boje",
+    "ru": "Датчик цвета",
+    "pt": "Sensor de cor",
+    "fi": "Väri anturi",
+    "tr": "Renk Algılayıcı",
+    "tk": "Reňki duýujy enjam"
+  },
+  "description": {
+    "zh": "颜色传感器",
+    "en": "Color Sensor",
+    "de": "Farbsensor",
+    "es": "Sensor de color",
+    "fr": "Capteur de couleur",
+    "id": "Sensor Warna",
+    "ja": "カラーセンサー",
+    "ja-jph": "カラーセンサー",
+    "ko": "컬러 센서",
+    "pl": "Czujnik koloru",
+    "uk": "Датчик кольору",
+    "zh-hant": "顏色感測器",
+    "nl": "Kleur sensor",
+    "it": "Sensore di colore",
+    "hr": "Senzor boje",
+    "ru": "Датчик цвета",
+    "pt": "Sensor de cor",
+    "fi": "Väri anturi",
+    "tr": "Renk Algılayıcı",
+    "tk": "Reňki duýujy enjam"
+  },
+  "targets": [
+    "auriga",
+    "mcore",
+    "megapipro",
+    "megapi",
+    "orion"
+  ],
+  "main": "color_sensor_rj25/index.js",
+  "codeTypes": [
+    "arduinoc"
+  ],
+  "device": false,
+  "sortId": 999,
+  "version": "1.0.4",
+  "extApiVersion": [
+    "1.0.0",
+    "1.0.1"
+  ],
+  "platform": [
+    "mblockpc",
+    "mblockweb"
+  ],
+  "homepage": "http://www.mblock.cc/api-docs/_preview/mblock-5/zh/use-extensions/use-extensions.html"
+}

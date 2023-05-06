@@ -1,0 +1,70 @@
+{
+    "id": "megapi_bluetoothcontroller",
+    "iconURL": "megapi_bluetoothcontroller/imgs/0f43197a26ee4f3ba6d2cd579ba40ac3.png",
+    "coverURL": "./res/0f43197a26ee4f3ba6d2cd579ba40ac3.png",
+    "name": {
+        "zh": "蓝牙手柄",
+        "en": "Bluetooth Controller",
+        "de": "Bluetooth Controller",
+        "es": "Bluetooth Controller",
+        "fr": "Bluetooth Controller",
+        "id": "Bluetooth Controller",
+        "ja": "Bluetooth Controller",
+        "ja-jph": "Bluetooth Controller",
+        "ko": "Bluetooth Controller",
+        "pl": "Bluetooth Controller",
+        "uk": "Bluetooth Controller",
+        "zh-hant": "Bluetooth Controller",
+        "nl": "Bluetooth Controller",
+        "it": "Bluetooth Controller",
+        "hr": "Bluetooth Controller",
+        "ru": "Bluetooth Controller",
+        "pt": "Bluetooth Controller",
+        "fi": "Bluetooth Controller",
+        "tr": "Bluetooth Controller",
+        "tk": "Bluetooth Controller",
+        "fa": "Bluetooth Controller"
+    },
+    "description": {
+        "zh": "用蓝牙手柄玩转你的设备",
+        "en": "Use the Bluetooth controller to make your robot do whatever you would like.",
+        "de": "Use the Bluetooth controller to make your robot do whatever you would like.",
+        "es": "Use the Bluetooth controller to make your robot do whatever you would like.",
+        "fr": "Use the Bluetooth controller to make your robot do whatever you would like.",
+        "id": "Use the Bluetooth controller to make your robot do whatever you would like.",
+        "ja": "Use the Bluetooth controller to make your robot do whatever you would like.",
+        "ja-jph": "Use the Bluetooth controller to make your robot do whatever you would like.",
+        "ko": "Use the Bluetooth controller to make your robot do whatever you would like.",
+        "pl": "Use the Bluetooth controller to make your robot do whatever you would like.",
+        "uk": "Use the Bluetooth controller to make your robot do whatever you would like.",
+        "zh-hant": "Use the Bluetooth controller to make your robot do whatever you would like.",
+        "nl": "Use the Bluetooth controller to make your robot do whatever you would like.",
+        "it": "Use the Bluetooth controller to make your robot do whatever you would like.",
+        "hr": "Use the Bluetooth controller to make your robot do whatever you would like.",
+        "ru": "Use the Bluetooth controller to make your robot do whatever you would like.",
+        "pt": "Use the Bluetooth controller to make your robot do whatever you would like.",
+        "fi": "Use the Bluetooth controller to make your robot do whatever you would like.",
+        "tr": "Use the Bluetooth controller to make your robot do whatever you would like.",
+        "tk": "Use the Bluetooth controller to make your robot do whatever you would like.",
+        "fa": "Use the Bluetooth controller to make your robot do whatever you would like."
+    },
+    "targets": [
+        "megapi"
+    ],
+    "main": "megapi_bluetoothcontroller/index.js",
+    "codeTypes": [
+        "arduinoc"
+    ],
+    "device": false,
+    "sortId": 999,
+    "version": "1.0.0",
+    "extApiVersion": [
+        "1.0.0"
+    ],
+    "platform": [
+        "mblockpc",
+        "mblockweb"
+    ],
+    "homepage": "http://www.mblock.cc/api-docs/_preview/mblock-5/zh/use-extensions/use-extensions.html",
+    "feature": []
+}

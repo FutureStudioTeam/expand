@@ -1,0 +1,78 @@
+{
+    "id": "mcore_servo_pack",
+    "iconURL": "mcore_servo_pack/imgs/d8c5811a419249d0b9f5d76fbfdd5764.png",
+    "coverURL": "./res/d8c5811a419249d0b9f5d76fbfdd5764.png",
+    "name": {
+        "zh": "动感小猫",
+        "en": "Servo Pack",
+        "de": "Servo Pack",
+        "es": "Pack Servo",
+        "fr": "Pack servo",
+        "id": "Servo Pack",
+        "ja": "光・サーボ",
+        "ja-jph": "ひかり・サーボ",
+        "ko": "서보 팩",
+        "pl": "Zestaw serwo",
+        "uk": "Серво Пак",
+        "zh-hant": "動感小貓",
+        "nl": "Servo Pack",
+        "it": "Servo Pack",
+        "hr": "Servo Pack",
+        "ru": "Набор сервоприводов",
+        "pt": "Servo Pack",
+        "fi": "Servo Pack",
+        "tr": "Servo Paketi",
+        "tk": "Serwo-hereketlendirijiler toplumy",
+        "ca": "Pack servo",
+        "cs": "Servomotor",
+        "fa": "بسته سرو",
+        "vi": "Nhóm động cơ Servo"
+    },
+    "description": {
+        "zh": "“跳舞小猫”、“东张西望小猫”和“小猫探照灯”三种形态，让mBot化身可爱小猫，古灵精怪、萌态十足。",
+        "en": "Turn your mBot into a cat. Make it dance, gaze around and illuminate.",
+        "de": "Verwandeln Sie Ihren mBot in eine Katze. Lassen Sie ihn tanzen, herumsuchen und leuchten.",
+        "es": "Convierte tu mBot en un gato. Hazlo bailar, mirar alrededor y encenderse.",
+        "fr": "Transformez votre mbot en chat. Faites-le danser, regarder autour de lui et s'illuminer.",
+        "id": "Mengubah mBot Anda menjadi kucing. Buat mBot menari, memandang ke sekeliling, dan beriluminasi.",
+        "ja": "mBotを猫に変身させましょう。踊ったり、凝視したり、辺りを照らすようになります。",
+        "ja-jph": "mBotをねこにへんしんさせましょう。おどったり、ぎょうししたり、まわりをてらすようになります。",
+        "ko": "당신의 mBot을 고양이로 바꾸세요. 주위를 둘러보고 밝게 비추고 춤을 춥니다.",
+        "pl": "Zestaw zawiera serwomechanizm (silniczek z możliwością definiowania kąta obrotu/pozycji) z elementami mocującymi. Dzięki niemu Twój mBot będzie w stanie podnosić - przesuwać - chwytać przedmioty. Dodatkowo w zestawie znajdziesz moduł LED do sygnalizacji.",
+        "uk": "Перетворіть вашого mBot в кішку. Запрограмуйте його танцювати, дивитися навколо і світити очима.",
+        "zh-hant": "把你的 mBot 變成貓。讓它跳舞著, 像黑暗中四處張望的目光。",
+        "nl": "Verander je mBot in een kat. Laat hem dansen, rondkijken en verlichten.",
+        "it": "Trasforma il tuo mBot in un gatto. Farlo ballare, guardare intorno e illuminare.",
+        "hr": "Pretvori svojeg mBota u mačku. Nagovori ga da pleše, gleda naokolo i svijetli.",
+        "ru": "Превратите вашего mBot в кота. Пусть он танцует, оглядывается и светит глазами.",
+        "pt": "Transforma o teu mBot num gato. Põe-no a dançar, olhar ao redor e iluminar.",
+        "fi": "Käännä mBot osaksi kissa. Tee se tanssia, katseen ympäri ja valaise.",
+        "tr": "mBot'unuzu bir kediye dönüştürün. Dans etsin, etrafına baksın ve ışıklar saçsın.",
+        "tk": "mBot robotyňyzy pişige öwüriň. Goý ol tans etsin, töweregine garanjaklasyn we yşyklarDans etsin, etrafına baksın ve ışıklar saçsın.",
+        "ca": "Converteix mBot en un gat. Fes que balli, miri al voltant i s'iŀlumini.",
+        "cs": "Proměňte své mBot v kočku. Nechte ji tancova, rozhlížet se kolem a svítit.",
+        "fa": "ام بات خود را به یک گربه تبدیل کنید، آن را به رقص در آورید ، و توجه همه را به آن جلب کنید.",
+        "vi": "Biến mBot của bạn thành một con mèo. Làm cho nó khiêu vũ, ngắm nhìn xung quanh và thắp sáng."
+    },
+    "fromScratch3": false,
+    "targets": [
+        "mcore"
+    ],
+    "main": "mcore_servo_pack/index.js",
+    "codeTypes": [
+        "arduinoc"
+    ],
+    "device": false,
+    "sortId": 999,
+    "version": "0.4.1",
+    "extApiVersion": [
+        "1.0.0"
+    ],
+    "platform": [
+        "mblockpc",
+        "mblockweb",
+        "mblockapp"
+    ],
+    "homepage": "http://www.mblock.cc/api-docs/_preview/mblock-5/zh/use-extensions/use-extensions.html",
+    "feature": []
+}

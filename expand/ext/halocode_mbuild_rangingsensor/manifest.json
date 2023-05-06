@@ -1,0 +1,79 @@
+{
+    "id": "halocode_mbuild_rangingsensor",
+    "iconURL": "halocode_mbuild_rangingsensor/imgs/c47953125cb64575a940796a2008f223.png",
+    "coverURL": "./res/c47953125cb64575a940796a2008f223.png",
+    "name": {
+        "zh": "测距传感器",
+        "en": "Ranging Sensor",
+        "de": "Randsensor",
+        "es": "Sensor de distancia",
+        "fr": "Capteur de télémétrie",
+        "id": "Mulai sensor",
+        "ja": "測距センサー",
+        "ja-jph": "そっきょセンサー",
+        "ko": "거리 측정 센서",
+        "pl": "Czujnik zakresu",
+        "uk": "Датчик відстані",
+        "zh-hant": "測距感測器",
+        "nl": "Variërende sensor",
+        "it": "Sensore di distanza",
+        "hr": "Senzor raspona",
+        "ru": "Датчик ранжирование",
+        "pt": "Sensor de alcance",
+        "fi": "Vaihtelevat anturi",
+        "tr": "Sensör aralığı",
+        "tk": "Aralygy duýujy enjam",
+        "ca": "Sensor de distàncies",
+        "cs": "Senzor vzdálenosti",
+        "fa": "سنسور بازه",
+        "vi": "Cảm biến khác nhau"
+    },
+    "description": {
+        "zh": "",
+        "en": "",
+        "de": "",
+        "es": "",
+        "fr": "",
+        "id": "",
+        "ja": "",
+        "ja-jph": "",
+        "ko": "",
+        "pl": "",
+        "uk": "",
+        "zh-hant": "",
+        "nl": "",
+        "it": "",
+        "hr": "",
+        "ru": "",
+        "pt": "",
+        "fi": "",
+        "tr": "",
+        "tk": "",
+        "ca": "",
+        "cs": "",
+        "fa": "",
+        "vi": ""
+    },
+    "fromScratch3": false,
+    "targets": [
+        "haloboard",
+        "cyberpi"
+    ],
+    "main": "halocode_mbuild_rangingsensor/index.js",
+    "codeTypes": [
+        "python"
+    ],
+    "device": false,
+    "sortId": 999,
+    "version": "0.0.5",
+    "extApiVersion": [
+        "1.0.2"
+    ],
+    "platform": [
+        "mblockpc",
+        "mblockweb",
+        "mblockapp"
+    ],
+    "homepage": "http://docs.makeblock.com/diy-platform/zh/mbuild/hardware/sensors/ranging-sensor.html",
+    "feature": []
+}

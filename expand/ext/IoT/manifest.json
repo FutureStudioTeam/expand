@@ -1,0 +1,83 @@
+{
+    "id": "IoT",
+    "iconURL": "IoT/imgs/2ff23bb7f06b4091b76896e750f14bc3.jpg",
+    "coverURL": "./res/2ff23bb7f06b4091b76896e750f14bc3.jpg",
+    "name": {
+        "zh": "IoT",
+        "en": "IoT",
+        "de": "IoT",
+        "es": "IoT",
+        "fr": "IoT",
+        "id": "IoT",
+        "ja": "IoT",
+        "ja-jph": "IoT",
+        "ko": "IoT",
+        "pl": "Internet Rzeczy",
+        "uk": "Інтернет речей",
+        "zh-hant": "物聯網",
+        "nl": "IoT",
+        "it": "IoT",
+        "hr": "IoT",
+        "ru": "Интернет вещей",
+        "pt": "IoT",
+        "fi": "IoT",
+        "tr": "IoT",
+        "tk": "IoT (Zatlaryň Interneti)",
+        "ar": "إنترنت الأشياء",
+        "ca": "IoT",
+        "cs": "IoT",
+        "fa": "اینترنت اشیا",
+        "km": "IoT",
+        "vi": "IoT"
+    },
+    "description": {
+        "zh": "让小程接入互联网，实现物联网的有趣应用~",
+        "en": "Bring Cody into IoT to make it achieve more fun things.",
+        "de": "Bringe Cody ins IoT, damit er mehr Spaß macht.",
+        "es": "Lleva a Codey al mundo de IoT para que pueda hacer más cosas divertidas.",
+        "fr": "Amenez Cody dans l'IoT pour qu'il réalise des choses plus amusantes.",
+        "id": "Bawa Cody ke IoT untuk membuatnya mencapai hal-hal yang lebih menyenangkan.",
+        "ja": "CodeyをIoT化して、より面白い機能を実現します。",
+        "ja-jph": "CodeyをIoTかして、よりおもしろいきのうをじつげんします。",
+        "ko": "코디를 IoT로 데려가 더 재미있는 일들을 경험해 보세요.",
+        "pl": "Połącz Cody do Internetu Rzeczy, aby poszerzyć jego ciekawe zdolności.",
+        "uk": "Використовуйте Codey для створення нових цікавих проектів Інтернету речей.",
+        "zh-hant": "將小程帶進物聯網，讓它實現更多有趣的事情。",
+        "nl": "Ontdek samen met Codey leuke dingen met IoT.",
+        "it": "Porta Cody nell'IoT per fargli fare cose più divertenti.",
+        "hr": "Dovedite Cody u IoT kako bi otvorili nove mogućnosti.",
+        "ru": "Используйте Codey для создания различных интересных проектов в мире интернета вещей.",
+        "pt": "Traz o Cody para a IoT para fazer coisas mais divertidas.",
+        "fi": "Tuo Codey IoT, jotta se saa aikaan hauskempia asioita.",
+        "tr": "Daha eğlenceli şeyler elde etmek için Cody'yi, IoT'ye getirin.",
+        "tk": "Has gyzykly zatlar etmek üçin Codey robotyny IoT düzümine getiriň.",
+        "ar": "جلب كودي لإنترنت الأشياء تجعله يحقق أشياء أكثر متعة.",
+        "ca": "Porta Cody a la IoT per fer-lo assolir fites més divertides.",
+        "cs": "Přiveďte Codyho do IoT, aby dosáhl zábavnějších věcí.",
+        "fa": "کودی را به IoT بیاورید تا چیزهای سرگرم کننده بیشتری را به دست آورید.",
+        "km": "នាំ Cody ចូលទៅក្នុង IoT ដើម្បីធ្វើឱ្យវាទទួលបាននូវរឿងរីករាយបន្ថែមទៀត។",
+        "vi": "Đưa Cody vào IoT để làm cho nó có nhiều điều thú vị hơn."
+    },
+    "fromScratch3": false,
+    "targets": [
+        "codey"
+    ],
+    "main": "IoT/index.js",
+    "codeTypes": [
+        "python"
+    ],
+    "device": false,
+    "sortId": 999,
+    "version": "0.4.5",
+    "extApiVersion": [
+        "1.0.0",
+        "1.0.1"
+    ],
+    "platform": [
+        "mblockpc",
+        "mblockweb",
+        "mblockapp"
+    ],
+    "homepage": "http://www.mblock.cc/api-docs/_preview/mblock-5/zh/use-extensions/use-extensions.html",
+    "feature": []
+}

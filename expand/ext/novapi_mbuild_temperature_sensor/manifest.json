@@ -1,0 +1,71 @@
+{
+    "id": "novapi_mbuild_temperature_sensor",
+    "iconURL": "novapi_mbuild_temperature_sensor/imgs/271bc74cc4014d79ac5c4bdaa42aa0a9.png",
+    "coverURL": "./res/271bc74cc4014d79ac5c4bdaa42aa0a9.png",
+    "name": {
+        "zh": "温度传感器",
+        "en": "Temperature Sensor",
+        "de": "Temperature Sensor",
+        "es": "Temperature Sensor",
+        "fr": "Temperature Sensor",
+        "id": "Temperature Sensor",
+        "ja": "Temperature Sensor",
+        "ja-jph": "Temperature Sensor",
+        "ko": "Temperature Sensor",
+        "pl": "Temperature Sensor",
+        "uk": "Temperature Sensor",
+        "zh-hant": "Temperature Sensor",
+        "nl": "Temperature Sensor",
+        "it": "Temperature Sensor",
+        "hr": "Temperature Sensor",
+        "ru": "Temperature Sensor",
+        "pt": "Temperature Sensor",
+        "fi": "Temperature Sensor",
+        "tr": "Temperature Sensor",
+        "tk": "Temperature Sensor",
+        "fa": "Temperature Sensor"
+    },
+    "description": {
+        "zh": "",
+        "en": "",
+        "de": "",
+        "es": "",
+        "fr": "",
+        "id": "",
+        "ja": "",
+        "ja-jph": "",
+        "ko": "",
+        "pl": "",
+        "uk": "",
+        "zh-hant": "",
+        "nl": "",
+        "it": "",
+        "hr": "",
+        "ru": "",
+        "pt": "",
+        "fi": "",
+        "tr": "",
+        "tk": "",
+        "fa": ""
+    },
+    "fromScratch3": false,
+    "targets": [
+        "novapi"
+    ],
+    "main": "novapi_mbuild_temperature_sensor/index.js",
+    "codeTypes": [
+        "python"
+    ],
+    "device": false,
+    "sortId": 999,
+    "version": "0.0.1",
+    "extApiVersion": [
+        "1.0.2"
+    ],
+    "platform": [
+        "mblockpc",
+        "mblockweb"
+    ],
+    "homepage": "http://docs.makeblock.com/diy-platform/zh/mbuild/hardware/sensors/temperature-sensor.html",
+    "feature": []
+}

@@ -1,0 +1,79 @@
+{
+    "id": "halocode_mbuild_ultrasonic",
+    "iconURL": "halocode_mbuild_ultrasonic/imgs/da0e4778005241849e222b790ad8f0e6.png",
+    "coverURL": "./res/da0e4778005241849e222b790ad8f0e6.png",
+    "name": {
+        "zh": "超声波传感器",
+        "en": "Ultrasonic Sensor",
+        "de": "Ultraschall-Sensor",
+        "es": "Sensor de ultrasonidos",
+        "fr": "Capteur ultrasonique",
+        "id": "Ultrasonic sensor",
+        "ja": "超音波センサー",
+        "ja-jph": "ちょうおんぱセンサー",
+        "ko": "초음파 센서",
+        "pl": "Czujnik ultradźwiękowy",
+        "uk": "Ультразвуковий датчик",
+        "zh-hant": "超音波感測器",
+        "nl": "Ultrasone sensor",
+        "it": "Sensore ad ultrasuoni",
+        "hr": "Ultrazvučni senzor",
+        "ru": "Ультразвуковой датчик",
+        "pt": "Sensor de ultrassom",
+        "fi": "Ultraäänianturi",
+        "tr": "Ultrasonik sensör",
+        "tk": "Ultrases Duýujy Enjamy",
+        "ca": "Sensor d'ultrasons",
+        "cs": "Ultrazvukový senzor",
+        "fa": "سنسور التراسونیک",
+        "vi": "Cảm biến siêu âm"
+    },
+    "description": {
+        "zh": "",
+        "en": "",
+        "de": "",
+        "es": "",
+        "fr": "",
+        "id": "",
+        "ja": "",
+        "ja-jph": "",
+        "ko": "",
+        "pl": "",
+        "uk": "",
+        "zh-hant": "",
+        "nl": "",
+        "it": "",
+        "hr": "",
+        "ru": "",
+        "pt": "",
+        "fi": "",
+        "tr": "",
+        "tk": "",
+        "ca": "",
+        "cs": "",
+        "fa": "",
+        "vi": ""
+    },
+    "fromScratch3": false,
+    "targets": [
+        "haloboard",
+        "cyberpi"
+    ],
+    "main": "halocode_mbuild_ultrasonic/index.js",
+    "codeTypes": [
+        "python"
+    ],
+    "device": false,
+    "sortId": 999,
+    "version": "0.0.5",
+    "extApiVersion": [
+        "1.0.2"
+    ],
+    "platform": [
+        "mblockpc",
+        "mblockweb",
+        "mblockapp"
+    ],
+    "homepage": "http://docs.makeblock.com/diy-platform/zh/mbuild/hardware/sensors/ultrasonic-sensor.html",
+    "feature": []
+}

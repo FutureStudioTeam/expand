@@ -1,0 +1,21 @@
+export default {
+    "halocode_mbuild_pirsensor": "PIR sensor",
+    "extensionName": "PIR sensor",
+    "extensionDescription": "",
+    "EVENT_PIR_INDEX_0": "1",
+    "EVENT_PIR_INDEX_1": "2",
+    "EVENT_PIR_INDEX_2": "3",
+    "EVENT_PIR_INDEX_3": "4",
+    "EVENT_PIR_INDEX_4": "5",
+    "EVENT_PIR_INDEX_5": "6",
+    "EVENT_PIR_INDEX_6": "7",
+    "EVENT_PIR_INDEX_7": "8",
+    "event_pir": "PIR sensor [index] mendeteksi tubuh manusia?",
+    "pir_count": "PIR sensor[index] berapa kali tubuh manusia terdeteksi",
+    "pir_count_make_zero": "PIR sensor [index] mereset jumlah kali",
+    "cate_7477652c": "PIR sensor",
+    "BLOCK_1547779213407": "Servo [ID] berputar untuk [angle] (°)",
+    "BLOCK_1547779701469": "Pembicara [ID]  memutar suara [audio]",
+    "BLOCK_1547779887637": "Pembicara [ID]  memutar file audio [audio] sampai selesai",
+    "BLOCK_1547781171854": "Pembicara [ID]  mengatur volume untuk [volume] %"
+};

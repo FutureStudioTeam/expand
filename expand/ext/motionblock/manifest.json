@@ -1,0 +1,67 @@
+{
+  "id": "motionblock",
+  "iconURL": "motionblock/imgs/86b5c53fdf3a47cbb0b3473049fbef28.png",
+  "coverURL": "./res/86b5c53fdf3a47cbb0b3473049fbef28.png",
+  "res": [
+    "./imgs"
+  ],
+  "name": {
+    "zh": "灵跃模组",
+    "en": "MotionBlock",
+    "de": "MotionBlock",
+    "es": "MotionBlock",
+    "fr": "MotionBlock",
+    "id": "MotionBlock",
+    "ja": "MotionBlock",
+    "ja-jph": "MotionBlock",
+    "ko": "MotionBlock",
+    "pl": "MotionBlock",
+    "uk": "MotionBlock",
+    "zh-hant": "MotionBlock",
+    "nl": "MotionBlock",
+    "it": "MotionBlock",
+    "hr": "MotionBlock",
+    "ru": "MotionBlock",
+    "pt": "MotionBlock",
+    "fi": "MotionBlock",
+    "tr": "MotionBlock",
+    "tk": "MotionBlock"
+  },
+  "description": {
+    "zh": "",
+    "de": "",
+    "es": "",
+    "fr": "",
+    "id": "",
+    "ja": "",
+    "ja-jph": "",
+    "ko": "",
+    "pl": "",
+    "uk": "",
+    "zh-hant": "",
+    "nl": "",
+    "it": "",
+    "hr": "",
+    "ru": "",
+    "pt": "",
+    "fi": "",
+    "tr": "",
+    "tk": ""
+  },
+  "main": "motionblock/index.js",
+  "codeTypes": [
+    "python"
+  ],
+  "device": true,
+  "sortId": 999,
+  "version": "0.3.8",
+  "extApiVersion": [
+    "1.0.0"
+  ],
+  "platform": [
+    "mblockpc",
+    "mblockweb",
+    "mblockapp"
+  ],
+  "homepage": "http://www.mblock.cc/api-docs/_preview/mblock-5/zh/hardware-guide/hardware-guide.html"
+}

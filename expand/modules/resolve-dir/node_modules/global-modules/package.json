@@ -1,0 +1,50 @@
+{
+  "name": "global-modules",
+  "description": "The directory used by npm for globally installed npm modules.",
+  "version": "1.0.0",
+  "homepage": "https://github.com/jonschlinkert/global-modules",
+  "author": "Jon Schlinkert (https://github.com/jonschlinkert)",
+  "repository": "jonschlinkert/global-modules",
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "dependencies": {
+    "global-prefix": "^1.0.1",
+    "is-windows": "^1.0.1",
+    "resolve-dir": "^1.0.0"
+  },
+  "devDependencies": {
+    "gulp-format-md": "^0.1.12",
+    "mocha": "^3.4.2"
+  },
+  "verb": {
+    "run": true,
+    "toc": false,
+    "layout": "default",
+    "tasks": [
+      "readme"
+    ],
+    "plugins": [
+      "gulp-format-md"
+    ],
+    "related": {
+      "list": [
+        "homedir-polyfill",
+        "git-config-path",
+        "global-prefix",
+        "npm-paths"
+      ]
+    },
+    "reflinks": [
+      "verb"
+    ],
+    "lint": {
+      "reflinks": true
+    }
+  }
+}

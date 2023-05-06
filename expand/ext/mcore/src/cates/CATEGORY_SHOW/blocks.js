@@ -1,0 +1,417 @@
+const blocks = (extFacePanels) => ([{
+        "opcode": "mcore_show_face_time",
+        "blockType": "command",
+        "checkboxInFlyout": false,
+        "hidden": false,
+        "gap": 12,
+        "arguments": {
+            "ICON": {
+                "type": "image",
+                "width": 28,
+                "height": 26,
+                "src": window.MbApi.getExtResPath('mcore/imgs/6c349822610c452596e1a23bdaf41e5f.svg', 'mcore')
+            },
+            "PORT": {
+                "type": "fieldMenu",
+                "defaultValue": "1",
+                "menu": "MCORE_SHOW_FACE_TIME_PORT"
+            },
+            "FACE_PANEL": extFacePanels['80dd5281-e401-4346-a1fd-64dce4a85461'],
+            "TIME": {
+                "type": "number",
+                "defaultValue": 1
+            }
+        },
+        "branchCount": 0,
+        "platform": [
+            "mblockpc",
+            "mblockweb",
+            "mblockapp"
+        ],
+        "codes": {
+            "arduinoc": {
+                "code": this.funcs.mcoreShowFaceTimeCodesCode,
+                "sections": {
+                    "lib": this.funcs.mcoreShowFaceTimeCodesLib,
+                    "setup": this.funcs.mcoreShowFaceTimeCodesSetup
+                }
+            }
+        },
+        "handler": this.funcs.mcore_show_face_time
+    },
+    {
+        "opcode": "mcore_show_face",
+        "blockType": "command",
+        "checkboxInFlyout": false,
+        "hidden": false,
+        "gap": 12,
+        "arguments": {
+            "ICON": {
+                "type": "image",
+                "width": 28,
+                "height": 26,
+                "src": window.MbApi.getExtResPath('mcore/imgs/6c349822610c452596e1a23bdaf41e5f.svg', 'mcore')
+            },
+            "PORT": {
+                "type": "fieldMenu",
+                "defaultValue": "1",
+                "menu": "MCORE_SHOW_FACE_TIME_PORT"
+            },
+            "FACE_PANEL": extFacePanels['80dd5281-e401-4346-a1fd-64dce4a85461']
+        },
+        "branchCount": 0,
+        "platform": [
+            "mblockpc",
+            "mblockweb",
+            "mblockapp"
+        ],
+        "codes": {
+            "arduinoc": {
+                "code": this.funcs.mcoreShowFaceCodesCode,
+                "sections": {
+                    "lib": this.funcs.mcoreShowFaceCodesLib,
+                    "setup": this.funcs.mcoreShowFaceCodesSetup
+                }
+            }
+        },
+        "handler": this.funcs.mcore_show_face
+    },
+    {
+        "opcode": "mcore_show_point_position",
+        "blockType": "command",
+        "checkboxInFlyout": false,
+        "hidden": true,
+        "gap": 12,
+        "arguments": {
+            "ICON": {
+                "type": "image",
+                "width": 28,
+                "height": 26,
+                "src": window.MbApi.getExtResPath('mcore/imgs/6c349822610c452596e1a23bdaf41e5f.svg', 'mcore')
+            },
+            "PORT": {
+                "type": "fieldMenu",
+                "defaultValue": "1",
+                "menu": "MCORE_SHOW_FACE_TIME_PORT"
+            },
+            "X": {
+                "type": "number",
+                "defaultValue": 0
+            },
+            "Y": {
+                "type": "number",
+                "defaultValue": 0
+            }
+        },
+        "branchCount": 0,
+        "platform": [
+            "mblockpc",
+            "mblockweb",
+            "mblockapp"
+        ],
+        "codes": {
+            "arduinoc": {
+                "code": this.funcs.mcoreShowPointPositionCodesCode,
+                "sections": {
+                    "lib": this.funcs.mcoreShowPointPositionCodesLib,
+                    "setup": this.funcs.mcoreShowPointPositionCodesSetup
+                }
+            }
+        },
+        "handler": this.funcs.mcore_show_point_position
+    },
+    {
+        "opcode": "mcore_show_face_position",
+        "blockType": "command",
+        "checkboxInFlyout": false,
+        "hidden": false,
+        "gap": 36,
+        "arguments": {
+            "ICON": {
+                "type": "image",
+                "width": 28,
+                "height": 26,
+                "src": window.MbApi.getExtResPath('mcore/imgs/6c349822610c452596e1a23bdaf41e5f.svg', 'mcore')
+            },
+            "PORT": {
+                "type": "fieldMenu",
+                "defaultValue": "1",
+                "menu": "MCORE_SHOW_FACE_TIME_PORT"
+            },
+            "FACE_PANEL": extFacePanels['80dd5281-e401-4346-a1fd-64dce4a85461'],
+            "X": {
+                "type": "number",
+                "defaultValue": 0
+            },
+            "Y": {
+                "type": "number",
+                "defaultValue": 0
+            }
+        },
+        "branchCount": 0,
+        "platform": [
+            "mblockpc",
+            "mblockweb",
+            "mblockapp"
+        ],
+        "codes": {
+            "arduinoc": {
+                "code": this.funcs.mcoreShowFacePositionCodesCode,
+                "sections": {
+                    "lib": this.funcs.mcoreShowFacePositionCodesLib,
+                    "setup": this.funcs.mcoreShowFacePositionCodesSetup
+                }
+            }
+        },
+        "handler": this.funcs.mcore_show_face_position
+    },
+    {
+        "opcode": "mcore_show_text",
+        "blockType": "command",
+        "checkboxInFlyout": false,
+        "hidden": false,
+        "gap": 12,
+        "arguments": {
+            "ICON": {
+                "type": "image",
+                "width": 28,
+                "height": 26,
+                "src": window.MbApi.getExtResPath('mcore/imgs/6c349822610c452596e1a23bdaf41e5f.svg', 'mcore')
+            },
+            "PORT": {
+                "type": "fieldMenu",
+                "defaultValue": "1",
+                "menu": "MCORE_SHOW_FACE_TIME_PORT"
+            },
+            "TEXT": {
+                "type": "string",
+                "defaultValue": "hello"
+            }
+        },
+        "branchCount": 0,
+        "platform": [
+            "mblockpc",
+            "mblockweb",
+            "mblockapp"
+        ],
+        "codes": {
+            "arduinoc": {
+                "code": `ledMtx_/*{PORT}*/.drawStr(0, 0 + 7, String(/*{TEXT}*/).c_str());`,
+                "sections": {
+                    "lib": this.funcs.mcoreShowTextCodesLib,
+                    "setup": this.funcs.mcoreShowTextCodesSetup
+                }
+            }
+        },
+        "handler": this.funcs.mcore_show_text
+    },
+    {
+        "opcode": "mcore_show_text_position",
+        "blockType": "command",
+        "checkboxInFlyout": false,
+        "hidden": false,
+        "gap": 12,
+        "arguments": {
+            "ICON": {
+                "type": "image",
+                "width": 28,
+                "height": 26,
+                "src": window.MbApi.getExtResPath('mcore/imgs/6c349822610c452596e1a23bdaf41e5f.svg', 'mcore')
+            },
+            "PORT": {
+                "type": "fieldMenu",
+                "defaultValue": "1",
+                "menu": "MCORE_SHOW_FACE_TIME_PORT"
+            },
+            "TEXT": {
+                "type": "string",
+                "defaultValue": "hello"
+            },
+            "X": {
+                "type": "number",
+                "defaultValue": 0
+            },
+            "Y": {
+                "type": "number",
+                "defaultValue": 0
+            }
+        },
+        "branchCount": 0,
+        "platform": [
+            "mblockpc",
+            "mblockweb",
+            "mblockapp"
+        ],
+        "codes": {
+            "arduinoc": {
+                "code": this.funcs.mcoreShowTextPositionCodesCode,
+                "sections": {
+                    "lib": this.funcs.mcoreShowTextPositionCodesLib,
+                    "setup": this.funcs.mcoreShowTextPositionCodesSetup
+                }
+            }
+        },
+        "handler": this.funcs.mcore_show_text_position
+    },
+    {
+        "opcode": "mcore_show_number",
+        "blockType": "command",
+        "checkboxInFlyout": false,
+        "hidden": false,
+        "gap": 12,
+        "arguments": {
+            "ICON": {
+                "type": "image",
+                "width": 28,
+                "height": 26,
+                "src": window.MbApi.getExtResPath('mcore/imgs/6c349822610c452596e1a23bdaf41e5f.svg', 'mcore')
+            },
+            "PORT": {
+                "type": "fieldMenu",
+                "defaultValue": "1",
+                "menu": "MCORE_SHOW_FACE_TIME_PORT"
+            },
+            "NUMBER": {
+                "type": "number",
+                "defaultValue": 2048
+            }
+        },
+        "branchCount": 0,
+        "platform": [
+            "mblockpc",
+            "mblockweb",
+            "mblockapp"
+        ],
+        "codes": {
+            "arduinoc": {
+                "code": this.funcs.mcoreShowNumberCodesCode,
+                "sections": {
+                    "lib": this.funcs.mcoreShowNumberCodesLib,
+                    "setup": this.funcs.mcoreShowNumberCodesSetup
+                }
+            }
+        },
+        "handler": this.funcs.mcore_show_number
+    },
+    {
+        "opcode": "mcore_show_time",
+        "blockType": "command",
+        "checkboxInFlyout": false,
+        "hidden": false,
+        "gap": 36,
+        "arguments": {
+            "ICON": {
+                "type": "image",
+                "width": 28,
+                "height": 26,
+                "src": window.MbApi.getExtResPath('mcore/imgs/6c349822610c452596e1a23bdaf41e5f.svg', 'mcore')
+            },
+            "PORT": {
+                "type": "fieldMenu",
+                "defaultValue": "1",
+                "menu": "MCORE_SHOW_FACE_TIME_PORT"
+            },
+            "NUMBER1": {
+                "type": "number",
+                "defaultValue": 12
+            },
+            "NUMBER2": {
+                "type": "number",
+                "defaultValue": 0
+            }
+        },
+        "branchCount": 0,
+        "platform": [
+            "mblockpc",
+            "mblockweb",
+            "mblockapp"
+        ],
+        "codes": {
+            "arduinoc": {
+                "code": this.funcs.mcoreShowTimeCodesCode,
+                "sections": {
+                    "lib": this.funcs.mcoreShowTimeCodesLib,
+                    "setup": this.funcs.mcoreShowTimeCodesSetup
+                }
+            }
+        },
+        "handler": this.funcs.mcore_show_time
+    },
+    {
+        "opcode": "mcore_show_face_off",
+        "blockType": "command",
+        "checkboxInFlyout": false,
+        "hidden": false,
+        "gap": 36,
+        "arguments": {
+            "ICON": {
+                "type": "image",
+                "width": 28,
+                "height": 26,
+                "src": window.MbApi.getExtResPath('mcore/imgs/6c349822610c452596e1a23bdaf41e5f.svg', 'mcore')
+            },
+            "PORT": {
+                "type": "fieldMenu",
+                "defaultValue": "1",
+                "menu": "MCORE_SHOW_FACE_TIME_PORT"
+            }
+        },
+        "branchCount": 0,
+        "platform": [
+            "mblockpc",
+            "mblockweb",
+            "mblockapp"
+        ],
+        "codes": {
+            "arduinoc": {
+                "code": `ledMtx_/*{PORT}*/.clearScreen();`,
+                "sections": {
+                    "lib": this.funcs.mcoreShowFaceOffCodesLib,
+                    "setup": this.funcs.mcoreShowFaceOffCodesSetup
+                }
+            }
+        },
+        "handler": this.funcs.mcore_show_face_off
+    },
+    {
+        "opcode": "mcore_show_7segments_number",
+        "blockType": "command",
+        "checkboxInFlyout": false,
+        "hidden": true,
+        "gap": 36,
+        "arguments": {
+            "ICON": {
+                "type": "image",
+                "width": 28,
+                "height": 26,
+                "src": window.MbApi.getExtResPath('mcore/imgs/d928e028ee0341ed9c9a5d79f548cbff.svg', 'mcore')
+            },
+            "PORT": {
+                "type": "fieldMenu",
+                "defaultValue": "1",
+                "menu": "MCORE_SHOW_FACE_TIME_PORT"
+            },
+            "NUMBER": {
+                "type": "number",
+                "defaultValue": 100
+            }
+        },
+        "branchCount": 0,
+        "platform": [
+            "mblockpc",
+            "mblockweb",
+            "mblockapp"
+        ],
+        "codes": {
+            "arduinoc": {
+                "code": `seg7_/*{PORT}*/.display(float(/*{NUMBER}*/));`,
+                "sections": {
+                    "declare": this.funcs.mcoreShow7SegmentsNumberCodesDeclare
+                }
+            }
+        },
+        "handler": this.funcs.mcore_show_7segments_number
+    }
+]);
+
+export default blocks;

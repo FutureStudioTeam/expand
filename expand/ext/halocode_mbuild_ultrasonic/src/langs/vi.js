@@ -1,0 +1,20 @@
+export default {
+    "halocode_mbuild_ultrasonic": "Cảm biến siêu âm",
+    "extensionName": "Cảm biến siêu âm",
+    "extensionDescription": "",
+    "BLOCK_1552140890585_INDEX_0": "1",
+    "BLOCK_1552140890585_INDEX_1": "2",
+    "BLOCK_1552140890585_INDEX_2": "3",
+    "BLOCK_1552140890585_INDEX_3": "4",
+    "BLOCK_1552140890585_INDEX_4": "5",
+    "BLOCK_1552140890585_INDEX_5": "6",
+    "BLOCK_1552140890585_INDEX_6": "7",
+    "BLOCK_1552140890585_INDEX_7": "8",
+    "BLOCK_1552140890585": "cảm biến siêu âm[index] khoảng cách đến một đối tượng (cm)",
+    "BLOCK_1552140919772": "cảm biến siêu âm[index] ngoài phạm vi đo?",
+    "cate_14b3c81a": "Cảm biến siêu âm",
+    "BLOCK_1547779213407": "servo [ID] Đặt góc quay [angle] (°)",
+    "BLOCK_1547779701469": "loa [ID]  chơi âm thanh [audio]",
+    "BLOCK_1547779887637": "loa [ID] phát âm thanh [audio] cho đến khi kết thúc",
+    "BLOCK_1547781171854": "loa [ID] cài đặt âm lượng [volume] %"
+};

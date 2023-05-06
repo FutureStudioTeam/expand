@@ -1,0 +1,21 @@
+export default {
+    "mcore_perception_gizmos": "Dallonses de detecció",
+    "extensionName": "Dallonses de detecció",
+    "extensionDescription": "En els projectes d'ampliació de 5 mBot hi ha una varietat d'exemples que t'ajuden a aprendre com utilitzar sensors i a dominar els fonaments de l'electrònica.",
+    "MCORE_RUN_FAN_PORT_0": "port1",
+    "MCORE_RUN_FAN_PORT_1": "port2",
+    "MCORE_RUN_FAN_PORT_2": "port3",
+    "MCORE_RUN_FAN_PORT_3": "port4",
+    "MCORE_RUN_FAN_FAN_ROTATE_0": "en sentit horari",
+    "MCORE_RUN_FAN_FAN_ROTATE_1": "en sentit antihorari",
+    "MCORE_RUN_FAN_FAN_ROTATE_2": "atura",
+    "mcore_run_fan": "[ICON] el ventilador [PORT] gira [FAN_ROTATE]",
+    "MCORE_DETECT_EXTERNAL_LOUDNESS_PORT_0": "port3",
+    "MCORE_DETECT_EXTERNAL_LOUDNESS_PORT_1": "port4",
+    "mcore_detect_external_loudness": "[ICON] volum mesurat pel sensor de so [PORT]",
+    "MCORE_DETEC_TEMPERATURE_SLOT_0": "ranura1",
+    "MCORE_DETEC_TEMPERATURE_SLOT_1": "ranura2",
+    "mcore_detec_temperature": "[ICON] temperatura (°C) del sensor de temperatura [PORT] [SLOT]",
+    "mcore_detect_potentiometer": "[ICON] valor del potenciòmetre [PORT]",
+    "CATEGORY_PERCEPTION": "Dallonses"
+};

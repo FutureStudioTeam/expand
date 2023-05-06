@@ -1,0 +1,70 @@
+{
+    "id": "novapi_mbuild_rgb_led",
+    "iconURL": "novapi_mbuild_rgb_led/imgs/9a5019372e8f40abae0b5a96695f142b.png",
+    "coverURL": "./res/9a5019372e8f40abae0b5a96695f142b.png",
+    "name": {
+        "zh": "RGB灯",
+        "en": "RGB LED",
+        "de": "RGB LED",
+        "es": "RGB LED",
+        "fr": "RGB LED",
+        "id": "RGB LED",
+        "ja": "RGB LED",
+        "ja-jph": "RGB LED",
+        "ko": "RGB LED",
+        "pl": "RGB LED",
+        "uk": "RGB LED",
+        "zh-hant": "RGB LED",
+        "nl": "RGB LED",
+        "it": "RGB LED",
+        "hr": "RGB LED",
+        "ru": "RGB LED",
+        "pt": "RGB LED",
+        "fi": "RGB LED",
+        "tr": "RGB LED",
+        "tk": "RGB LED",
+        "fa": "RGB LED"
+    },
+    "description": {
+        "zh": "",
+        "en": "",
+        "de": "",
+        "es": "",
+        "fr": "",
+        "id": "",
+        "ja": "",
+        "ja-jph": "",
+        "ko": "",
+        "pl": "",
+        "uk": "",
+        "zh-hant": "",
+        "nl": "",
+        "it": "",
+        "hr": "",
+        "ru": "",
+        "pt": "",
+        "fi": "",
+        "tr": "",
+        "tk": "",
+        "fa": ""
+    },
+    "targets": [
+        "novapi"
+    ],
+    "main": "novapi_mbuild_rgb_led/index.js",
+    "codeTypes": [
+        "python"
+    ],
+    "device": false,
+    "sortId": 999,
+    "version": "0.0.1",
+    "extApiVersion": [
+        "1.0.2"
+    ],
+    "platform": [
+        "mblockpc",
+        "mblockweb"
+    ],
+    "homepage": "http://docs.makeblock.com/diy-platform/zh/mbuild/hardware/light/rgb-led.html",
+    "feature": []
+}

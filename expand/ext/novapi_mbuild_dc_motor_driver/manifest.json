@@ -1,0 +1,71 @@
+{
+    "id": "novapi_mbuild_dc_motor_driver",
+    "iconURL": "novapi_mbuild_dc_motor_driver/imgs/8ab2398d0a06474a899f2941d0e3be29.png",
+    "coverURL": "./res/8ab2398d0a06474a899f2941d0e3be29.png",
+    "name": {
+        "zh": "直流电机驱动",
+        "en": "DC Motor Driver",
+        "de": "DC Motor Driver",
+        "es": "DC Motor Driver",
+        "fr": "DC Motor Driver",
+        "id": "DC Motor Driver",
+        "ja": "DC Motor Driver",
+        "ja-jph": "DC Motor Driver",
+        "ko": "DC Motor Driver",
+        "pl": "DC Motor Driver",
+        "uk": "DC Motor Driver",
+        "zh-hant": "DC Motor Driver",
+        "nl": "DC Motor Driver",
+        "it": "DC Motor Driver",
+        "hr": "DC Motor Driver",
+        "ru": "DC Motor Driver",
+        "pt": "DC Motor Driver",
+        "fi": "DC Motor Driver",
+        "tr": "DC Motor Driver",
+        "tk": "DC Motor Driver",
+        "fa": "DC Motor Driver"
+    },
+    "description": {
+        "zh": "",
+        "en": "",
+        "de": "",
+        "es": "",
+        "fr": "",
+        "id": "",
+        "ja": "",
+        "ja-jph": "",
+        "ko": "",
+        "pl": "",
+        "uk": "",
+        "zh-hant": "",
+        "nl": "",
+        "it": "",
+        "hr": "",
+        "ru": "",
+        "pt": "",
+        "fi": "",
+        "tr": "",
+        "tk": "",
+        "fa": ""
+    },
+    "fromScratch3": false,
+    "targets": [
+        "novapi"
+    ],
+    "main": "novapi_mbuild_dc_motor_driver/index.js",
+    "codeTypes": [
+        "python"
+    ],
+    "device": false,
+    "sortId": 999,
+    "version": "0.0.3",
+    "extApiVersion": [
+        "1.0.2"
+    ],
+    "platform": [
+        "mblockpc",
+        "mblockweb"
+    ],
+    "homepage": "http://www.mblock.cc/api-docs/_preview/mblock-5/zh/use-extensions/use-extensions.html",
+    "feature": []
+}

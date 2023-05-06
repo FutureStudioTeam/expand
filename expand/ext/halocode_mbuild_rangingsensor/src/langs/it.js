@@ -1,0 +1,20 @@
+export default {
+    "halocode_mbuild_rangingsensor": "Sensore di distanza",
+    "extensionName": "Sensore di distanza",
+    "extensionDescription": "",
+    "OP_RANGING_INDEX_0": "1",
+    "OP_RANGING_INDEX_1": "2",
+    "OP_RANGING_INDEX_2": "3",
+    "OP_RANGING_INDEX_3": "4",
+    "OP_RANGING_INDEX_4": "5",
+    "OP_RANGING_INDEX_5": "6",
+    "OP_RANGING_INDEX_6": "7",
+    "OP_RANGING_INDEX_7": "8",
+    "op_ranging": "sensore di distanza[index] distanza da un oggetto(cm)",
+    "event_ranging_pressed": "sensore di distanza[index] fuori distanza?",
+    "cate_a8ddb2a0": "Sensore di distanza",
+    "BLOCK_1547779213407": "servo [ID] ruota a [angle] (°)",
+    "BLOCK_1547779701469": "altoparlante [ID]  riproduci il suono [audio]",
+    "BLOCK_1547779887637": "altoparlante [ID]  riproduci il file audio [audio] fino al termine",
+    "BLOCK_1547781171854": "altoparlante [ID]  imposta il volume a [volume] %"
+};

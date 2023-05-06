@@ -1,0 +1,21 @@
+export default {
+    "mcore_perception_gizmos": "Detecterende apparaatjes",
+    "extensionName": "Detecterende snufjes",
+    "extensionDescription": "In de 5 mBot extensieprojecten heb je toegang tot een verscheidenheid aan voorbeelden die je helpen leren hoe je sensoren moet gebruiken en de basisprincipes van elektronica te beheersen.",
+    "MCORE_RUN_FAN_PORT_0": "poort1",
+    "MCORE_RUN_FAN_PORT_1": "poort2",
+    "MCORE_RUN_FAN_PORT_2": "poort3",
+    "MCORE_RUN_FAN_PORT_3": "poort4",
+    "MCORE_RUN_FAN_FAN_ROTATE_0": "met de klok mee",
+    "MCORE_RUN_FAN_FAN_ROTATE_1": "tegen de klok in",
+    "MCORE_RUN_FAN_FAN_ROTATE_2": "stop",
+    "mcore_run_fan": "[ICON] ventilator [PORT] draait [FAN_ROTATE]",
+    "MCORE_DETECT_EXTERNAL_LOUDNESS_PORT_0": "poort3",
+    "MCORE_DETECT_EXTERNAL_LOUDNESS_PORT_1": "poort4",
+    "mcore_detect_external_loudness": "[ICON] geluidssensor [PORT] volume",
+    "MCORE_DETEC_TEMPERATURE_SLOT_0": "slot 1",
+    "MCORE_DETEC_TEMPERATURE_SLOT_1": "slot 2",
+    "mcore_detec_temperature": "[ICON] temperatuursensor [PORT] [SLOT] waarde (℃)",
+    "mcore_detect_potentiometer": "[ICON] potentiometer [PORT] waarde",
+    "CATEGORY_PERCEPTION": "Apparaatjes"
+};

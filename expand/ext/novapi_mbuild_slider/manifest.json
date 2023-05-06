@@ -1,0 +1,71 @@
+{
+    "id": "novapi_mbuild_slider",
+    "iconURL": "novapi_mbuild_slider/imgs/84bdebc540e843e498ea165c950050c8.png",
+    "coverURL": "./res/84bdebc540e843e498ea165c950050c8.png",
+    "name": {
+        "zh": "滑动电位器",
+        "en": "Slider Potentiometer",
+        "de": "Slider Potentiometer",
+        "es": "Slider Potentiometer",
+        "fr": "Slider Potentiometer",
+        "id": "Slider Potentiometer",
+        "ja": "Slider Potentiometer",
+        "ja-jph": "Slider Potentiometer",
+        "ko": "Slider Potentiometer",
+        "pl": "Slider Potentiometer",
+        "uk": "Slider Potentiometer",
+        "zh-hant": "Slider Potentiometer",
+        "nl": "Slider Potentiometer",
+        "it": "Slider Potentiometer",
+        "hr": "Slider Potentiometer",
+        "ru": "Slider Potentiometer",
+        "pt": "Slider Potentiometer",
+        "fi": "Slider Potentiometer",
+        "tr": "Slider Potentiometer",
+        "tk": "Slider Potentiometer",
+        "fa": "Slider Potentiometer"
+    },
+    "description": {
+        "zh": "",
+        "en": "",
+        "de": "",
+        "es": "",
+        "fr": "",
+        "id": "",
+        "ja": "",
+        "ja-jph": "",
+        "ko": "",
+        "pl": "",
+        "uk": "",
+        "zh-hant": "",
+        "nl": "",
+        "it": "",
+        "hr": "",
+        "ru": "",
+        "pt": "",
+        "fi": "",
+        "tr": "",
+        "tk": "",
+        "fa": ""
+    },
+    "fromScratch3": false,
+    "targets": [
+        "novapi"
+    ],
+    "main": "novapi_mbuild_slider/index.js",
+    "codeTypes": [
+        "python"
+    ],
+    "device": false,
+    "sortId": 999,
+    "version": "0.0.1",
+    "extApiVersion": [
+        "1.0.2"
+    ],
+    "platform": [
+        "mblockpc",
+        "mblockweb"
+    ],
+    "homepage": "http://docs.makeblock.com/diy-platform/zh/mbuild/hardware/interaction/slide-potentiometer.html",
+    "feature": []
+}

@@ -1,0 +1,23 @@
+export default {
+    "halocode_mbuild_servodriver": "Controlador del servo",
+    "extensionName": "Controlador del servo",
+    "extensionDescription": "",
+    "BLOCK_1550543186478_INDEX_0": "1",
+    "BLOCK_1550543186478_INDEX_1": "2",
+    "BLOCK_1550543186478_INDEX_2": "3",
+    "BLOCK_1550543186478_INDEX_3": "4",
+    "BLOCK_1550543186478_INDEX_4": "5",
+    "BLOCK_1550543186478_INDEX_5": "6",
+    "BLOCK_1550543186478_INDEX_6": "7",
+    "BLOCK_1550543186478_INDEX_7": "8",
+    "BLOCK_1550543186478": "estableix l'angle del controlador del servo [index] a [angle]º",
+    "BLOCK_1550543202398": "l'angle del controlador del servo [index] augmenta en [angle]º",
+    "BLOCK_1550543213773": "el controlador del servo [index] torna a la posició zero",
+    "BLOCK_1550543222423": "angle actual (º) del controlador del servo [index]",
+    "BLOCK_1550543238558": "càrrega (%) del controlador del servo [index]",
+    "cate_dc643ec1": "Controlador del servo",
+    "BLOCK_1547779213407": "el servo [ID] s'orienta a [angle]°",
+    "BLOCK_1547779701469": "l'altaveu [ID] reprodueix el so [audio]",
+    "BLOCK_1547779887637": "l'altaveu [ID] reprodueix el fitxer de so [audio] fins al final",
+    "BLOCK_1547781171854": "estableix el volum de l'altaveu [ID] al [volume]%"
+};

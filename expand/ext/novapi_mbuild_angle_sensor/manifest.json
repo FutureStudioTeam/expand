@@ -1,0 +1,71 @@
+{
+    "id": "novapi_mbuild_angle_sensor",
+    "iconURL": "novapi_mbuild_angle_sensor/imgs/cab322301a644b1488d55f92727b8306.png",
+    "coverURL": "./res/cab322301a644b1488d55f92727b8306.png",
+    "name": {
+        "zh": "角度传感器",
+        "en": "Angle Sensor",
+        "de": "Angle Sensor",
+        "es": "Angle Sensor",
+        "fr": "Angle Sensor",
+        "id": "Angle Sensor",
+        "ja": "Angle Sensor",
+        "ja-jph": "Angle Sensor",
+        "ko": "Angle Sensor",
+        "pl": "Angle Sensor",
+        "uk": "Angle Sensor",
+        "zh-hant": "Angle Sensor",
+        "nl": "Angle Sensor",
+        "it": "Angle Sensor",
+        "hr": "Angle Sensor",
+        "ru": "Angle Sensor",
+        "pt": "Angle Sensor",
+        "fi": "Angle Sensor",
+        "tr": "Angle Sensor",
+        "tk": "Angle Sensor",
+        "fa": "Angle Sensor"
+    },
+    "description": {
+        "zh": "",
+        "en": "",
+        "de": "",
+        "es": "",
+        "fr": "",
+        "id": "",
+        "ja": "",
+        "ja-jph": "",
+        "ko": "",
+        "pl": "",
+        "uk": "",
+        "zh-hant": "",
+        "nl": "",
+        "it": "",
+        "hr": "",
+        "ru": "",
+        "pt": "",
+        "fi": "",
+        "tr": "",
+        "tk": "",
+        "fa": ""
+    },
+    "fromScratch3": false,
+    "targets": [
+        "novapi"
+    ],
+    "main": "novapi_mbuild_angle_sensor/index.js",
+    "codeTypes": [
+        "python"
+    ],
+    "device": false,
+    "sortId": 999,
+    "version": "0.0.1",
+    "extApiVersion": [
+        "1.0.2"
+    ],
+    "platform": [
+        "mblockpc",
+        "mblockweb"
+    ],
+    "homepage": "http://docs.makeblock.com/diy-platform/zh/mbuild/hardware/interaction/angle-sensor.html",
+    "feature": []
+}

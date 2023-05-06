@@ -1,0 +1,79 @@
+{
+    "id": "halocode_mbuild_slider",
+    "iconURL": "halocode_mbuild_slider/imgs/84bdebc540e843e498ea165c950050c8.png",
+    "coverURL": "./res/84bdebc540e843e498ea165c950050c8.png",
+    "name": {
+        "zh": "滑动电位器",
+        "en": "Slider",
+        "de": "Schieberegler",
+        "es": "Control deslizante",
+        "fr": "Potentiomètre",
+        "id": "Slider",
+        "ja": "スライダー",
+        "ja-jph": "スライダー",
+        "ko": "슬라이더",
+        "pl": "Suwak",
+        "uk": "Повзунок",
+        "zh-hant": "滑動電位器",
+        "nl": "Schuifregelaar",
+        "it": "Cursore",
+        "hr": "Klizač",
+        "ru": "Ползунок",
+        "pt": "Controle deslizante",
+        "fi": "Liukusäädin",
+        "tr": "Kaydırıcı",
+        "tk": "Slaýder",
+        "ca": "Lliscador",
+        "cs": "Posuvník",
+        "fa": "اسلایدر",
+        "vi": "Thanh trượt"
+    },
+    "description": {
+        "zh": "",
+        "en": "",
+        "de": "",
+        "es": "",
+        "fr": "",
+        "id": "",
+        "ja": "",
+        "ja-jph": "",
+        "ko": "",
+        "pl": "",
+        "uk": "",
+        "zh-hant": "",
+        "nl": "",
+        "it": "",
+        "hr": "",
+        "ru": "",
+        "pt": "",
+        "fi": "",
+        "tr": "",
+        "tk": "",
+        "ca": "",
+        "cs": "",
+        "fa": "",
+        "vi": ""
+    },
+    "fromScratch3": false,
+    "targets": [
+        "haloboard",
+        "cyberpi"
+    ],
+    "main": "halocode_mbuild_slider/index.js",
+    "codeTypes": [
+        "python"
+    ],
+    "device": false,
+    "sortId": 999,
+    "version": "0.0.5",
+    "extApiVersion": [
+        "1.0.2"
+    ],
+    "platform": [
+        "mblockpc",
+        "mblockweb",
+        "mblockapp"
+    ],
+    "homepage": "http://docs.makeblock.com/diy-platform/zh/mbuild/hardware/interaction/slide-potentiometer.html",
+    "feature": []
+}

@@ -1,0 +1,74 @@
+{
+  "name": "ansi-colors",
+  "description": "Collection of ansi colors and styles.",
+  "version": "1.1.0",
+  "homepage": "https://github.com/doowb/ansi-colors",
+  "author": "Brian Woodward (https://github.com/doowb)",
+  "repository": "doowb/ansi-colors",
+  "license": "MIT",
+  "files": [
+    "index.js",
+    "types/index.d.ts"
+  ],
+  "main": "index.js",
+  "types": "./types/index.d.ts",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "dependencies": {
+    "ansi-wrap": "^0.1.0"
+  },
+  "devDependencies": {
+    "gulp-format-md": "^1.0.0",
+    "mocha": "^3.5.3",
+    "typescript": "^2.7.1"
+  },
+  "verb": {
+    "toc": false,
+    "layout": "default",
+    "tasks": [
+      "readme"
+    ],
+    "plugins": [
+      "gulp-format-md"
+    ],
+    "lint": {
+      "reflinks": true
+    },
+    "reflinks": [
+      "verb-readme-generator",
+      "verb"
+    ],
+    "related": {
+      "list": [
+        "ansi-bgblack",
+        "ansi-bgblue",
+        "ansi-bgcyan",
+        "ansi-bggreen",
+        "ansi-bgmagenta",
+        "ansi-bgred",
+        "ansi-bgwhite",
+        "ansi-bgyellow",
+        "ansi-black",
+        "ansi-blue",
+        "ansi-bold",
+        "ansi-cyan",
+        "ansi-dim",
+        "ansi-gray",
+        "ansi-green",
+        "ansi-grey",
+        "ansi-hidden",
+        "ansi-inverse",
+        "ansi-italic",
+        "ansi-magenta",
+        "ansi-red",
+        "ansi-reset",
+        "ansi-strikethrough",
+        "ansi-underline",
+        "ansi-white",
+        "ansi-wrap",
+        "ansi-yellow"
+      ]
+    }
+  }
+}

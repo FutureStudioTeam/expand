@@ -1,0 +1,50 @@
+{
+    "id": "lego_wedo",
+    "iconURL": "lego_wedo/imgs/589646045c90414fbfec017da09d6888.png",
+    "coverURL": "./res/589646045c90414fbfec017da09d6888.png",
+    "name": {
+        "zh": "LEGO WeDo 2.0",
+        "en": "LEGO WeDo 2.0",
+        "de": "LEGO WeDo 2.0",
+        "es": "LEGO WeDo 2.0",
+        "fr": "LEGO WeDo 2.0",
+        "id": "LEGO WeDo 2.0",
+        "ja": "LEGO WeDo 2.0",
+        "ja-jph": "LEGO WeDo 2.0",
+        "ko": "LEGO WeDo 2.0",
+        "pl": "LEGO WeDo 2.0",
+        "uk": "LEGO WeDo 2.0",
+        "zh-hant": "LEGO WeDo 2.0",
+        "nl": "LEGO WeDo 2.0",
+        "it": "LEGO WeDo 2.0",
+        "hr": "LEGO WeDo 2.0",
+        "ru": "LEGO WeDo 2.0",
+        "pt": "LEGO WeDo 2.0",
+        "fi": "LEGO WeDo 2.0",
+        "tr": "LEGO WeDo 2.0",
+        "tk": "LEGO WeDo 2.0",
+        "ar": "LEGO WeDo 2.0",
+        "ca": "LEGO WeDo 2.0",
+        "cs": "LEGO WeDo 2.0",
+        "fa": "LEGO WeDo 2.0",
+        "km": "LEGO WeDo 2.0",
+        "vi": "LEGO WeDo 2.0"
+    },
+    "description": {},
+    "main": "lego_wedo/index.js",
+    "device": true,
+    "sortId": 999,
+    "version": "0.0.5",
+    "extApiVersion": [
+        "1.0.0",
+        "1.0.1",
+        "1.0.2",
+        "1.0.4"
+    ],
+    "platform": [
+        "mblockweb",
+        "mblockpc"
+    ],
+    "homepage": "",
+    "feature": []
+}

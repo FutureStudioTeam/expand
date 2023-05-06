@@ -1,0 +1,20 @@
+export default {
+    "halocode_mbuild_rangingsensor": "Senzor raspona",
+    "extensionName": "Senzor raspona",
+    "extensionDescription": "",
+    "OP_RANGING_INDEX_0": "1",
+    "OP_RANGING_INDEX_1": "2",
+    "OP_RANGING_INDEX_2": "3",
+    "OP_RANGING_INDEX_3": "4",
+    "OP_RANGING_INDEX_4": "5",
+    "OP_RANGING_INDEX_5": "6",
+    "OP_RANGING_INDEX_6": "7",
+    "OP_RANGING_INDEX_7": "8",
+    "op_ranging": "senzor raspona[index] udaljenost od objekta(cm)",
+    "event_ranging_pressed": "senzor raspona[index] izvan granica dometa?",
+    "cate_a8ddb2a0": "Senzor raspona",
+    "BLOCK_1547779213407": "Servo [ID] rotira na [angle] (°)",
+    "BLOCK_1547779701469": "Zvučnika [ID]  Reproduciraj zvuk [audio]",
+    "BLOCK_1547779887637": "Zvučnika [ID]  Reproduciraj audiodatoteke [audio] do kraja",
+    "BLOCK_1547781171854": "Zvučnika [ID]  Postavite glasnoću na [volume] %"
+};

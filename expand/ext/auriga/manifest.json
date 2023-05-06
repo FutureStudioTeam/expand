@@ -1,0 +1,69 @@
+{
+    "id": "auriga",
+    "iconURL": "auriga/imgs/33576a428829468b84da8387d73a1b81.png",
+    "coverURL": "./res/33576a428829468b84da8387d73a1b81.png",
+    "name": {
+        "zh": "mBot Ranger",
+        "en": "mBot Ranger",
+        "de": "mBot Ranger",
+        "es": "mBot Ranger",
+        "fr": "mBot Ranger",
+        "id": "mBot Ranger",
+        "ja": "mBot Ranger",
+        "ja-jph": "mBot Ranger",
+        "ko": "mBot Ranger",
+        "pl": "mBot Ranger",
+        "uk": "mBot Ranger",
+        "zh-hant": "mBot Ranger",
+        "nl": "mBot Ranger",
+        "it": "mBot Ranger",
+        "hr": "mBot Ranger",
+        "ru": "mBot Ranger",
+        "pt": "mBot Ranger",
+        "fi": "mBot Ranger",
+        "tr": "mBot Ranger",
+        "tk": "mBot Ranger",
+        "fa": "mBot Ranger"
+    },
+    "description": {
+        "zh": "",
+        "en": "",
+        "de": "",
+        "es": "",
+        "fr": "",
+        "id": "",
+        "ja": "",
+        "ja-jph": "",
+        "ko": "",
+        "pl": "",
+        "uk": "",
+        "zh-hant": "",
+        "nl": "",
+        "it": "",
+        "hr": "",
+        "ru": "",
+        "pt": "",
+        "fi": "",
+        "tr": "",
+        "tk": "",
+        "fa": ""
+    },
+    "main": "auriga/index.js",
+    "codeTypes": [
+        "arduinoc"
+    ],
+    "device": true,
+    "sortId": 999,
+    "version": "0.4.3",
+    "extApiVersion": [
+        "1.0.0",
+        "1.0.1"
+    ],
+    "platform": [
+        "mblockpc",
+        "mblockweb",
+        "mblockapp"
+    ],
+    "homepage": "http://www.mblock.cc/api-docs/_preview/mblock-5/zh/hardware-guide/hardware-guide.html",
+    "feature": []
+}

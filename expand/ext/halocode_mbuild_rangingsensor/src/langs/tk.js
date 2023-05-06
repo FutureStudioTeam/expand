@@ -1,0 +1,20 @@
+export default {
+    "halocode_mbuild_rangingsensor": "Aralygy duýujy enjam",
+    "extensionName": "Aralygy duýujy enjam",
+    "extensionDescription": "",
+    "OP_RANGING_INDEX_0": "1",
+    "OP_RANGING_INDEX_1": "2",
+    "OP_RANGING_INDEX_2": "3",
+    "OP_RANGING_INDEX_3": "4",
+    "OP_RANGING_INDEX_4": "5",
+    "OP_RANGING_INDEX_5": "6",
+    "OP_RANGING_INDEX_6": "7",
+    "OP_RANGING_INDEX_7": "8",
+    "op_ranging": "[index] aralygy duýujy enjamyň bir desga çenli aralygy (sm)",
+    "event_ranging_pressed": "[index] aralygy duýujy enjam aralyk çäginiň daşyndamy?",
+    "cate_a8ddb2a0": "Aralygy duýujy enjam",
+    "BLOCK_1547779213407": "[ID] serwo-hereketlendiriji [angle] burçuna çenli aýlanýar (°)",
+    "BLOCK_1547779701469": "[ID] dinamigi [audio] sesini aýtdyrýar",
+    "BLOCK_1547779887637": "[ID] dinamigi [audio] ses faýlyny soňuna çenli aýtdyrýar",
+    "BLOCK_1547781171854": "[ID] dinamigi ses kuwwatlylygyny [volume] % edip sazlaýar"
+};

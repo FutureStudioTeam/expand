@@ -1,0 +1,21 @@
+export default {
+    "mcore_servo_pack": "Набор сервоприводов",
+    "extensionName": "Набор сервоприводов",
+    "extensionDescription": "Превратите вашего mBot в кота. Пусть он танцует, оглядывается и светит глазами.",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_PORT_0": "Порт1",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_PORT_1": "Порт2",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_PORT_2": "Порт3",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_PORT_3": "Порт4",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_LED_POSTION_0": "все",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_LED_POSTION_1": "1",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_LED_POSTION_2": "2",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_LED_POSTION_3": "3",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_LED_POSTION_4": "4",
+    "mcore_show_external_led_time": "[ICON] RGB LED [PORT] загорается [LED_POSTION] цветом [COLOR] на [TIME] сек",
+    "mcore_show_external_led": "[ICON] RGB LED [PORT] загорается [LED_POSTION] цветом [COLOR]",
+    "mcore_show_external_led_rgb": "[ICON] RGB LED [PORT] загорается [LED_POSTION] цветом красный [R] зеленый [G] синий [B]",
+    "MCORE_RUN_SERVO_SLOT_0": "слот 1",
+    "MCORE_RUN_SERVO_SLOT_1": "слот 2",
+    "mcore_run_servo": "[ICON] сервомотор [PORT] [SLOT] расположен под углом [DEGREE] ",
+    "CATEGORY_SERVO_PACK": "Набор сервоприводов"
+};

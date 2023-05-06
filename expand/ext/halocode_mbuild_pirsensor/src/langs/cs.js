@@ -1,0 +1,21 @@
+export default {
+    "halocode_mbuild_pirsensor": "Senzor PIR",
+    "extensionName": "Senzor PIR",
+    "extensionDescription": "",
+    "EVENT_PIR_INDEX_0": "1",
+    "EVENT_PIR_INDEX_1": "2",
+    "EVENT_PIR_INDEX_2": "3",
+    "EVENT_PIR_INDEX_3": "4",
+    "EVENT_PIR_INDEX_4": "5",
+    "EVENT_PIR_INDEX_5": "6",
+    "EVENT_PIR_INDEX_6": "7",
+    "EVENT_PIR_INDEX_7": "8",
+    "event_pir": "Senzor PIR [index] detekuje lidské tělo?",
+    "pir_count": "Senzor PIR[index] kolikrát byl zjištěn lidský organismus",
+    "pir_count_make_zero": "Senzor PIR [index] obnoví počet opakování",
+    "cate_7477652c": "Senzor PIR",
+    "BLOCK_1547779213407": "servo [ID] otočit na úhel [angle] (°)",
+    "BLOCK_1547779701469": "reproduktor [ID]  přehrát zvuk [audio]",
+    "BLOCK_1547779887637": "reproduktor [ID]  přehrát zvukový soubor [audio] až do dokončení",
+    "BLOCK_1547781171854": "reproduktor [ID] nastavi hlasitost na [volume] %"
+};

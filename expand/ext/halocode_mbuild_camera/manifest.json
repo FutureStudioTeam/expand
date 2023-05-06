@@ -1,0 +1,79 @@
+{
+    "id": "halocode_mbuild_camera",
+    "iconURL": "halocode_mbuild_camera/imgs/f27ee2fac1b94ac2bd2f6783b031f835.png",
+    "coverURL": "./res/f27ee2fac1b94ac2bd2f6783b031f835.png",
+    "name": {
+        "zh": "视觉模块",
+        "en": "Smart Camera",
+        "de": "Smart Camera",
+        "es": "Smart Camera",
+        "fr": "Smart Camera",
+        "id": "Smart Camera",
+        "ja": "スマートカメラ",
+        "ja-jph": "スマートカメラ",
+        "ko": "스마트 카메라",
+        "pl": "Inteligentna Kamera",
+        "uk": "Смарт камера",
+        "zh-hant": "視覺模組",
+        "nl": "Slimme Camera",
+        "it": "Videocamera Intelligente",
+        "hr": "Pametna kamera",
+        "ru": "Smart Camera",
+        "pt": "Smart Camera",
+        "fi": "Smart Camera",
+        "tr": "Smart Camera",
+        "tk": "Smart Kamera",
+        "ca": "Càmera espavilada",
+        "cs": "Chytrá kamera",
+        "fa": "دوربین هوشمند",
+        "vi": "Camera Thông Minh"
+    },
+    "description": {
+        "zh": "视觉识别",
+        "en": "Computer Vision",
+        "de": "Computer Vision",
+        "es": "Computer Vision",
+        "fr": "Computer Vision",
+        "id": "Computer Vision",
+        "ja": "Computer Vision",
+        "ja-jph": "Computer Vision",
+        "ko": "컴퓨터 비전",
+        "pl": "Computer Vision",
+        "uk": "Комп'ютерний зір",
+        "zh-hant": "電腦視覺",
+        "nl": "Computer visie",
+        "it": "Visione artificiale",
+        "hr": "Computer Vision",
+        "ru": "Computer Vision",
+        "pt": "Computer Vision",
+        "fi": "Computer Vision",
+        "tr": "Computer Vision",
+        "tk": "Kompýuterden Bakyş",
+        "ca": "Visió per Ordinador",
+        "cs": "Počítačové vidění",
+        "fa": "Computer Vision",
+        "vi": "Computer Vision"
+    },
+    "fromScratch3": false,
+    "targets": [
+        "haloboard",
+        "cyberpi"
+    ],
+    "main": "halocode_mbuild_camera/index.js",
+    "codeTypes": [
+        "python"
+    ],
+    "device": false,
+    "sortId": 999,
+    "version": "0.0.4",
+    "extApiVersion": [
+        "1.0.2"
+    ],
+    "platform": [
+        "mblockpc",
+        "mblockweb",
+        "mblockapp"
+    ],
+    "homepage": "http://www.mblock.cc/api-docs/_preview/mblock-5/zh/use-extensions/use-extensions.html",
+    "feature": []
+}

@@ -1,0 +1,22 @@
+export default {
+    "audio_player_rj25": "音樂錄放模組",
+    "extensionName": "音樂錄放模組",
+    "extensionDescription": "Audio Player",
+    "audioplayer_init": "初始化音樂錄放模組在: 任何白色埠 (I2C)",
+    "audioplayer_play_by_sn": "音樂錄放模組: 播放 [FILE_SN] 音訊檔",
+    "audioplayer_play_by_name": "音樂錄放模組: 播放名為 [FILE_NAME]",
+    "AUDIOPLAYER_SET_PLAY_MODE_PLAY_MODE_0": "單一",
+    "AUDIOPLAYER_SET_PLAY_MODE_PLAY_MODE_1": "迴圈",
+    "AUDIOPLAYER_SET_PLAY_MODE_PLAY_MODE_2": "播放順序",
+    "AUDIOPLAYER_SET_PLAY_MODE_PLAY_MODE_3": "隨機播放",
+    "audioplayer_set_play_mode": "音樂模組: 將模式設置為 [PLAY_MODE]",
+    "audioplayer_play_previous": "音樂錄放模組: 播放 音訊檔",
+    "audioplayer_play_next": "音樂錄放模組: 播放下一個音訊檔",
+    "audioplayer_pause": "音樂錄放模組: 暫停/繼續",
+    "audioplayer_stop": "音樂錄放模組: 停止播放",
+    "audioplayer_set_volume": "音樂錄放模組: 將音量設置為 [VOLUME] %",
+    "audioplayer_volume_up": "音樂錄放模組: 音量增大",
+    "audioplayer_volume_down": "音樂錄放模組: 音量降低",
+    "audioplayer_record": "音樂錄放模組: 開始錄製並保存到 [FILE_NAME]",
+    "audioplayer_record_stop": "音樂錄放模組: 停止錄製"
+};

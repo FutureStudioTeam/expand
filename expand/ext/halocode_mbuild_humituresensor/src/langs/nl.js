@@ -1,0 +1,21 @@
+export default {
+    "halocode_mbuild_humituresensor": "Humiture sensor",
+    "extensionName": "Humiture sensor",
+    "extensionDescription": "",
+    "OP_TEMPERATURE_INDEX_0": "1",
+    "OP_TEMPERATURE_INDEX_1": "2",
+    "OP_TEMPERATURE_INDEX_2": "3",
+    "OP_TEMPERATURE_INDEX_3": "4",
+    "OP_TEMPERATURE_INDEX_4": "5",
+    "OP_TEMPERATURE_INDEX_5": "6",
+    "OP_TEMPERATURE_INDEX_6": "7",
+    "OP_TEMPERATURE_INDEX_7": "8",
+    "op_temperature": "humiture sensor [index] temperatuur (℃)",
+    "op_htemperature": "humiture[index] temperatuur (℉)",
+    "op_humidity": "humiture sensor [index] luchtvochtigheid (%)",
+    "cate_5ce6a4bb": "Humiture sensor",
+    "BLOCK_1547779213407": "Servo [ID] draait om [angle] (°)",
+    "BLOCK_1547779701469": "Spreker [ID]  geluid afspelen [audio]",
+    "BLOCK_1547779887637": "Spreker [ID]  audiobestand afspelen [audio] tot gedaan",
+    "BLOCK_1547781171854": "Spreker [ID]  Stel het volume in op [volume] %"
+};

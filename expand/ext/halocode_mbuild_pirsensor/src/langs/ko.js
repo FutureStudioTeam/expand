@@ -1,0 +1,21 @@
+export default {
+    "halocode_mbuild_pirsensor": "PIR 센서",
+    "extensionName": "PIR 센서",
+    "extensionDescription": "",
+    "EVENT_PIR_INDEX_0": "1",
+    "EVENT_PIR_INDEX_1": "2",
+    "EVENT_PIR_INDEX_2": "3",
+    "EVENT_PIR_INDEX_3": "4",
+    "EVENT_PIR_INDEX_4": "5",
+    "EVENT_PIR_INDEX_5": "6",
+    "EVENT_PIR_INDEX_6": "7",
+    "EVENT_PIR_INDEX_7": "8",
+    "event_pir": "PIR 센서 [index] 인체를 감지 합니까?",
+    "pir_count": "PIR 센서[index] 인체가 감지 된 횟수",
+    "pir_count_make_zero": "PIR 센서 [index] 재설정 횟수",
+    "cate_7477652c": "PIR 센서",
+    "BLOCK_1547779213407": "서보 [ID] 으로 회전 [angle] (°)",
+    "BLOCK_1547779701469": "스피커 [ID]  사운드 재생 [audio]",
+    "BLOCK_1547779887637": "스피커 [ID]  오디오 파일 재생 [audio] 완료 될 때까지",
+    "BLOCK_1547781171854": "스피커 [ID]  볼륨 설정 [volume] %"
+};

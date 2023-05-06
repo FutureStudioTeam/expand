@@ -1,0 +1,20 @@
+export default {
+    "auriga_perception_gizmos": "وسایل سنجش",
+    "extensionName": "وسایل سنجش",
+    "extensionDescription": "در 2 mBot رنجر پروژه های قابل توسعه، به شما نحوه استفاده از سنسور را در زندگی روزانه و به دست آوردن درک بهتری از الکترونیک یاد می دهد. ",
+    "AURIGA_RUN_FAN_PORT_0": "پورت 6",
+    "AURIGA_RUN_FAN_PORT_1": "پورت 7",
+    "AURIGA_RUN_FAN_PORT_2": "پورت 8",
+    "AURIGA_RUN_FAN_PORT_3": "پورت 9",
+    "AURIGA_RUN_FAN_PORT_4": "پورت 10",
+    "AURIGA_RUN_FAN_FAN_ROTATE_0": "ساعتگرد",
+    "AURIGA_RUN_FAN_FAN_ROTATE_1": "پادساعتگرد",
+    "AURIGA_RUN_FAN_FAN_ROTATE_2": "توقف",
+    "auriga_run_fan": "[ICON] فن [PORT] [FAN_ROTATE] بچرخد",
+    "auriga_detect_external_loudness": "[ICON] سنسور صدا [PORT] بلندی صدا",
+    "AURIGA_DETEC_TEMPERATURE_SLOT_0": "slot1",
+    "AURIGA_DETEC_TEMPERATURE_SLOT_1": "slot2",
+    "auriga_detec_temperature": "[ICON] سنسور دما [PORT] [SLOT]درجه سانتيگراد (° c)",
+    "auriga_detect_potentiometer": "[ICON] توان سنج ولتاژ برق[PORT] اندازه",
+    "CATEGORY_PERCEPTION": "وسایل سنجش"
+};

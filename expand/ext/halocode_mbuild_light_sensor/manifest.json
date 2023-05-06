@@ -1,0 +1,83 @@
+{
+    "id": "halocode_mbuild_light_sensor",
+    "iconURL": "halocode_mbuild_light_sensor/imgs/73ee7c6f865c40f8a32d6f352f601b7b.png",
+    "coverURL": "./res/73ee7c6f865c40f8a32d6f352f601b7b.png",
+    "name": {
+        "zh": "光线传感器",
+        "en": "Light Sensor",
+        "de": "Lichtsensor",
+        "es": "Sensor de luz",
+        "fr": "Capteur de lumière",
+        "id": "Sensor cahaya",
+        "ja": "光センサー",
+        "ja-jph": "ひかりセンサー",
+        "ko": "광 센서",
+        "pl": "Czujnik światła",
+        "uk": "Датчик світла",
+        "zh-hant": "光源感應器",
+        "nl": "Licht sensor",
+        "it": "Sensore di luce",
+        "hr": "Senzor osvjetljenja",
+        "ru": "Датчик света",
+        "pt": "Sensor de luz",
+        "fi": "Valo anturi",
+        "tr": "Işık Sensörü",
+        "tk": "Yşygy duýujy enjam",
+        "ar": "مستشعر الضوء",
+        "ca": "Sensor de llum",
+        "cs": "Snímač osvětlení",
+        "fa": "حسگر نور",
+        "km": "ឧបករណ៍វាស់ពន្លឺ",
+        "vi": "Cảm biến ánh sáng"
+    },
+    "description": {
+        "zh": "",
+        "en": "",
+        "de": "",
+        "es": "",
+        "fr": "",
+        "id": "",
+        "ja": "",
+        "ja-jph": "",
+        "ko": "",
+        "pl": "",
+        "uk": "",
+        "zh-hant": "",
+        "nl": "",
+        "it": "",
+        "hr": "",
+        "ru": "",
+        "pt": "",
+        "fi": "",
+        "tr": "",
+        "tk": "",
+        "ar": "",
+        "ca": "",
+        "cs": "",
+        "fa": "",
+        "km": "",
+        "vi": ""
+    },
+    "fromScratch3": false,
+    "targets": [
+        "haloboard",
+        "cyberpi"
+    ],
+    "main": "halocode_mbuild_light_sensor/index.js",
+    "codeTypes": [
+        "python"
+    ],
+    "device": false,
+    "sortId": 999,
+    "version": "0.0.2",
+    "extApiVersion": [
+        "1.0.2"
+    ],
+    "platform": [
+        "mblockpc",
+        "mblockweb",
+        "mblockapp"
+    ],
+    "homepage": "http://docs.makeblock.com/diy-platform/zh/mbuild/hardware/sensors/light-sensor.html",
+    "feature": []
+}

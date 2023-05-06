@@ -1,0 +1,20 @@
+export default {
+    "halocode_mbuild_ultrasonic": "Sensore ad ultrasuoni",
+    "extensionName": "Sensore ad ultrasuoni",
+    "extensionDescription": "",
+    "BLOCK_1552140890585_INDEX_0": "1",
+    "BLOCK_1552140890585_INDEX_1": "2",
+    "BLOCK_1552140890585_INDEX_2": "3",
+    "BLOCK_1552140890585_INDEX_3": "4",
+    "BLOCK_1552140890585_INDEX_4": "5",
+    "BLOCK_1552140890585_INDEX_5": "6",
+    "BLOCK_1552140890585_INDEX_6": "7",
+    "BLOCK_1552140890585_INDEX_7": "8",
+    "BLOCK_1552140890585": "sensore ultrasonico[index] distanza da un oggetto (cm)",
+    "BLOCK_1552140919772": "sensore ultrasonico[index] è fuori dalla distanza?",
+    "cate_14b3c81a": "Sensore ad ultrasuoni",
+    "BLOCK_1547779213407": "servo [ID] imposta l'angolo a [angle] (°)",
+    "BLOCK_1547779701469": "altoparlante [ID]  riproduce il suono [audio]",
+    "BLOCK_1547779887637": "altoparlante [ID]  riproduce audio personalizzato [audio] fino al termine",
+    "BLOCK_1547781171854": "altoparlante [ID]  imposta il volume a [volume] %"
+};

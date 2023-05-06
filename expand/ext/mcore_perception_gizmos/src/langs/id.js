@@ -1,0 +1,21 @@
+export default {
+    "mcore_perception_gizmos": "Mendeteksi Gawai",
+    "extensionName": "Mendeteksi Gawai",
+    "extensionDescription": "Dalam proyek ekstensi mBot 5, Anda dapat mengakses berbagai contoh yang membantu Anda mempelajari bagaimana cara menggunakan sensor dan menguasai dasar dari elektronik.",
+    "MCORE_RUN_FAN_PORT_0": "port1",
+    "MCORE_RUN_FAN_PORT_1": "port2",
+    "MCORE_RUN_FAN_PORT_2": "port3",
+    "MCORE_RUN_FAN_PORT_3": "port4",
+    "MCORE_RUN_FAN_FAN_ROTATE_0": "searah jarum jam",
+    "MCORE_RUN_FAN_FAN_ROTATE_1": "berlawanan arah jarum jam",
+    "MCORE_RUN_FAN_FAN_ROTATE_2": "berhenti",
+    "mcore_run_fan": "[ICON] fan [PORT] [FAN_ROTATE] berputar",
+    "MCORE_DETECT_EXTERNAL_LOUDNESS_PORT_0": "port3",
+    "MCORE_DETECT_EXTERNAL_LOUDNESS_PORT_1": "port4",
+    "mcore_detect_external_loudness": "[ICON] sensor suara [PORT] kenyaringan",
+    "MCORE_DETEC_TEMPERATURE_SLOT_0": "slot1",
+    "MCORE_DETEC_TEMPERATURE_SLOT_1": "slot2",
+    "mcore_detec_temperature": "[ICON] sensor suhu [PORT] [SLOT] nilai (℃)",
+    "mcore_detect_potentiometer": "[ICON] potensiometer [PORT] nilai",
+    "CATEGORY_PERCEPTION": "Gawai"
+};

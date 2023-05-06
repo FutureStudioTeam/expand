@@ -1,0 +1,23 @@
+export default {
+    "mcore_variety_gizmos": "Pacote de Gadgets",
+    "extensionName": "Pacote de Gadgets",
+    "extensionDescription": "Nos projetos de extensão 6 mBot, irás aprender em como fazer o teu robô ou o dispositivo a mover-se e a mudar a forma como tu quiseres. ",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_PORT_0": "porta1",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_PORT_1": "porta2",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_PORT_2": "porta3",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_PORT_3": "porta4",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_LED_POSTION_0": "todos",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_LED_POSTION_1": "1",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_LED_POSTION_2": "2",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_LED_POSTION_3": "3",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_LED_POSTION_4": "4",
+    "mcore_show_external_led_time": "[ICON] LED RGB [PORT] ligado [LED_POSTION]com a luz de cor[COLOR] durante [TIME] segundo(s)",
+    "mcore_show_external_led": "[ICON] LED RGB [PORT]ligado [LED_POSTION]com a luz de cor[COLOR] ",
+    "mcore_show_external_led_rgb": "[ICON] LED RGB [PORT] ligado [LED_POSTION]com cor vermelha [R] verde [G] azul [B]",
+    "MCORE_RUN_SERVO_SLOT_0": "ranhura1",
+    "MCORE_RUN_SERVO_SLOT_1": "ranhura2",
+    "mcore_run_servo": "[ICON] servo [PORT] [SLOT] posicionado no ângulo [DEGREE] ",
+    "mcore_show_7segments_number": "[ICON] 7 segmentos[PORT] mostra o número [NUMBER]",
+    "mcore_event_limit_switch": "[ICON] interruptor de limite [PORT] [SLOT] está pressionado？",
+    "CATEGORY_VARITY": "Gadgets "
+};

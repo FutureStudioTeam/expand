@@ -1,0 +1,20 @@
+export default {
+    "halocode_mbuild_rangingsensor": "Sensor de distàncies",
+    "extensionName": "Sensor de distàncies",
+    "extensionDescription": "",
+    "OP_RANGING_INDEX_0": "1",
+    "OP_RANGING_INDEX_1": "2",
+    "OP_RANGING_INDEX_2": "3",
+    "OP_RANGING_INDEX_3": "4",
+    "OP_RANGING_INDEX_4": "5",
+    "OP_RANGING_INDEX_5": "6",
+    "OP_RANGING_INDEX_6": "7",
+    "OP_RANGING_INDEX_7": "8",
+    "op_ranging": "distància a un objecte (cm) mesurada pel sensor de distàncies [index]",
+    "event_ranging_pressed": "està el sensor de distàncies [index] fora del rang de distància?",
+    "cate_a8ddb2a0": "Sensor de distàncies",
+    "BLOCK_1547779213407": "orienta el servo [ID] a un angle de [angle]°",
+    "BLOCK_1547779701469": "l'altaveu [ID] reprodueix el so [audio]",
+    "BLOCK_1547779887637": "l'altaveu [ID] reprodueix el fitxer de so [audio] fins al final",
+    "BLOCK_1547781171854": "estableix el volum de l'altaveu [ID] al [volume]%"
+};

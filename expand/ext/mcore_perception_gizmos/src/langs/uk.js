@@ -1,0 +1,21 @@
+export default {
+    "mcore_perception_gizmos": "Гаджети сприйняття",
+    "extensionName": "Гаджети сприйняття",
+    "extensionDescription": "У 5 проектах розширення mBot можна отримати доступ до різноманітних винаходів, які допоможуть вам навчитися використовувати датчики та зрозуміти основи електроніки.",
+    "MCORE_RUN_FAN_PORT_0": "порт 1",
+    "MCORE_RUN_FAN_PORT_1": "порт 2",
+    "MCORE_RUN_FAN_PORT_2": "порт 3",
+    "MCORE_RUN_FAN_PORT_3": "порт 4",
+    "MCORE_RUN_FAN_FAN_ROTATE_0": "за годинниковою стрілкою",
+    "MCORE_RUN_FAN_FAN_ROTATE_1": "проти годинникової стрілки",
+    "MCORE_RUN_FAN_FAN_ROTATE_2": "зупинити",
+    "mcore_run_fan": "[ICON] вентилятор [PORT] [FAN_ROTATE] обертів",
+    "MCORE_DETECT_EXTERNAL_LOUDNESS_PORT_0": "порт 3",
+    "MCORE_DETECT_EXTERNAL_LOUDNESS_PORT_1": "порт 4",
+    "mcore_detect_external_loudness": "[ICON] датчик звуку [PORT] гучність",
+    "MCORE_DETEC_TEMPERATURE_SLOT_0": "роз'єм1",
+    "MCORE_DETEC_TEMPERATURE_SLOT_1": "роз'єм2",
+    "mcore_detec_temperature": "[ICON] термометр [PORT] [SLOT] температура (℃)",
+    "mcore_detect_potentiometer": "[ICON] значення потенціометра [PORT]",
+    "CATEGORY_PERCEPTION": "Гаджети"
+};

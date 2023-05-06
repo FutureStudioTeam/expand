@@ -1,0 +1,20 @@
+export default {
+    "auriga_perception_gizmos": "Sensing Gizmos",
+    "extensionName": "Aggeggi di rilevamento",
+    "extensionDescription": "Nei 2 progetti di estensione del Ranger di mbot, imparerete come usare i sensori nella vita quotidiana e a migliorare la tua comprensione dell'elettronica. ",
+    "AURIGA_RUN_FAN_PORT_0": "PORT6",
+    "AURIGA_RUN_FAN_PORT_1": "PORT7",
+    "AURIGA_RUN_FAN_PORT_2": "port8",
+    "AURIGA_RUN_FAN_PORT_3": "port9",
+    "AURIGA_RUN_FAN_PORT_4": "port10",
+    "AURIGA_RUN_FAN_FAN_ROTATE_0": "Orario",
+    "AURIGA_RUN_FAN_FAN_ROTATE_1": "Antiorario",
+    "AURIGA_RUN_FAN_FAN_ROTATE_2": "Fermare",
+    "auriga_run_fan": "[ICON]Fan [PORT] [FAN_ROTATE] Ruota",
+    "auriga_detect_external_loudness": "[ICON] sensore di suono [PORT] Sonorità",
+    "AURIGA_DETEC_TEMPERATURE_SLOT_0": "SLOT1",
+    "AURIGA_DETEC_TEMPERATURE_SLOT_1": "SLOT2",
+    "auriga_detec_temperature": "[ICON]sensore di temperatura [PORT] [SLOT] temperatura (℃)",
+    "auriga_detect_potentiometer": "[ICON] Potenziometro[PORT] Valore",
+    "CATEGORY_PERCEPTION": "Aggeggi di rilevamento"
+};

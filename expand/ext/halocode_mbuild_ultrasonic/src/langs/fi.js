@@ -1,0 +1,20 @@
+export default {
+    "halocode_mbuild_ultrasonic": "Ultraäänianturi",
+    "extensionName": "Ultraäänianturi",
+    "extensionDescription": "",
+    "BLOCK_1552140890585_INDEX_0": "1",
+    "BLOCK_1552140890585_INDEX_1": "2",
+    "BLOCK_1552140890585_INDEX_2": "3",
+    "BLOCK_1552140890585_INDEX_3": "4",
+    "BLOCK_1552140890585_INDEX_4": "5",
+    "BLOCK_1552140890585_INDEX_5": "6",
+    "BLOCK_1552140890585_INDEX_6": "7",
+    "BLOCK_1552140890585_INDEX_7": "8",
+    "BLOCK_1552140890585": "ultraäänianturi[index] etäisyys esineellä (cm)",
+    "BLOCK_1552140919772": "ultraäänianturin [index] etäisyyden ulkopuolella?",
+    "cate_14b3c81a": "Ultraäänianturi",
+    "BLOCK_1547779213407": "servo [ID] asettaa kulman [angle] (°)",
+    "BLOCK_1547779701469": "kaiutin [ID]  toistaa äänen [audio]",
+    "BLOCK_1547779887637": "kaiutin [ID] soittaa mukautettua ääntä [audio] kunnes valmis",
+    "BLOCK_1547781171854": "kaiutin [ID]  aseta äänenvoimakkuus [volume] %"
+};

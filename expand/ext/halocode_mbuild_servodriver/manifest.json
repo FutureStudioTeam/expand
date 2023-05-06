@@ -1,0 +1,83 @@
+{
+    "id": "halocode_mbuild_servodriver",
+    "iconURL": "halocode_mbuild_servodriver/imgs/25e588b48e6945c4ab49673fd93fcad4.png",
+    "coverURL": "./res/25e588b48e6945c4ab49673fd93fcad4.png",
+    "name": {
+        "zh": "舵机驱动",
+        "en": "Servo Driver",
+        "de": "Servo Fahrer",
+        "es": "Controlador servo",
+        "fr": "Servo Conducteur",
+        "id": "Sopir Servo",
+        "ja": "サーボドライバ",
+        "ja-jph": "サーボドライバ",
+        "ko": "서보 드라이버",
+        "pl": "Kierowca serwomechanizmu",
+        "uk": "Серво привід",
+        "zh-hant": "伺服馬達驅動器",
+        "nl": "Servo-stuurprogramma",
+        "it": "Controllo Servo",
+        "hr": "Servo kontroler",
+        "ru": "Cервопривод",
+        "pt": "Servo driver",
+        "fi": "Servo-ohjain",
+        "tr": "Servo sürücü",
+        "tk": "Serwo-draýwer",
+        "ar": "سائق سيرفو",
+        "ca": "Controlador del servo",
+        "cs": "Ovladač serva",
+        "fa": "درایور سروو",
+        "km": "យន្តចលករស៊ែរវូ",
+        "vi": "Trình điều khiển servo"
+    },
+    "description": {
+        "zh": "",
+        "en": "",
+        "de": "",
+        "es": "",
+        "fr": "",
+        "id": "",
+        "ja": "",
+        "ja-jph": "",
+        "ko": "",
+        "pl": "",
+        "uk": "",
+        "zh-hant": "",
+        "nl": "",
+        "it": "",
+        "hr": "",
+        "ru": "",
+        "pt": "",
+        "fi": "",
+        "tr": "",
+        "tk": "",
+        "ar": "",
+        "ca": "",
+        "cs": "",
+        "fa": "",
+        "km": "",
+        "vi": ""
+    },
+    "fromScratch3": false,
+    "targets": [
+        "haloboard",
+        "cyberpi"
+    ],
+    "main": "halocode_mbuild_servodriver/index.js",
+    "codeTypes": [
+        "python"
+    ],
+    "device": false,
+    "sortId": 999,
+    "version": "0.0.6",
+    "extApiVersion": [
+        "1.0.2"
+    ],
+    "platform": [
+        "mblockpc",
+        "mblockweb",
+        "mblockapp"
+    ],
+    "homepage": "http://docs.makeblock.com/diy-platform/zh/mbuild/hardware/motion/servo-driver.html",
+    "feature": []
+}

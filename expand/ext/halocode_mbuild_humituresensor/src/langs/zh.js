@@ -1,0 +1,21 @@
+export default {
+    "halocode_mbuild_humituresensor": "温湿度传感器",
+    "extensionName": "温湿度传感器",
+    "extensionDescription": "",
+    "OP_TEMPERATURE_INDEX_0": "1",
+    "OP_TEMPERATURE_INDEX_1": "2",
+    "OP_TEMPERATURE_INDEX_2": "3",
+    "OP_TEMPERATURE_INDEX_3": "4",
+    "OP_TEMPERATURE_INDEX_4": "5",
+    "OP_TEMPERATURE_INDEX_5": "6",
+    "OP_TEMPERATURE_INDEX_6": "7",
+    "OP_TEMPERATURE_INDEX_7": "8",
+    "op_temperature": "温湿度传感器 [index] 温度（℃）",
+    "op_htemperature": "温湿度传感器 [index] 温度（℉）",
+    "op_humidity": "温湿度传感器 [index] 空气湿度（%）",
+    "cate_5ce6a4bb": "温湿度传感器",
+    "BLOCK_1547779213407": "第[ID]个 舵机控制板设置角度 为 [angle]  (°)",
+    "BLOCK_1547779701469": "第 [ID]  个 扬声器播放 [audio]",
+    "BLOCK_1547779887637": "第 [ID]  个扬声器 播放自定义音频 [filename] 直到结束",
+    "BLOCK_1547781171854": "第 [ID] 个 扬声器 设置音量为 [volume]  %"
+};

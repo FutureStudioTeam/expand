@@ -1,0 +1,21 @@
+export default {
+    "mcore_servo_pack": "光・サーボ",
+    "extensionName": "光・サーボ",
+    "extensionDescription": "mBotを猫に変身させましょう。踊ったり、凝視したり、辺りを照らすようになります。",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_PORT_0": "ポート1",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_PORT_1": "ポート2",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_PORT_2": "ポート3",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_PORT_3": "ポート4",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_LED_POSTION_0": "全て",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_LED_POSTION_1": "1",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_LED_POSTION_2": "2",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_LED_POSTION_3": "3",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_LED_POSTION_4": "4",
+    "mcore_show_external_led_time": "[ICON] RGB LED [PORT] の[LED_POSTION] を[COLOR] 色で[TIME] 秒点灯する",
+    "mcore_show_external_led": "[ICON] RGB LED [PORT] の[LED_POSTION] を[COLOR] 色で点灯する",
+    "mcore_show_external_led_rgb": "[ICON] RGB LED [PORT] の[LED_POSTION] を赤 [R] 緑[G] 青 [B] で点灯する",
+    "MCORE_RUN_SERVO_SLOT_0": "スロット1",
+    "MCORE_RUN_SERVO_SLOT_1": "スロット2",
+    "mcore_run_servo": "[ICON] サーボ[PORT] の[SLOT] の角度を[DEGREE] にする ",
+    "CATEGORY_SERVO_PACK": "光・サーボ"
+};

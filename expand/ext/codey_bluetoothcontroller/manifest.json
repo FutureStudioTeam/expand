@@ -1,0 +1,73 @@
+{
+    "id": "codey_bluetoothcontroller",
+    "iconURL": "codey_bluetoothcontroller/imgs/3a79e9810b794590b2f1d1ce7249fae3.png",
+    "coverURL": "./res/3a79e9810b794590b2f1d1ce7249fae3.png",
+    "name": {
+        "zh": "蓝牙手柄",
+        "en": "Bluetooth controller",
+        "de": "Bluetooth controller",
+        "es": "Bluetooth controller",
+        "fr": "Manette Bluetooth",
+        "id": "Bluetooth controller",
+        "ja": "Bluetooth コントローラ",
+        "ja-jph": "Bluetooth コントローラ",
+        "ko": "Bluetooth controller",
+        "pl": "Bluetooth controller",
+        "uk": "Контролер Bluetooth",
+        "zh-hant": "藍牙手把",
+        "nl": "Bluetooth controller",
+        "it": "Bluetooth controller",
+        "hr": "Bluetooth controller",
+        "ru": "Bluetooth controller",
+        "pt": "Bluetooth controller",
+        "fi": "Bluetooth controller",
+        "tr": "Bluetooth controller",
+        "tk": "Bluetooth controller",
+        "fa": "Bluetooth controller"
+    },
+    "description": {
+        "zh": "用蓝牙手柄玩转你的设备",
+        "en": "Use the Bluetooth controller to make your robot do whatever you would like.",
+        "de": "Verwenden Sie den Bluetooth controller, damit Ihr Roboter das tut, was Sie möchten.",
+        "es": "Usa el Bluetooth controller para que tu robot haga lo que tú quieras.",
+        "fr": "Utilisez la manette Bluetooth pour commander votre robot comme vous le voulez.",
+        "id": "Menggunakan Bluetooth controller untuk membuat robot Anda melakukan apa pun yang Anda ingin.",
+        "ja": "Bluetooth コントローラを使用して、好きなようにロボットを動かせます。",
+        "ja-jph": "Bluetooth コントローラをしようして、すきなようにロボットをうごかせます。",
+        "ko": "Bluetooth controller를 사용하여 로봇이 원하는 대로 움직이게 하세요.",
+        "pl": "Użyj sterownika Bluetooth do bezprzewodowego sterowania robotem. Możesz zaprogramować funkcje wszystkich przycisków i joysticków umieszczonych na sterowniku.",
+        "uk": "Використайте Bluetooth controller, щоб запрограмувати робота виконувати певні дії.",
+        "zh-hant": "使用藍牙手把, 讓您的機器人做任何你想做的事情。",
+        "nl": "Gebruik de Bluetooth verbinding om uw robot aan te sturen.",
+        "it": "Usa il Bluetooth controller per fare fare al tuo robot quello che vuoi.",
+        "hr": "Koristite Bluetooth controller kako bi nagovorili svojeg robota da radi što god poželite.",
+        "ru": "Используйте Bluetooth controller для того, чтобы робот выполнял любые Ваши команды.",
+        "pt": "Usa o Bluetooth controller para fazeres com que o teu robô faça o que tu quiseres.",
+        "fi": "Käytä Bluetooth controller, jotta robotti tekee mitä haluat.",
+        "tr": "Robota istediğiniz bir şeyi yaptırmak için Bluetooth kumandası kullanın.",
+        "tk": "Bluetooth dolandyryş enjamy arkaly robotyňyza islän zadyňyzy etdiriň.",
+        "fa": "برای اینکه ربات هر کاری که مد نظر شما است انجام دهد، از کنترل کننده بلوتوث استفاده کنید."
+    },
+    "fromScratch3": false,
+    "targets": [
+        "codey"
+    ],
+    "main": "codey_bluetoothcontroller/index.js",
+    "codeTypes": [
+        "python"
+    ],
+    "device": false,
+    "sortId": 999,
+    "version": "0.0.2",
+    "extApiVersion": [
+        "1.0.0",
+        "1.0.1"
+    ],
+    "platform": [
+        "mblockpc",
+        "mblockweb",
+        "mblockapp"
+    ],
+    "homepage": "http://www.mblock.cc/api-docs/_preview/mblock-5/zh/use-extensions/use-extensions.html",
+    "feature": []
+}

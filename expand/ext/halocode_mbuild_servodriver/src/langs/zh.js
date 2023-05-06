@@ -1,0 +1,23 @@
+export default {
+    "halocode_mbuild_servodriver": "舵机驱动",
+    "extensionName": "舵机驱动",
+    "extensionDescription": "",
+    "BLOCK_1550543186478_INDEX_0": "1",
+    "BLOCK_1550543186478_INDEX_1": "2",
+    "BLOCK_1550543186478_INDEX_2": "3",
+    "BLOCK_1550543186478_INDEX_3": "4",
+    "BLOCK_1550543186478_INDEX_4": "5",
+    "BLOCK_1550543186478_INDEX_5": "6",
+    "BLOCK_1550543186478_INDEX_6": "7",
+    "BLOCK_1550543186478_INDEX_7": "8",
+    "BLOCK_1550543186478": "舵机驱动 [index] 设置角度为 [angle] °",
+    "BLOCK_1550543202398": "舵机驱动 [index] 的设置角度增加 [angle] °",
+    "BLOCK_1550543213773": "舵机驱动 [index] 回复到零点",
+    "BLOCK_1550543222423": "舵机驱动 [index] 当前设置的角度（°）",
+    "BLOCK_1550543238558": "舵机驱动 [index] 的负载 (%)",
+    "cate_dc643ec1": "舵机驱动",
+    "BLOCK_1547779213407": "第[ID]个 舵机控制板设置角度 为 [angle]  (°)",
+    "BLOCK_1547779701469": "第 [ID]  个 扬声器播放 [audio]",
+    "BLOCK_1547779887637": "第 [ID]  个扬声器 播放自定义音频 [filename] 直到结束",
+    "BLOCK_1547781171854": "第 [ID] 个 扬声器 设置音量为 [volume]  %"
+};

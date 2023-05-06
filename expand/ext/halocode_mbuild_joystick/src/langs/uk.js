@@ -1,0 +1,22 @@
+export default {
+    "halocode_mbuild_joystick": "Джойстик",
+    "extensionName": "Джойстик",
+    "extensionDescription": "",
+    "BLOCK_1559707965944_INDEX_0": "1",
+    "BLOCK_1559707965944_INDEX_1": "2",
+    "BLOCK_1559707965944_INDEX_2": "3",
+    "BLOCK_1559707965944_INDEX_3": "4",
+    "BLOCK_1559707965944_INDEX_4": "5",
+    "BLOCK_1559707965944_INDEX_5": "6",
+    "BLOCK_1559707965944_INDEX_6": "7",
+    "BLOCK_1559707965944_INDEX_7": "8",
+    "BLOCK_1559707965944_DIR_0": "вгору",
+    "BLOCK_1559707965944_DIR_1": "вниз",
+    "BLOCK_1559707965944_DIR_2": "вліво",
+    "BLOCK_1559707965944_DIR_3": "вправо",
+    "BLOCK_1559707965944": "джойстик [index] [dir] труситься?",
+    "BLOCK_1559708436297_AXIS_0": "вісь х",
+    "BLOCK_1559708436297_AXIS_1": "вісь y",
+    "BLOCK_1559708436297": "джойстик [index] [axis] значення",
+    "cate_38b05160": "Джойстик"
+};

@@ -1,0 +1,83 @@
+{
+    "id": "halocode_mbuild_sound_sensor",
+    "iconURL": "halocode_mbuild_sound_sensor/imgs/ea0625cccb4d4612bcaa49e9d0d63076.png",
+    "coverURL": "./res/ea0625cccb4d4612bcaa49e9d0d63076.png",
+    "name": {
+        "zh": "声音传感器",
+        "en": "Sound Sensor",
+        "de": "Soundsensor",
+        "es": "Sensor de sonido",
+        "fr": "Capteur de son",
+        "id": "Sensor suara",
+        "ja": "音声センサー",
+        "ja-jph": "おんせいセンサー",
+        "ko": "사운드 센서",
+        "pl": "Czujnik dźwięku",
+        "uk": "Звуковий датчик",
+        "zh-hant": "聲音感測器",
+        "nl": "Geluids sensor",
+        "it": "Sensore audio",
+        "hr": "Senzor zvuka",
+        "ru": "Датчик звука",
+        "pt": "Sensor de som",
+        "fi": "Ääni anturi",
+        "tr": "Ses Sensörü",
+        "tk": "Sesi duýujy enjam",
+        "ar": "مستشعر الصوت",
+        "ca": "Sensor de so",
+        "cs": "Zvukový senzor",
+        "fa": "حسگر صدا",
+        "km": "ឧបករណ៍ចាប់សំឡេង",
+        "vi": "Cảm biến âm thanh"
+    },
+    "description": {
+        "zh": "",
+        "en": "",
+        "de": "",
+        "es": "",
+        "fr": "",
+        "id": "",
+        "ja": "",
+        "ja-jph": "",
+        "ko": "",
+        "pl": "",
+        "uk": "",
+        "zh-hant": "",
+        "nl": "",
+        "it": "",
+        "hr": "",
+        "ru": "",
+        "pt": "",
+        "fi": "",
+        "tr": "",
+        "tk": "",
+        "ar": "",
+        "ca": "",
+        "cs": "",
+        "fa": "",
+        "km": "",
+        "vi": ""
+    },
+    "fromScratch3": false,
+    "targets": [
+        "haloboard",
+        "cyberpi"
+    ],
+    "main": "halocode_mbuild_sound_sensor/index.js",
+    "codeTypes": [
+        "python"
+    ],
+    "device": false,
+    "sortId": 999,
+    "version": "0.0.2",
+    "extApiVersion": [
+        "1.0.2"
+    ],
+    "platform": [
+        "mblockpc",
+        "mblockweb",
+        "mblockapp"
+    ],
+    "homepage": "http://docs.makeblock.com/diy-platform/zh/mbuild/hardware/sensors/sound-sensor.html",
+    "feature": []
+}

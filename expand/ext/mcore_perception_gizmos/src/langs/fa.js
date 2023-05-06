@@ -1,0 +1,21 @@
+export default {
+    "mcore_perception_gizmos": "وسایل سنجش",
+    "extensionName": "وسایل سنجش",
+    "extensionDescription": "در 5 پروژه توسعه mBot ، شما به انواع مثال هایی که به شما در یادگیری نحوه بکارگیری سنسورها و اصول اولیه الکترونیکی کمک می کند، دسترسی دارید.",
+    "MCORE_RUN_FAN_PORT_0": "پورت 1",
+    "MCORE_RUN_FAN_PORT_1": "پورت 2",
+    "MCORE_RUN_FAN_PORT_2": "پورت 3",
+    "MCORE_RUN_FAN_PORT_3": "پورت 4",
+    "MCORE_RUN_FAN_FAN_ROTATE_0": "ساعتگرد",
+    "MCORE_RUN_FAN_FAN_ROTATE_1": "پادساعتگرد",
+    "MCORE_RUN_FAN_FAN_ROTATE_2": "توقف",
+    "mcore_run_fan": "[ICON] فن [PORT] [FAN_ROTATE] چرخش",
+    "MCORE_DETECT_EXTERNAL_LOUDNESS_PORT_0": "پورت 3",
+    "MCORE_DETECT_EXTERNAL_LOUDNESS_PORT_1": "پورت 4",
+    "mcore_detect_external_loudness": "[ICON] سنسور صدا [PORT] بلندی صدا",
+    "MCORE_DETEC_TEMPERATURE_SLOT_0": "slot1",
+    "MCORE_DETEC_TEMPERATURE_SLOT_1": "slot2",
+    "mcore_detec_temperature": "[ICON] سنسور دما [PORT] [SLOT]درجه سانتيگراد (° c)",
+    "mcore_detect_potentiometer": "[ICON] توان سنج ولتاژ برق[PORT] اندازه",
+    "CATEGORY_PERCEPTION": "ایزار"
+};

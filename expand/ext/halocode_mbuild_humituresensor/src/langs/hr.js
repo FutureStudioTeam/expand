@@ -1,0 +1,21 @@
+export default {
+    "halocode_mbuild_humituresensor": "Senzor za humiture",
+    "extensionName": "Senzor vlage",
+    "extensionDescription": "",
+    "OP_TEMPERATURE_INDEX_0": "1",
+    "OP_TEMPERATURE_INDEX_1": "2",
+    "OP_TEMPERATURE_INDEX_2": "3",
+    "OP_TEMPERATURE_INDEX_3": "4",
+    "OP_TEMPERATURE_INDEX_4": "5",
+    "OP_TEMPERATURE_INDEX_5": "6",
+    "OP_TEMPERATURE_INDEX_6": "7",
+    "OP_TEMPERATURE_INDEX_7": "8",
+    "op_temperature": "senzor vlage [index] temperatura（℃）",
+    "op_htemperature": "senzor vlage [index] temperatura（℉）",
+    "op_humidity": "senzor vlažnosti [index] vlažnost zraka（%）",
+    "cate_5ce6a4bb": "Senzor za humiture",
+    "BLOCK_1547779213407": "Servo [ID] rotira na [angle] (°)",
+    "BLOCK_1547779701469": "Zvučnika [ID]  Reproduciraj zvuk [audio]",
+    "BLOCK_1547779887637": "Zvučnika [ID]  Reproduciraj audiodatoteke [audio] do kraja",
+    "BLOCK_1547781171854": "Zvučnika [ID]  Postavite glasnoću na [volume] %"
+};

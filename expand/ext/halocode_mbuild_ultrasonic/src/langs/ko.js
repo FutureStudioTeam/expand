@@ -1,0 +1,20 @@
+export default {
+    "halocode_mbuild_ultrasonic": "초음파 센서",
+    "extensionName": "초음파 센서",
+    "extensionDescription": "",
+    "BLOCK_1552140890585_INDEX_0": "1",
+    "BLOCK_1552140890585_INDEX_1": "2",
+    "BLOCK_1552140890585_INDEX_2": "3",
+    "BLOCK_1552140890585_INDEX_3": "4",
+    "BLOCK_1552140890585_INDEX_4": "5",
+    "BLOCK_1552140890585_INDEX_5": "6",
+    "BLOCK_1552140890585_INDEX_6": "7",
+    "BLOCK_1552140890585_INDEX_7": "8",
+    "BLOCK_1552140890585": "초음파 센서[index] 물체 까지의 거리 (센티미터)",
+    "BLOCK_1552140919772": "초음파 센서[index] 거리 범위 밖에?",
+    "cate_14b3c81a": "초음파 센서",
+    "BLOCK_1547779213407": "서보 [ID] 각도를 설정 [angle] (°)",
+    "BLOCK_1547779701469": "스피커 [ID]  사운드 재생 [audio]",
+    "BLOCK_1547779887637": "스피커 [ID]  사용자 지정 오디오 재생 [audio] 완료 될 때까지",
+    "BLOCK_1547781171854": "스피커 [ID]  볼륨을 설정 [volume] %"
+};

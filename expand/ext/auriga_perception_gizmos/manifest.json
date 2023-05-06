@@ -1,0 +1,72 @@
+{
+    "id": "auriga_perception_gizmos",
+    "iconURL": "auriga_perception_gizmos/imgs/eb3be0505c0949fcb41b6a50ac649191.png",
+    "coverURL": "./res/eb3be0505c0949fcb41b6a50ac649191.png",
+    "name": {
+        "zh": "感知小发明",
+        "en": "Sensing Gizmos",
+        "de": "Gizmos erkennen",
+        "es": "Aparatos de detección",
+        "fr": "Gadgets de détection",
+        "id": "Mendeteksi Gawai",
+        "ja": "センシングギズモ",
+        "ja-jph": "センシングギズモ",
+        "ko": "Sensing Gizmos",
+        "pl": "Perception Gizmos",
+        "uk": "Гаджети сприйняття",
+        "zh-hant": "感知小發明",
+        "nl": "Detecterende snufjes",
+        "it": "Aggeggi di rilevamento",
+        "hr": "Osjećajući Gizmos",
+        "ru": "Сенсорные устройства",
+        "pt": "Aparelhos Sensoriais",
+        "fi": "Sensing Gizmos",
+        "tr": "Zımbırtı Algılandı",
+        "tk": "Duýujy enjamlar",
+        "fa": "وسایل سنجش"
+    },
+    "description": {
+        "zh": "包含2个mBot Ranger的扩展案例，丰富的传感器应用案例，非常适合学习电子知识。",
+        "en": "In the 2 mBot Ranger extension projects, you will learn how to use sensors in daily life and gain a better understanding of electronics. ",
+        "de": "In den 2 mBot Ranger-Erweiterungs Projekten lernen Sie, wie Sie Sensoren im Alltag einsetzen und ein besseres Verständnis von Elektronik gewinnen. ",
+        "es": "En los 2 proyectos de extensión de mBot Ranger, aprenderás cómo usar los sensores en la vida real y comprenderás mejor la electrónica. ",
+        "fr": "Dans les 2 projets d'extension de mbot Ranger, vous apprendrez à utiliser des capteurs dans la vie quotidienne et à acquérir une meilleure compréhension de l'électronique. ",
+        "id": "Dalam proyek ekstensi mBot Ranger 2, Anda akan mempelajari cara menggunakan sensor dalam kehidupan sehari-hari dan mendapatkan pemahaman yang lebih baik tentang elektronik. ",
+        "ja": "2つのmBot Rangerの拡張プロジェクトでは、センサーを日常生活で使用する方法、電子機械をより良く理解することなどが学べます。 ",
+        "ja-jph": "2つのmBot Rangerのかくちょうプロジェクトでは、センサーをにちじょうせいかつでしようするほうほう、でんしきかいをよりよくりかいすることなどがまなべます。 ",
+        "ko": "2개의 mBot Ranger 확장 프로젝트에서는 일상생활에서 센서를 사용하는 방법을 배우고 전자 장치를 더 잘 이해할 수 있습니다.",
+        "pl": "Zestaw dodatkowych elementów do mBota i Rangera.  Zawiera wyświetlacz LED matrix, czujnik dźwięku, potencjometr, silniczek DC z wentylatorem, czujnik temperatury i wilgotności oraz elementy montażowe. Pozwala na tworzenie bardziej rozbudowanych projektów.",
+        "uk": "У 2 проектах розширення до mBot Ranger ви дізнаєтеся, як використовувати датчики в повсякденному житті та засвоїте принципи роботи електроніки. ",
+        "zh-hant": "在 mBot Ranger擴展專案中, 您將可以學到如何在日常生活中使用感測器，而更加地瞭解電子模組的知識。 ",
+        "nl": "In de 2 mBot Ranger extensieprojecten leer je hoe je sensoren in het dagelijks leven gebruikt en een beter begrip van elektronica. ",
+        "it": "Nei 2 progetti di estensione del Ranger di mbot, imparerete come usare i sensori nella vita quotidiana e a migliorare la tua comprensione dell'elettronica. ",
+        "hr": "S 2 projekta sa mBot Ranger ekstenzijama, naučiti ćeš kako koristiti senzore u svakodnevnom životu i dobiti bolje znanje o elektronici. ",
+        "ru": "В двух проектах расширения для mBot Ranger вы научитесь пользоваться датчиками в повседневной жизни и освоите принципы работы с электроникой. ",
+        "pt": "Nos projetos de extensão Ranger 2 mBot, irás aprender em como usar os sensores no dia-a-dia e obter uma melhor compreensão sobre electrónica.",
+        "fi": "2 mBot Ranger -laajennusprojekteissa opit käyttämään tunnistimia päivittäisessä elämässä ja saamaan parempaa tietämystä elektroniikasta. ",
+        "tr": "2 mBot Ranger uzantı projeleri, günlük hayatta algılayıcı kullanmayı öğrenecek ve elektroniğin daha iyi anlaşılmasını sağlayacaktır. ",
+        "tk": "mBot Rangeriniň iki sany giňeldiş taslamalarynda siz duýujy enjamlary gündelik durmuşyňyzda nähili ulanmalydygyňyzy öwrenersiňiz we elektronika barada has çuňňur düşünje edinersiňiz. ",
+        "fa": "در 2 mBot رنجر پروژه های قابل توسعه، به شما نحوه استفاده از سنسور را در زندگی روزانه و به دست آوردن درک بهتری از الکترونیک یاد می دهد. "
+    },
+    "targets": [
+        "auriga"
+    ],
+    "main": "auriga_perception_gizmos/index.js",
+    "codeTypes": [
+        "arduinoc"
+    ],
+    "device": false,
+    "sortId": 999,
+    "version": "0.4.1",
+    "extApiVersion": [
+        "1.0.0",
+        "1.0.1"
+    ],
+    "platform": [
+        "mblockpc",
+        "mblockweb",
+        "mblockapp"
+    ],
+    "homepage": "http://www.mblock.cc/api-docs/_preview/mblock-5/zh/use-extensions/use-extensions.html",
+    "feature": []
+}

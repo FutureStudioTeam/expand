@@ -1,0 +1,21 @@
+export default {
+    "mcore_perception_gizmos": "センシングギズモ",
+    "extensionName": "センシングギズモ",
+    "extensionDescription": "5つのmBot拡張プロジェクトでは、センサーの使い方や電子の基本を学習できるなど、様々な例にアクセスすることができます。",
+    "MCORE_RUN_FAN_PORT_0": "ポート1",
+    "MCORE_RUN_FAN_PORT_1": "ポート2",
+    "MCORE_RUN_FAN_PORT_2": "ポート3",
+    "MCORE_RUN_FAN_PORT_3": "ポート4",
+    "MCORE_RUN_FAN_FAN_ROTATE_0": "時計回り",
+    "MCORE_RUN_FAN_FAN_ROTATE_1": "反時計回り",
+    "MCORE_RUN_FAN_FAN_ROTATE_2": "を止める",
+    "mcore_run_fan": "[ICON] ファン [PORT] を [FAN_ROTATE] にする",
+    "MCORE_DETECT_EXTERNAL_LOUDNESS_PORT_0": "ポート3",
+    "MCORE_DETECT_EXTERNAL_LOUDNESS_PORT_1": "ポート4",
+    "mcore_detect_external_loudness": "[ICON] 音声センサー [PORT] の値",
+    "MCORE_DETEC_TEMPERATURE_SLOT_0": "スロット1",
+    "MCORE_DETEC_TEMPERATURE_SLOT_1": "スロット2",
+    "mcore_detec_temperature": "[ICON]温度センサー[PORT] の[SLOT] の値(℃)",
+    "mcore_detect_potentiometer": "[ICON] ポテンションメータ [PORT] の値",
+    "CATEGORY_PERCEPTION": "センシングギズモ"
+};

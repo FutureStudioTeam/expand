@@ -1,0 +1,21 @@
+export default {
+    "mcore_perception_gizmos": "Cảm biến Gizmos",
+    "extensionName": "Cảm biến Gizmos",
+    "extensionDescription": "Trong các dự án mở rộng 5 mBot, bạn có thể truy cập nhiều ví dụ khác nhau giúp bạn tìm hiểu cách sử dụng cảm biến và làm chủ những điều cơ bản của thiết bị điện tử.",
+    "MCORE_RUN_FAN_PORT_0": "port1",
+    "MCORE_RUN_FAN_PORT_1": "port2",
+    "MCORE_RUN_FAN_PORT_2": "port3",
+    "MCORE_RUN_FAN_PORT_3": "port4",
+    "MCORE_RUN_FAN_FAN_ROTATE_0": "theo chiều kim đồng hồ",
+    "MCORE_RUN_FAN_FAN_ROTATE_1": "ngược chiều kim đồng hồ",
+    "MCORE_RUN_FAN_FAN_ROTATE_2": "Dừng",
+    "mcore_run_fan": "[ICON] quạt [PORT] [FAN_ROTATE] Quay",
+    "MCORE_DETECT_EXTERNAL_LOUDNESS_PORT_0": "port3",
+    "MCORE_DETECT_EXTERNAL_LOUDNESS_PORT_1": "port4",
+    "mcore_detect_external_loudness": "[ICON] độ ồn của cảm biến âm thanh [PORT]",
+    "MCORE_DETEC_TEMPERATURE_SLOT_0": "vị trí 1",
+    "MCORE_DETEC_TEMPERATURE_SLOT_1": "vị trí 2",
+    "mcore_detec_temperature": "[ICON] giá trị cảm biến nhiệt độ [PORT] [SLOT] (° c)",
+    "mcore_detect_potentiometer": "[ICON] giá trị đo điện thế [PORT]",
+    "CATEGORY_PERCEPTION": "Gizmos"
+};

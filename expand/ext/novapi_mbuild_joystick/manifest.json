@@ -1,0 +1,71 @@
+{
+    "id": "novapi_mbuild_joystick",
+    "iconURL": "novapi_mbuild_joystick/imgs/d03145f3491b469cbf0731b01fa393a8.png",
+    "coverURL": "./res/d03145f3491b469cbf0731b01fa393a8.png",
+    "name": {
+        "zh": "摇杆",
+        "en": "Joystick",
+        "de": "Joystick",
+        "es": "Joystick",
+        "fr": "Joystick",
+        "id": "Joystick",
+        "ja": "Joystick",
+        "ja-jph": "Joystick",
+        "ko": "Joystick",
+        "pl": "Joystick",
+        "uk": "Joystick",
+        "zh-hant": "Joystick",
+        "nl": "Joystick",
+        "it": "Joystick",
+        "hr": "Joystick",
+        "ru": "Joystick",
+        "pt": "Joystick",
+        "fi": "Joystick",
+        "tr": "Joystick",
+        "tk": "Joystick",
+        "fa": "Joystick"
+    },
+    "description": {
+        "zh": "",
+        "en": "",
+        "de": "",
+        "es": "",
+        "fr": "",
+        "id": "",
+        "ja": "",
+        "ja-jph": "",
+        "ko": "",
+        "pl": "",
+        "uk": "",
+        "zh-hant": "",
+        "nl": "",
+        "it": "",
+        "hr": "",
+        "ru": "",
+        "pt": "",
+        "fi": "",
+        "tr": "",
+        "tk": "",
+        "fa": ""
+    },
+    "fromScratch3": false,
+    "targets": [
+        "novapi"
+    ],
+    "main": "novapi_mbuild_joystick/index.js",
+    "codeTypes": [
+        "python"
+    ],
+    "device": false,
+    "sortId": 999,
+    "version": "0.0.1",
+    "extApiVersion": [
+        "1.0.2"
+    ],
+    "platform": [
+        "mblockpc",
+        "mblockweb"
+    ],
+    "homepage": "http://www.mblock.cc/api-docs/_preview/mblock-5/zh/use-extensions/use-extensions.html",
+    "feature": []
+}

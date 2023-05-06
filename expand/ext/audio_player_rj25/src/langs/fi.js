@@ -1,0 +1,22 @@
+export default {
+    "audio_player_rj25": "Audio Player",
+    "extensionName": "Audio Player",
+    "extensionDescription": "Audio Player",
+    "audioplayer_init": "alusta Audio soitin: kaikki valkoinen portti (I2C)",
+    "audioplayer_play_by_sn": "audio player: Toista [FILE_SN] ääni tiedosto",
+    "audioplayer_play_by_name": "audio player: Toista ääni tiedosto nimeltä [FILE_NAME]",
+    "AUDIOPLAYER_SET_PLAY_MODE_PLAY_MODE_0": "Yhden",
+    "AUDIOPLAYER_SET_PLAY_MODE_PLAY_MODE_1": "Silmukka",
+    "AUDIOPLAYER_SET_PLAY_MODE_PLAY_MODE_2": "Tilaa",
+    "AUDIOPLAYER_SET_PLAY_MODE_PLAY_MODE_3": "Shuffle",
+    "audioplayer_set_play_mode": "audio player: Aseta tila [PLAY_MODE]",
+    "audioplayer_play_previous": "audio player: Toista edellinen ääni tiedosto",
+    "audioplayer_play_next": "audio player: toista seuraava ääni tiedosto",
+    "audioplayer_pause": "audio player: tauko/jatkuu",
+    "audioplayer_stop": "audio player: lopeta pelaaminen",
+    "audioplayer_set_volume": "audio player: Aseta äänen voimakkuus [VOLUME] %",
+    "audioplayer_volume_up": "audio player: äänen voimakkuuden lisäys",
+    "audioplayer_volume_down": "audio player: äänen voimakkuus alas",
+    "audioplayer_record": "audio player: Aloita tallennus ja Tallenna [FILE_NAME]",
+    "audioplayer_record_stop": "audio player: Lopeta tallennus"
+};

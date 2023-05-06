@@ -1,0 +1,21 @@
+export default {
+    "mcore_perception_gizmos": "Aparelhos Sensoriais",
+    "extensionName": "Aparelhos sensoriais",
+    "extensionDescription": "Nos projetos de extensão 5 mBot, podes aceder a uma variedade de exemplos que te ajudam a aprender em como usar os sensores e a dominar os conceitos básicos de electrónica.",
+    "MCORE_RUN_FAN_PORT_0": "porta1",
+    "MCORE_RUN_FAN_PORT_1": "porta2",
+    "MCORE_RUN_FAN_PORT_2": "porta3",
+    "MCORE_RUN_FAN_PORT_3": "porta4",
+    "MCORE_RUN_FAN_FAN_ROTATE_0": "sentido horário",
+    "MCORE_RUN_FAN_FAN_ROTATE_1": "sentido anti-horário",
+    "MCORE_RUN_FAN_FAN_ROTATE_2": "parar",
+    "mcore_run_fan": "[ICON] ventilador [PORT] [FAN_ROTATE] gira",
+    "MCORE_DETECT_EXTERNAL_LOUDNESS_PORT_0": "porta3",
+    "MCORE_DETECT_EXTERNAL_LOUDNESS_PORT_1": "porta4",
+    "mcore_detect_external_loudness": "[ICON] sensor de luz [PORT] intensidade do som",
+    "MCORE_DETEC_TEMPERATURE_SLOT_0": "ranhura1",
+    "MCORE_DETEC_TEMPERATURE_SLOT_1": "ranhura2",
+    "mcore_detec_temperature": "[ICON]sensor de temperatura [PORT] [SLOT] valor(℃)",
+    "mcore_detect_potentiometer": "[ICON] potenciómetro [PORT] valor",
+    "CATEGORY_PERCEPTION": "Aparelhos"
+};

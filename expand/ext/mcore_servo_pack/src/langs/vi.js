@@ -1,0 +1,21 @@
+export default {
+    "mcore_servo_pack": "Nhóm động cơ Servo",
+    "extensionName": "Nhóm động cơ Servo",
+    "extensionDescription": "Biến mBot của bạn thành một con mèo. Làm cho nó khiêu vũ, ngắm nhìn xung quanh và thắp sáng.",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_PORT_0": "port1",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_PORT_1": "port2",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_PORT_2": "port3",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_PORT_3": "port4",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_LED_POSTION_0": "tất cả",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_LED_POSTION_1": "1",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_LED_POSTION_2": "2",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_LED_POSTION_3": "3",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_LED_POSTION_4": "4",
+    "mcore_show_external_led_time": "[ICON] ĐÈN LED RGB [PORT] sáng lên [LED_POSTION] với màu [COLOR] trong [TIME] giây",
+    "mcore_show_external_led": "[ICON] ĐÈN LED RGB [PORT] sáng lên [LED_POSTION] với màu [COLOR]",
+    "mcore_show_external_led_rgb": "[ICON] ĐÈN LED RGB [PORT] sáng lên [LED_POSTION] với màu đỏ [R] Xanh[G] Blue [B]",
+    "MCORE_RUN_SERVO_SLOT_0": "vị trí 1",
+    "MCORE_RUN_SERVO_SLOT_1": "vị trí 2",
+    "mcore_run_servo": "[ICON] servo [PORT] [SLOT] đặt tại góc [DEGREE] ",
+    "CATEGORY_SERVO_PACK": "Nhóm động cơ Servo"
+};

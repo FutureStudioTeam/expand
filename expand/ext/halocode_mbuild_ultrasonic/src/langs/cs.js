@@ -1,0 +1,20 @@
+export default {
+    "halocode_mbuild_ultrasonic": "Ultrazvukový senzor",
+    "extensionName": "Ultrazvukový senzor",
+    "extensionDescription": "",
+    "BLOCK_1552140890585_INDEX_0": "1",
+    "BLOCK_1552140890585_INDEX_1": "2",
+    "BLOCK_1552140890585_INDEX_2": "3",
+    "BLOCK_1552140890585_INDEX_3": "4",
+    "BLOCK_1552140890585_INDEX_4": "5",
+    "BLOCK_1552140890585_INDEX_5": "6",
+    "BLOCK_1552140890585_INDEX_6": "7",
+    "BLOCK_1552140890585_INDEX_7": "8",
+    "BLOCK_1552140890585": "ultrazvukový senzor[index] vzdálenost k objektu (cm)",
+    "BLOCK_1552140919772": "ultrazvukový senzor[index] mimo dosah?",
+    "cate_14b3c81a": "Ultrazvukový senzor",
+    "BLOCK_1547779213407": "servo [ID] nastaví úhel [angle] (°)",
+    "BLOCK_1547779701469": "reproduktor [ID]  přehraje zvuk [audio]",
+    "BLOCK_1547779887637": "reproduktor [ID]  přehraje vlastní zvuk [audio] až do dokončení",
+    "BLOCK_1547781171854": "reproduktor [ID] nastavi hlasitost na [volume] %"
+};

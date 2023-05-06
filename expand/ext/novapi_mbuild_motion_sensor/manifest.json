@@ -1,0 +1,70 @@
+{
+    "id": "novapi_mbuild_motion_sensor",
+    "iconURL": "novapi_mbuild_motion_sensor/imgs/f8b0a04d1eca44a6a807de3513e66aad.png",
+    "coverURL": "./res/f8b0a04d1eca44a6a807de3513e66aad.png",
+    "name": {
+        "zh": "运动传感器",
+        "en": "Motion Sensor",
+        "de": "Motion Sensor",
+        "es": "Motion Sensor",
+        "fr": "Motion Sensor",
+        "id": "Motion Sensor",
+        "ja": "Motion Sensor",
+        "ja-jph": "Motion Sensor",
+        "ko": "Motion Sensor",
+        "pl": "Motion Sensor",
+        "uk": "Motion Sensor",
+        "zh-hant": "Motion Sensor",
+        "nl": "Motion Sensor",
+        "it": "Motion Sensor",
+        "hr": "Motion Sensor",
+        "ru": "Motion Sensor",
+        "pt": "Motion Sensor",
+        "fi": "Motion Sensor",
+        "tr": "Motion Sensor",
+        "tk": "Motion Sensor",
+        "fa": "Motion Sensor"
+    },
+    "description": {
+        "zh": "",
+        "en": "",
+        "de": "",
+        "es": "",
+        "fr": "",
+        "id": "",
+        "ja": "",
+        "ja-jph": "",
+        "ko": "",
+        "pl": "",
+        "uk": "",
+        "zh-hant": "",
+        "nl": "",
+        "it": "",
+        "hr": "",
+        "ru": "",
+        "pt": "",
+        "fi": "",
+        "tr": "",
+        "tk": "",
+        "fa": ""
+    },
+    "targets": [
+        "novapi"
+    ],
+    "main": "novapi_mbuild_motion_sensor/index.js",
+    "codeTypes": [
+        "python"
+    ],
+    "device": false,
+    "sortId": 999,
+    "version": "0.0.1",
+    "extApiVersion": [
+        "1.0.2"
+    ],
+    "platform": [
+        "mblockpc",
+        "mblockweb"
+    ],
+    "homepage": "http://docs.makeblock.com/diy-platform/zh/mbuild/hardware/sensors/motion-sensor.html",
+    "feature": []
+}

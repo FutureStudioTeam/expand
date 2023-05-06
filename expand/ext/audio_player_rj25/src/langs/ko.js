@@ -1,0 +1,22 @@
+export default {
+    "audio_player_rj25": "오디오 플레이어",
+    "extensionName": "오디오 플레이어",
+    "extensionDescription": "Audio Player",
+    "audioplayer_init": "오디오 플레이어 초기화: 모든 화이트 포트(I2C)",
+    "audioplayer_play_by_sn": "오디오 플레이어: 재생 [FILE_SN] 오디오 파일",
+    "audioplayer_play_by_name": "오디오 플레이어: 라는 오디오 파일을 재생 [FILE_NAME]",
+    "AUDIOPLAYER_SET_PLAY_MODE_PLAY_MODE_0": "단일",
+    "AUDIOPLAYER_SET_PLAY_MODE_PLAY_MODE_1": "루프",
+    "AUDIOPLAYER_SET_PLAY_MODE_PLAY_MODE_2": "순서",
+    "AUDIOPLAYER_SET_PLAY_MODE_PLAY_MODE_3": "셔플",
+    "audioplayer_set_play_mode": "오디오 플레이어: 모드 설정 [PLAY_MODE]",
+    "audioplayer_play_previous": "오디오 플레이어: 이전 오디오 파일 재생",
+    "audioplayer_play_next": "오디오 플레이어: 다음 오디오 파일 재생",
+    "audioplayer_pause": "오디오 플레이어: 일시 정지/계속",
+    "audioplayer_stop": "오디오 플레이어: 재생 중지",
+    "audioplayer_set_volume": "오디오 플레이어: 볼륨 설정 [VOLUME] %",
+    "audioplayer_volume_up": "오디오 플레이어: 볼륨 높이기",
+    "audioplayer_volume_down": "오디오 플레이어: 볼륨 작게",
+    "audioplayer_record": "오디오 플레이어: 녹음을 시작 하 고 저장 [FILE_NAME]",
+    "audioplayer_record_stop": "오디오 플레이어: 녹화 중지"
+};

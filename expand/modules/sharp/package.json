@@ -1,0 +1,71 @@
+{
+  "name": "sharp",
+  "description": "High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP and TIFF images",
+  "version": "0.25.4",
+  "author": "Lovell Fuller <npm@lovell.info>",
+  "homepage": "https://github.com/lovell/sharp",
+  "main": "lib/index.js",
+  "files": [
+    "binding.gyp",
+    "install/**",
+    "lib/**",
+    "src/**"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/lovell/sharp"
+  },
+  "dependencies": {
+    "color": "^3.1.2",
+    "detect-libc": "^1.0.3",
+    "node-addon-api": "^3.0.0",
+    "npmlog": "^4.1.2",
+    "prebuild-install": "^5.3.4",
+    "semver": "^7.3.2",
+    "simple-get": "^4.0.0",
+    "tar": "^6.0.2",
+    "tunnel-agent": "^0.6.0"
+  },
+  "devDependencies": {
+    "async": "^3.2.0",
+    "cc": "^2.0.1",
+    "decompress-zip": "^0.3.2",
+    "documentation": "^13.0.1",
+    "exif-reader": "^1.0.3",
+    "icc": "^1.0.0",
+    "license-checker": "^25.0.1",
+    "mocha": "^8.0.1",
+    "mock-fs": "^4.12.0",
+    "nyc": "^15.1.0",
+    "prebuild": "^10.0.0",
+    "prebuild-ci": "^3.1.0",
+    "rimraf": "^3.0.2",
+    "semistandard": "^14.2.0"
+  },
+  "license": "Apache-2.0",
+  "config": {
+    "libvips": "8.9.1"
+  },
+  "engines": {
+    "node": ">=10"
+  },
+  "funding": {
+    "url": "https://opencollective.com/libvips"
+  },
+  "binary": {
+    "napi_versions": [
+      3
+    ]
+  },
+  "semistandard": {
+    "env": [
+      "mocha"
+    ]
+  },
+  "cc": {
+    "linelength": "120",
+    "filter": [
+      "build/include"
+    ]
+  }
+}

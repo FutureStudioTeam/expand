@@ -1,0 +1,79 @@
+{
+    "id": "halocode_mbuild_ir_transceiver",
+    "iconURL": "halocode_mbuild_ir_transceiver/imgs/eafc81e6fd4d4ff695bf7d92e70afe3b.png",
+    "coverURL": "./res/eafc81e6fd4d4ff695bf7d92e70afe3b.png",
+    "name": {
+        "zh": "红外收发模块",
+        "en": "IR Transceiver",
+        "de": "IR Transceiver",
+        "es": "Transceptor IR",
+        "fr": "IR émetteur-récepteur",
+        "id": "IR transceiver",
+        "ja": "赤外線送受信機",
+        "ja-jph": "せきがいせんそうじゅしんき",
+        "ko": "IR 트랜시버",
+        "pl": "Urządzenie nadawczo-odbiorcze podczerwieni",
+        "uk": "ІЧ трансивер",
+        "zh-hant": "紅外線收發器",
+        "nl": "IR-transceiver",
+        "it": "Ricetrasmettitore IR",
+        "hr": "IR primopredajnik",
+        "ru": "ИК Транссивер",
+        "pt": "Transceptor do IR",
+        "fi": "INFRAPUNAN lähetin-vastaanotin",
+        "tr": "IR Alıcı-verici",
+        "tk": "Infragyzyl signal alyjy-goýberiji enjam",
+        "ca": "Transceptor IR",
+        "cs": "Infračervený vysílač/přijímač",
+        "fa": "فرستنده و گیرنده مادون قرمز",
+        "vi": "Bộ thu phát IR"
+    },
+    "description": {
+        "zh": "",
+        "en": "",
+        "de": "",
+        "es": "",
+        "fr": "",
+        "id": "",
+        "ja": "",
+        "ja-jph": "",
+        "ko": "",
+        "pl": "",
+        "uk": "",
+        "zh-hant": "",
+        "nl": "",
+        "it": "",
+        "hr": "",
+        "ru": "",
+        "pt": "",
+        "fi": "",
+        "tr": "",
+        "tk": "",
+        "ca": "",
+        "cs": "",
+        "fa": "",
+        "vi": ""
+    },
+    "fromScratch3": false,
+    "targets": [
+        "haloboard",
+        "cyberpi"
+    ],
+    "main": "halocode_mbuild_ir_transceiver/index.js",
+    "codeTypes": [
+        "python"
+    ],
+    "device": false,
+    "sortId": 999,
+    "version": "0.0.3",
+    "extApiVersion": [
+        "1.0.2"
+    ],
+    "platform": [
+        "mblockpc",
+        "mblockweb",
+        "mblockapp"
+    ],
+    "homepage": "http://docs.makeblock.com/diy-platform/zh/mbuild/hardware/communication/ir.html",
+    "feature": []
+}

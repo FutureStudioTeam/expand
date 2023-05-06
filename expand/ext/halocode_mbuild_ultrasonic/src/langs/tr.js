@@ -1,0 +1,20 @@
+export default {
+    "halocode_mbuild_ultrasonic": "Ultrasonik sensör",
+    "extensionName": "Ultrasonik sensör",
+    "extensionDescription": "",
+    "BLOCK_1552140890585_INDEX_0": "1",
+    "BLOCK_1552140890585_INDEX_1": "2",
+    "BLOCK_1552140890585_INDEX_2": "3",
+    "BLOCK_1552140890585_INDEX_3": "4",
+    "BLOCK_1552140890585_INDEX_4": "5",
+    "BLOCK_1552140890585_INDEX_5": "6",
+    "BLOCK_1552140890585_INDEX_6": "7",
+    "BLOCK_1552140890585_INDEX_7": "8",
+    "BLOCK_1552140890585": "Ultrasonik sensör[index] bir nesneye uzaklık (cm)",
+    "BLOCK_1552140919772": "Ultrasonik sensör[index] mesafe aralığı dışında?",
+    "cate_14b3c81a": "Ultrasonik sensör",
+    "BLOCK_1547779213407": "servo [ID] açısını ayarlar [angle] (°)",
+    "BLOCK_1547779701469": "Hoparlör [ID]  ses çalar [audio]",
+    "BLOCK_1547779887637": "Hoparlör [ID]  özel ses oynatır [audio] bitirene kadar",
+    "BLOCK_1547781171854": "Hoparlör [ID]  Ses seviyesini ayarlar [volume] %"
+};

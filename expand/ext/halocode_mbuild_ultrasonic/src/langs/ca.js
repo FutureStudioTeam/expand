@@ -1,0 +1,20 @@
+export default {
+    "halocode_mbuild_ultrasonic": "Sensor d'ultrasons",
+    "extensionName": "Sensor d'ultrasons",
+    "extensionDescription": "",
+    "BLOCK_1552140890585_INDEX_0": "1",
+    "BLOCK_1552140890585_INDEX_1": "2",
+    "BLOCK_1552140890585_INDEX_2": "3",
+    "BLOCK_1552140890585_INDEX_3": "4",
+    "BLOCK_1552140890585_INDEX_4": "5",
+    "BLOCK_1552140890585_INDEX_5": "6",
+    "BLOCK_1552140890585_INDEX_6": "7",
+    "BLOCK_1552140890585_INDEX_7": "8",
+    "BLOCK_1552140890585": "distància a un objecte (cm) des del sensor d'ultrasons [index]",
+    "BLOCK_1552140919772": "està el sensor d'ultrasons [index] fora del rang de distància?",
+    "cate_14b3c81a": "Sensor d'ultrasons",
+    "BLOCK_1547779213407": "el servo [ID] estableix l'angle a [angle] (°)",
+    "BLOCK_1547779701469": "l'altaveu [ID] toca la nota [audio]",
+    "BLOCK_1547779887637": "l'altaveu [ID] reprodueix l'àudio personalitzat [audio] fins al final",
+    "BLOCK_1547781171854": "volum de l'altaveu [ID] definit a [volume] %"
+};

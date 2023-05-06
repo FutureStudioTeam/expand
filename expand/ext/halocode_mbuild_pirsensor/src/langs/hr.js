@@ -1,0 +1,21 @@
+export default {
+    "halocode_mbuild_pirsensor": "Senzor PIR",
+    "extensionName": "PIR senzor",
+    "extensionDescription": "",
+    "EVENT_PIR_INDEX_0": "1",
+    "EVENT_PIR_INDEX_1": "2",
+    "EVENT_PIR_INDEX_2": "3",
+    "EVENT_PIR_INDEX_3": "4",
+    "EVENT_PIR_INDEX_4": "5",
+    "EVENT_PIR_INDEX_5": "6",
+    "EVENT_PIR_INDEX_6": "7",
+    "EVENT_PIR_INDEX_7": "8",
+    "event_pir": "PIR senzor [index] otkriveno ljudsko tijelo?",
+    "pir_count": "PIR senzor[index] broj puta kada je ljudsko tijelo otkriveno",
+    "pir_count_make_zero": "PIR senzor [index] ponovno postavlja broj puta",
+    "cate_7477652c": "Senzor PIR",
+    "BLOCK_1547779213407": "Servo [ID] rotira na [angle] (°)",
+    "BLOCK_1547779701469": "Zvučnika [ID]  Reproduciraj zvuk [audio]",
+    "BLOCK_1547779887637": "Zvučnika [ID]  Reproduciraj audiodatoteke [audio] do kraja",
+    "BLOCK_1547781171854": "Zvučnika [ID]  Postavite glasnoću na [volume] %"
+};

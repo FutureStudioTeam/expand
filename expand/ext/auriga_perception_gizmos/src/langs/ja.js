@@ -1,0 +1,20 @@
+export default {
+    "auriga_perception_gizmos": "センシングギズモ",
+    "extensionName": "センシングギズモ",
+    "extensionDescription": "2つのmBot Rangerの拡張プロジェクトでは、センサーを日常生活で使用する方法、電子機械をより良く理解することなどが学べます。 ",
+    "AURIGA_RUN_FAN_PORT_0": "ポート6",
+    "AURIGA_RUN_FAN_PORT_1": "ポート7",
+    "AURIGA_RUN_FAN_PORT_2": "ポート8",
+    "AURIGA_RUN_FAN_PORT_3": "ポート9",
+    "AURIGA_RUN_FAN_PORT_4": "ポート10",
+    "AURIGA_RUN_FAN_FAN_ROTATE_0": "時計回り",
+    "AURIGA_RUN_FAN_FAN_ROTATE_1": "反時計回り",
+    "AURIGA_RUN_FAN_FAN_ROTATE_2": "を止める",
+    "auriga_run_fan": "[ICON]ファン [PORT] を[FAN_ROTATE]にする",
+    "auriga_detect_external_loudness": "[ICON] 音声センサー [PORT] の値",
+    "AURIGA_DETEC_TEMPERATURE_SLOT_0": "スロット1",
+    "AURIGA_DETEC_TEMPERATURE_SLOT_1": "スロット2",
+    "auriga_detec_temperature": "[ICON]温度センサー[PORT] の[SLOT] の値 (℃)",
+    "auriga_detect_potentiometer": "[ICON] ポテンショメータ[PORT] の値",
+    "CATEGORY_PERCEPTION": "センシングギズモ"
+};

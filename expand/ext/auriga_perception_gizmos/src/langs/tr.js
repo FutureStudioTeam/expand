@@ -1,0 +1,20 @@
+export default {
+    "auriga_perception_gizmos": "Zımbırtı Algılandı",
+    "extensionName": "Zımbırtı Algılandı",
+    "extensionDescription": "2 mBot Ranger uzantı projeleri, günlük hayatta algılayıcı kullanmayı öğrenecek ve elektroniğin daha iyi anlaşılmasını sağlayacaktır. ",
+    "AURIGA_RUN_FAN_PORT_0": "giriş6",
+    "AURIGA_RUN_FAN_PORT_1": "giriş7",
+    "AURIGA_RUN_FAN_PORT_2": "giriş8",
+    "AURIGA_RUN_FAN_PORT_3": "giriş9",
+    "AURIGA_RUN_FAN_PORT_4": "giriş10",
+    "AURIGA_RUN_FAN_FAN_ROTATE_0": "saat yönüne",
+    "AURIGA_RUN_FAN_FAN_ROTATE_1": "saat yönünün tersine",
+    "AURIGA_RUN_FAN_FAN_ROTATE_2": "dur",
+    "auriga_run_fan": "[ICON] fan [PORT] dönsün [FAN_ROTATE]",
+    "auriga_detect_external_loudness": "[ICON] ses algılayıcı [PORT] ses şiddeti",
+    "AURIGA_DETEC_TEMPERATURE_SLOT_0": "yuva1",
+    "AURIGA_DETEC_TEMPERATURE_SLOT_1": "yuva2",
+    "auriga_detec_temperature": "[ICON] sıcaklık sensörü [PORT] [SLOT] sıcaklık(℃)",
+    "auriga_detect_potentiometer": "[ICON] potansiyometre [PORT] değer",
+    "CATEGORY_PERCEPTION": "Zımbırtı Algılandı"
+};

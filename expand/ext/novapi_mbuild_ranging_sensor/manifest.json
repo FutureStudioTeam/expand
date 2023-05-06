@@ -1,0 +1,71 @@
+{
+    "id": "novapi_mbuild_ranging_sensor",
+    "iconURL": "novapi_mbuild_ranging_sensor/imgs/d7855e6173d8465eb32cead059d65409.png",
+    "coverURL": "./res/d7855e6173d8465eb32cead059d65409.png",
+    "name": {
+        "zh": "测距传感器",
+        "en": "Ranging Sensor",
+        "de": "Ranging Sensor",
+        "es": "Ranging Sensor",
+        "fr": "Ranging Sensor",
+        "id": "Ranging Sensor",
+        "ja": "Ranging Sensor",
+        "ja-jph": "Ranging Sensor",
+        "ko": "Ranging Sensor",
+        "pl": "Ranging Sensor",
+        "uk": "Ranging Sensor",
+        "zh-hant": "Ranging Sensor",
+        "nl": "Ranging Sensor",
+        "it": "Ranging Sensor",
+        "hr": "Ranging Sensor",
+        "ru": "Ranging Sensor",
+        "pt": "Ranging Sensor",
+        "fi": "Ranging Sensor",
+        "tr": "Ranging Sensor",
+        "tk": "Ranging Sensor",
+        "fa": "Ranging Sensor"
+    },
+    "description": {
+        "zh": "",
+        "en": "",
+        "de": "",
+        "es": "",
+        "fr": "",
+        "id": "",
+        "ja": "",
+        "ja-jph": "",
+        "ko": "",
+        "pl": "",
+        "uk": "",
+        "zh-hant": "",
+        "nl": "",
+        "it": "",
+        "hr": "",
+        "ru": "",
+        "pt": "",
+        "fi": "",
+        "tr": "",
+        "tk": "",
+        "fa": ""
+    },
+    "fromScratch3": false,
+    "targets": [
+        "novapi"
+    ],
+    "main": "novapi_mbuild_ranging_sensor/index.js",
+    "codeTypes": [
+        "python"
+    ],
+    "device": false,
+    "sortId": 999,
+    "version": "0.0.1",
+    "extApiVersion": [
+        "1.0.2"
+    ],
+    "platform": [
+        "mblockpc",
+        "mblockweb"
+    ],
+    "homepage": "http://www.mblock.cc/api-docs/_preview/mblock-5/zh/use-extensions/use-extensions.html",
+    "feature": []
+}

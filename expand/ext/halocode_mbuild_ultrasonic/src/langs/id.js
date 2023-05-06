@@ -1,0 +1,20 @@
+export default {
+    "halocode_mbuild_ultrasonic": "Ultrasonic sensor",
+    "extensionName": "Ultrasonic sensor",
+    "extensionDescription": "",
+    "BLOCK_1552140890585_INDEX_0": "1",
+    "BLOCK_1552140890585_INDEX_1": "2",
+    "BLOCK_1552140890585_INDEX_2": "3",
+    "BLOCK_1552140890585_INDEX_3": "4",
+    "BLOCK_1552140890585_INDEX_4": "5",
+    "BLOCK_1552140890585_INDEX_5": "6",
+    "BLOCK_1552140890585_INDEX_6": "7",
+    "BLOCK_1552140890585_INDEX_7": "8",
+    "BLOCK_1552140890585": "sensor ultrasonik[index] jarak ke sebuah objek (cm)",
+    "BLOCK_1552140919772": "sensor ultrasonik[index] di luar kisaran jarak?",
+    "cate_14b3c81a": "Ultrasonic sensor",
+    "BLOCK_1547779213407": "Servo [ID] menetapkan sudut untuk [angle] (°)",
+    "BLOCK_1547779701469": "Pembicara [ID]  memainkan suara [audio]",
+    "BLOCK_1547779887637": "Pembicara [ID]  memainkan audio kustom [audio] sampai selesai",
+    "BLOCK_1547781171854": "Pembicara [ID]  set volume untuk [volume] %"
+};

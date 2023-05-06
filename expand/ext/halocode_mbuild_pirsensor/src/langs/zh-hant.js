@@ -1,0 +1,21 @@
+export default {
+    "halocode_mbuild_pirsensor": "人體紅外線感測器",
+    "extensionName": "人體紅外線感測器",
+    "extensionDescription": "",
+    "EVENT_PIR_INDEX_0": "1",
+    "EVENT_PIR_INDEX_1": "2",
+    "EVENT_PIR_INDEX_2": "3",
+    "EVENT_PIR_INDEX_3": "4",
+    "EVENT_PIR_INDEX_4": "5",
+    "EVENT_PIR_INDEX_5": "6",
+    "EVENT_PIR_INDEX_6": "7",
+    "EVENT_PIR_INDEX_7": "8",
+    "event_pir": "人體紅外線感測器 [index] 偵測到人",
+    "pir_count": "人體紅外線感測器 [index] 偵測到人的次數",
+    "pir_count_make_zero": "人體紅外線感測器 [index] 重置次數",
+    "cate_7477652c": "人體紅外線感測器",
+    "BLOCK_1547779213407": "伺服馬達 [ID] 旋轉到 [angle] 度",
+    "BLOCK_1547779701469": "喇叭 [ID] 播放 [audio] 聲音",
+    "BLOCK_1547779887637": "喇叭 [ID] 播放 [audio] 音樂檔直到結束",
+    "BLOCK_1547781171854": "喇叭 [ID] 的音量設定為 [volume] %"
+};

@@ -1,0 +1,21 @@
+export default {
+    "halocode_mbuild_pirsensor": "Bewegungsmelder",
+    "extensionName": "Bewegungsmelder",
+    "extensionDescription": "",
+    "EVENT_PIR_INDEX_0": "1",
+    "EVENT_PIR_INDEX_1": "2",
+    "EVENT_PIR_INDEX_2": "3",
+    "EVENT_PIR_INDEX_3": "4",
+    "EVENT_PIR_INDEX_4": "5",
+    "EVENT_PIR_INDEX_5": "6",
+    "EVENT_PIR_INDEX_6": "7",
+    "EVENT_PIR_INDEX_7": "8",
+    "event_pir": "Hat Bewegungsmelder[index] Erkennen menschliche Körper?",
+    "pir_count": "Bewegungsmelder[index] Oft wurde ein menschlicher Körper entdeckt",
+    "pir_count_make_zero": "Bewegungsmelder[index] Vielfach zurückgesetzt",
+    "cate_7477652c": "Bewegungsmelder",
+    "BLOCK_1547779213407": "servo [ID] dreht sich auf[angle](°)",
+    "BLOCK_1547779701469": "lautsprecher [ID] Ton abspielen[audio]",
+    "BLOCK_1547779887637": "lautsprecher [ID] Audiodateil bis zum Ende abspielen [audio]",
+    "BLOCK_1547781171854": "lautsprecher [ID] Lautstärke auf [volume]% einstellen"
+};

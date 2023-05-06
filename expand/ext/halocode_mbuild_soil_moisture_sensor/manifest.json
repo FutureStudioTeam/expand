@@ -1,0 +1,79 @@
+{
+    "id": "halocode_mbuild_soil_moisture_sensor",
+    "iconURL": "halocode_mbuild_soil_moisture_sensor/imgs/8648ff67bf7d42bfac1fb10327097e6f.png",
+    "coverURL": "./res/8648ff67bf7d42bfac1fb10327097e6f.png",
+    "name": {
+        "zh": "土壤湿度传感器",
+        "en": "Soil Moisture Senser",
+        "de": "Soil Moisture Senser",
+        "es": "Soil Moisture Senser",
+        "fr": "Capteur d'humidité du sol",
+        "id": "Soil Moisture Senser",
+        "ja": "土壌水分センサー",
+        "ja-jph": "どじょうすいぶんセンサー",
+        "ko": "Soil Moisture Senser",
+        "pl": "Czujnik Wilgotności Gleby",
+        "uk": "Датчик вологості ґрунту",
+        "zh-hant": "土壤溼度感測器",
+        "nl": "Bodem vocht Senser",
+        "it": "Sensore di umidità del suolo",
+        "hr": "Senzor vlažnosti tla",
+        "ru": "Soil Moisture Senser",
+        "pt": "Soil Moisture Senser",
+        "fi": "Soil Moisture Senser",
+        "tr": "Soil Moisture Senser",
+        "tk": "Ýeriň Çyglylyk Derejesini Duýujy Enjam",
+        "ca": "Sensor d'humitat del sòl",
+        "cs": "Senzor vlhkosti půdy",
+        "fa": "Soil Moisture Senser",
+        "vi": "Cảm biến độ ẩm đất"
+    },
+    "description": {
+        "zh": "",
+        "en": "",
+        "de": "",
+        "es": "",
+        "fr": "",
+        "id": "",
+        "ja": "",
+        "ja-jph": "",
+        "ko": "",
+        "pl": "",
+        "uk": "",
+        "zh-hant": "",
+        "nl": "",
+        "it": "",
+        "hr": "",
+        "ru": "",
+        "pt": "",
+        "fi": "",
+        "tr": "",
+        "tk": "",
+        "ca": "",
+        "cs": "",
+        "fa": "",
+        "vi": ""
+    },
+    "fromScratch3": false,
+    "targets": [
+        "haloboard",
+        "cyberpi"
+    ],
+    "main": "halocode_mbuild_soil_moisture_sensor/index.js",
+    "codeTypes": [
+        "python"
+    ],
+    "device": false,
+    "sortId": 999,
+    "version": "0.0.3",
+    "extApiVersion": [
+        "1.0.2"
+    ],
+    "platform": [
+        "mblockpc",
+        "mblockweb",
+        "mblockapp"
+    ],
+    "homepage": "http://docs.makeblock.com/diy-platform/zh/mbuild/hardware/sensors/soil-moisture-sensor.html",
+    "feature": []
+}

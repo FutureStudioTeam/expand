@@ -1,0 +1,36 @@
+{
+  "name": "command-line-args",
+  "version": "5.2.0",
+  "description": "A mature, feature-complete library to parse command-line options.",
+  "repository": "https://github.com/75lb/command-line-args",
+  "main": "dist/index.js",
+  "author": "Lloyd Brookes <75pound@gmail.com>",
+  "license": "MIT",
+  "engines": {
+    "node": ">=4.0.0"
+  },
+  "files": [
+    "index.mjs",
+    "lib",
+    "dist/index.js",
+    "dist/index.mjs"
+  ],
+  "devDependencies": {
+    "coveralls": "^3.1.1",
+    "jsdoc-to-markdown": "^7.0.1",
+    "rollup": "~1.7.4",
+    "test-runner": "^0.5.1"
+  },
+  "dependencies": {
+    "array-back": "^3.1.0",
+    "find-replace": "^3.0.0",
+    "lodash.camelcase": "^4.3.0",
+    "typical": "^4.0.0"
+  },
+  "standard": {
+    "ignore": [
+      "dist"
+    ],
+    "envs": []
+  }
+}

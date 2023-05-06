@@ -1,0 +1,76 @@
+{
+    "id": "music",
+    "iconURL": "music/imgs/021f747990d7495291308879c1a6e848.png",
+    "coverURL": "./res/021f747990d7495291308879c1a6e848.png",
+    "name": {
+        "zh": "音乐",
+        "en": "Music",
+        "de": "Musik",
+        "es": "Música",
+        "fr": "Musique",
+        "id": "Musik",
+        "ja": "音楽",
+        "ja-jph": "おんがく",
+        "ko": "음악",
+        "pl": "Muzyka",
+        "uk": "Музика",
+        "zh-hant": "音樂",
+        "nl": "Muziek",
+        "it": "Musica",
+        "hr": "Glazba",
+        "ru": "Музыка",
+        "pt": "Música",
+        "fi": "Musiikki",
+        "tr": "Müzik",
+        "tk": "Saz",
+        "fa": "موسیقی",
+        "vi": "Âm thanh"
+    },
+    "description": {
+        "zh": "让角色演奏出各种乐器的声音~",
+        "en": "Play instruments and drums.",
+        "de": "Spiele Instrumente und Schlagzeug.",
+        "es": "Toca instrumentos melódicos y de percusión.",
+        "fr": "Jouez des instruments et des tambours.",
+        "id": "Main instrumen dan drum.",
+        "ja": "楽器や太鼓を演奏する。",
+        "ja-jph": "がっきやたいこをえんそうする。",
+        "ko": "악기와 드럼을 연주합니다.",
+        "pl": "Graj na instrumentach i będbnach.",
+        "uk": "Грати на інструментах і ударних.",
+        "zh-hant": "讓角色演奏出各種樂器的聲音~",
+        "nl": "Instrumenten en drums.",
+        "it": "Suonare strumenti e tamburi.",
+        "hr": "Sviraj sa instrumentima i bubnjevima.",
+        "ru": "Играть на инструментах и ударных.",
+        "pt": "Tocar instrumentos e tambores.",
+        "fi": "Soita instrumentteja ja rumpuja.",
+        "tr": "Çalgı ve davul çalmak.",
+        "tk": "Saz gurallaryny we deprekleri çalyň.",
+        "fa": "اجرای وسایل موسیقی و درام.",
+        "vi": "Chơi nhạc cụ và trống."
+    },
+    "fromScratch3": true,
+    "targets": [
+        "sprites"
+    ],
+    "main": "music/index.js",
+    "device": false,
+    "sortId": 999,
+    "version": "0.3.4",
+    "extApiVersion": [
+        "1.0.0",
+        "1.0.1",
+        "1.0.2",
+        "1.0.3"
+    ],
+    "platform": [
+        "mblockweb",
+        "mblockapp",
+        "mblockpc"
+    ],
+    "homepage": "http://www.mblock.cc/api-docs/_preview/mblock-5/zh/use-extensions/use-extensions.html",
+    "feature": [
+        "worker"
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "id": "novapi_mbuild_humituresensor",
+    "iconURL": "novapi_mbuild_humituresensor/imgs/3cffd6b51dd74164b0fbe9f7e0fc5f3a.png",
+    "coverURL": "./res/3cffd6b51dd74164b0fbe9f7e0fc5f3a.png",
+    "name": {
+        "zh": "温湿度传感器",
+        "en": "Humiture Sensor",
+        "de": "Humiture Sensor",
+        "es": "Humiture Sensor",
+        "fr": "Humiture Sensor",
+        "id": "Humiture Sensor",
+        "ja": "Humiture Sensor",
+        "ja-jph": "Humiture Sensor",
+        "ko": "Humiture Sensor",
+        "pl": "Humiture Sensor",
+        "uk": "Humiture Sensor",
+        "zh-hant": "Humiture Sensor",
+        "nl": "Humiture Sensor",
+        "it": "Humiture Sensor",
+        "hr": "Humiture Sensor",
+        "ru": "Humiture Sensor",
+        "pt": "Humiture Sensor",
+        "fi": "Humiture Sensor",
+        "tr": "Humiture Sensor",
+        "tk": "Humiture Sensor",
+        "fa": "Humiture Sensor"
+    },
+    "description": {
+        "zh": "",
+        "en": "",
+        "de": "",
+        "es": "",
+        "fr": "",
+        "id": "",
+        "ja": "",
+        "ja-jph": "",
+        "ko": "",
+        "pl": "",
+        "uk": "",
+        "zh-hant": "",
+        "nl": "",
+        "it": "",
+        "hr": "",
+        "ru": "",
+        "pt": "",
+        "fi": "",
+        "tr": "",
+        "tk": "",
+        "fa": ""
+    },
+    "fromScratch3": false,
+    "targets": [
+        "novapi"
+    ],
+    "main": "novapi_mbuild_humituresensor/index.js",
+    "codeTypes": [
+        "python"
+    ],
+    "device": false,
+    "sortId": 999,
+    "version": "0.0.1",
+    "extApiVersion": [
+        "1.0.2"
+    ],
+    "platform": [
+        "mblockpc",
+        "mblockweb"
+    ],
+    "homepage": "http://docs.makeblock.com/diy-platform/zh/mbuild/hardware/sensors/humiture-sensor.html",
+    "feature": []
+}

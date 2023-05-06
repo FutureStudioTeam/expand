@@ -1,0 +1,21 @@
+export default {
+    "mcore_perception_gizmos": "Sensing Gizmos",
+    "extensionName": "Sensing Gizmos",
+    "extensionDescription": "5개의 mBot 확장 프로젝트에서는 센서 사용 방법과 전자 제품의 기본 사항을 숙지하는 데 도움이 되는 다양한 예제에 체험할 수 있습니다.",
+    "MCORE_RUN_FAN_PORT_0": "포트1",
+    "MCORE_RUN_FAN_PORT_1": "포트2",
+    "MCORE_RUN_FAN_PORT_2": "포트3",
+    "MCORE_RUN_FAN_PORT_3": "포트4",
+    "MCORE_RUN_FAN_FAN_ROTATE_0": "시계",
+    "MCORE_RUN_FAN_FAN_ROTATE_1": "반시계",
+    "MCORE_RUN_FAN_FAN_ROTATE_2": "정지",
+    "mcore_run_fan": "[ICON] 팬 [PORT] 번 [FAN_ROTATE] 방향으로 회전",
+    "MCORE_DETECT_EXTERNAL_LOUDNESS_PORT_0": "포트3",
+    "MCORE_DETECT_EXTERNAL_LOUDNESS_PORT_1": "포트4",
+    "mcore_detect_external_loudness": "[ICON] 소리 센서 [PORT] 번 소음 값",
+    "MCORE_DETEC_TEMPERATURE_SLOT_0": "슬롯1",
+    "MCORE_DETEC_TEMPERATURE_SLOT_1": "슬롯2",
+    "mcore_detec_temperature": "[ICON] 온도 센서 [PORT] [SLOT] 번의 온도 값(℃)",
+    "mcore_detect_potentiometer": "[ICON] 포텐셔미터 [PORT] 의 출력 값",
+    "CATEGORY_PERCEPTION": "도구"
+};

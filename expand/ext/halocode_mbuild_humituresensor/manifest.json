@@ -1,0 +1,79 @@
+{
+    "id": "halocode_mbuild_humituresensor",
+    "iconURL": "halocode_mbuild_humituresensor/imgs/ea4c2cb748934a8097f6a98de057d521.png",
+    "coverURL": "./res/ea4c2cb748934a8097f6a98de057d521.png",
+    "name": {
+        "zh": "温湿度传感器",
+        "en": "Humiture Sensor",
+        "de": "Feuchtigkeits-Sensor",
+        "es": "Sensor de temperatura+humedad",
+        "fr": "Capteur humiture",
+        "id": "Sensor humobatan",
+        "ja": "温湿度センサー",
+        "ja-jph": "おんしつどセンサー",
+        "ko": "온습도센서",
+        "pl": "Czujnik humiture",
+        "uk": "Датчик вологості",
+        "zh-hant": "溫濕度感測器",
+        "nl": "Humiture sensor",
+        "it": "Sensore umidità",
+        "hr": "Senzor vlage",
+        "ru": "Датчик температуры/влажности",
+        "pt": "Sensor de humiture",
+        "fi": "Humiture-anturi",
+        "tr": "Humiture sensörü",
+        "tk": "Gyzgynlyk/çyglylyk derejesiniň duýujy enjamy",
+        "ca": "Sensor d'humitat i temperatura",
+        "cs": "Senzor vlhkosti",
+        "fa": "سنسور رطوبت سنج",
+        "vi": "Cảm biến độ ẩm"
+    },
+    "description": {
+        "zh": "",
+        "en": "",
+        "de": "",
+        "es": "",
+        "fr": "",
+        "id": "",
+        "ja": "",
+        "ja-jph": "",
+        "ko": "",
+        "pl": "",
+        "uk": "",
+        "zh-hant": "",
+        "nl": "",
+        "it": "",
+        "hr": "",
+        "ru": "",
+        "pt": "",
+        "fi": "",
+        "tr": "",
+        "tk": "",
+        "ca": "",
+        "cs": "",
+        "fa": "",
+        "vi": ""
+    },
+    "fromScratch3": false,
+    "targets": [
+        "haloboard",
+        "cyberpi"
+    ],
+    "main": "halocode_mbuild_humituresensor/index.js",
+    "codeTypes": [
+        "python"
+    ],
+    "device": false,
+    "sortId": 999,
+    "version": "0.0.6",
+    "extApiVersion": [
+        "1.0.2"
+    ],
+    "platform": [
+        "mblockpc",
+        "mblockweb",
+        "mblockapp"
+    ],
+    "homepage": "http://docs.makeblock.com/diy-platform/zh/mbuild/hardware/sensors/humiture-sensor.html",
+    "feature": []
+}

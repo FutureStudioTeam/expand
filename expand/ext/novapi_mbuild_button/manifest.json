@@ -1,0 +1,71 @@
+{
+    "id": "novapi_mbuild_button",
+    "iconURL": "novapi_mbuild_button/imgs/5c83f938838646ea889259d0d580bc90.png",
+    "coverURL": "./res/5c83f938838646ea889259d0d580bc90.png",
+    "name": {
+        "zh": "按钮",
+        "en": "Button",
+        "de": "Button",
+        "es": "Button",
+        "fr": "Button",
+        "id": "Button",
+        "ja": "Button",
+        "ja-jph": "Button",
+        "ko": "Button",
+        "pl": "Button",
+        "uk": "Button",
+        "zh-hant": "Button",
+        "nl": "Button",
+        "it": "Button",
+        "hr": "Button",
+        "ru": "Button",
+        "pt": "Button",
+        "fi": "Button",
+        "tr": "Button",
+        "tk": "Button",
+        "fa": "Button"
+    },
+    "description": {
+        "zh": "",
+        "en": "",
+        "de": "",
+        "es": "",
+        "fr": "",
+        "id": "",
+        "ja": "",
+        "ja-jph": "",
+        "ko": "",
+        "pl": "",
+        "uk": "",
+        "zh-hant": "",
+        "nl": "",
+        "it": "",
+        "hr": "",
+        "ru": "",
+        "pt": "",
+        "fi": "",
+        "tr": "",
+        "tk": "",
+        "fa": ""
+    },
+    "fromScratch3": false,
+    "targets": [
+        "novapi"
+    ],
+    "main": "novapi_mbuild_button/index.js",
+    "codeTypes": [
+        "python"
+    ],
+    "device": false,
+    "sortId": 999,
+    "version": "0.0.1",
+    "extApiVersion": [
+        "1.0.2"
+    ],
+    "platform": [
+        "mblockpc",
+        "mblockweb"
+    ],
+    "homepage": "http://www.mblock.cc/api-docs/_preview/mblock-5/zh/use-extensions/use-extensions.html",
+    "feature": []
+}

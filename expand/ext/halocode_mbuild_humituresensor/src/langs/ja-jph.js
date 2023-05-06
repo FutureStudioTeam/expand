@@ -1,0 +1,21 @@
+export default {
+    "halocode_mbuild_humituresensor": "おんしつどセンサー",
+    "extensionName": "おんしつどセンサー",
+    "extensionDescription": "",
+    "OP_TEMPERATURE_INDEX_0": "1",
+    "OP_TEMPERATURE_INDEX_1": "2",
+    "OP_TEMPERATURE_INDEX_2": "3",
+    "OP_TEMPERATURE_INDEX_3": "4",
+    "OP_TEMPERATURE_INDEX_4": "5",
+    "OP_TEMPERATURE_INDEX_5": "6",
+    "OP_TEMPERATURE_INDEX_6": "7",
+    "OP_TEMPERATURE_INDEX_7": "8",
+    "op_temperature": "おんしつどセンサー [index] のおんど（℃）",
+    "op_htemperature": "おんしつどセンサー [index] のおんど（℉）",
+    "op_humidity": "おんしつどセンサー [index] のしつど（%）",
+    "cate_5ce6a4bb": "おんしつどセンサー",
+    "BLOCK_1547779213407": "サーボ [ID] を [angle] (°) までかいてんする",
+    "BLOCK_1547779701469": "スピーカー [ID] で[audio] をさいせいする",
+    "BLOCK_1547779887637": "スピーカー [ID] で [audio] をかんりょうまでさいせいする",
+    "BLOCK_1547781171854": "スピーカー [ID] のおんりょうを [volume] %にせっていする"
+};

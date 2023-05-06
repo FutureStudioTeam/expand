@@ -1,0 +1,71 @@
+{
+    "id": "novapi_mbuild_sound_sensor",
+    "iconURL": "novapi_mbuild_sound_sensor/imgs/ea0625cccb4d4612bcaa49e9d0d63076.png",
+    "coverURL": "./res/ea0625cccb4d4612bcaa49e9d0d63076.png",
+    "name": {
+        "zh": "声音传感器",
+        "en": "Sound Sensor",
+        "de": "Sound Sensor",
+        "es": "Sound Sensor",
+        "fr": "Sound Sensor",
+        "id": "Sound Sensor",
+        "ja": "Sound Sensor",
+        "ja-jph": "Sound Sensor",
+        "ko": "Sound Sensor",
+        "pl": "Sound Sensor",
+        "uk": "Sound Sensor",
+        "zh-hant": "Sound Sensor",
+        "nl": "Sound Sensor",
+        "it": "Sound Sensor",
+        "hr": "Sound Sensor",
+        "ru": "Sound Sensor",
+        "pt": "Sound Sensor",
+        "fi": "Sound Sensor",
+        "tr": "Sound Sensor",
+        "tk": "Sound Sensor",
+        "fa": "Sound Sensor"
+    },
+    "description": {
+        "zh": "",
+        "en": "",
+        "de": "",
+        "es": "",
+        "fr": "",
+        "id": "",
+        "ja": "",
+        "ja-jph": "",
+        "ko": "",
+        "pl": "",
+        "uk": "",
+        "zh-hant": "",
+        "nl": "",
+        "it": "",
+        "hr": "",
+        "ru": "",
+        "pt": "",
+        "fi": "",
+        "tr": "",
+        "tk": "",
+        "fa": ""
+    },
+    "fromScratch3": false,
+    "targets": [
+        "novapi"
+    ],
+    "main": "novapi_mbuild_sound_sensor/index.js",
+    "codeTypes": [
+        "python"
+    ],
+    "device": false,
+    "sortId": 999,
+    "version": "0.0.1",
+    "extApiVersion": [
+        "1.0.2"
+    ],
+    "platform": [
+        "mblockpc",
+        "mblockweb"
+    ],
+    "homepage": "http://docs.makeblock.com/diy-platform/zh/mbuild/hardware/sensors/sound-sensor.html",
+    "feature": []
+}

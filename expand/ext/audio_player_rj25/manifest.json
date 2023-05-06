@@ -1,0 +1,75 @@
+{
+    "id": "audio_player_rj25",
+    "iconURL": "audio_player_rj25/imgs/f4ad40be7299464eb31029a17c9cebe4.png",
+    "coverURL": "./res/f4ad40be7299464eb31029a17c9cebe4.png",
+    "name": {
+        "zh": "音频播放模块",
+        "en": "Audio Player",
+        "de": "Audio Player",
+        "es": "Reproductor de audio",
+        "fr": "Lecteur audio",
+        "id": "Audio Player",
+        "ja": "オーディオプレーヤー",
+        "ja-jph": "オーディオプレーヤー",
+        "ko": "오디오 플레이어",
+        "pl": "Odtwarzacz audio",
+        "uk": "Аудіопрогравач",
+        "zh-hant": "音樂錄放模組",
+        "nl": "Audiospeler",
+        "it": "Lettore Audio",
+        "hr": "Audio player",
+        "ru": "Audio Player",
+        "pt": "Audio Player",
+        "fi": "Audio Player",
+        "tr": "Müzik Çalar",
+        "tk": "Ses aýtdyryjy",
+        "fa": "پخش کننده صوتی"
+    },
+    "description": {
+        "zh": "音频播放模块",
+        "en": "Audio Player",
+        "de": "Audio Player",
+        "es": "Audio Player",
+        "fr": "Audio Player",
+        "id": "Audio Player",
+        "ja": "Audio Player",
+        "ja-jph": "Audio Player",
+        "ko": "Audio Player",
+        "pl": "Audio Player",
+        "uk": "Audio Player",
+        "zh-hant": "Audio Player",
+        "nl": "Audio Player",
+        "it": "Audio Player",
+        "hr": "Audio Player",
+        "ru": "Audio Player",
+        "pt": "Audio Player",
+        "fi": "Audio Player",
+        "tr": "Audio Player",
+        "tk": "Audio Player",
+        "fa": "Audio Player"
+    },
+    "targets": [
+        "auriga",
+        "mcore",
+        "megapipro",
+        "megapi",
+        "orion"
+    ],
+    "main": "audio_player_rj25/index.js",
+    "codeTypes": [
+        "arduinoc"
+    ],
+    "device": false,
+    "sortId": 999,
+    "version": "1.0.5",
+    "extApiVersion": [
+        "1.0.0",
+        "1.0.1"
+    ],
+    "platform": [
+        "mblockpc",
+        "mblockweb"
+    ],
+    "homepage": "http://www.mblock.cc/api-docs/_preview/mblock-5/zh/use-extensions/use-extensions.html",
+    "feature": []
+}

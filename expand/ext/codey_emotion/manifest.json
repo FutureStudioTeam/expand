@@ -1,0 +1,71 @@
+{
+  "id": "codey_emotion",
+  "iconURL": "codey_emotion/imgs/07911f45bb3f4cc0b96cd291fb0e4437.png",
+  "coverURL": "./res/07911f45bb3f4cc0b96cd291fb0e4437.png",
+  "res": [
+    "./imgs"
+  ],
+  "name": {
+    "zh": "个性[测试版]",
+    "en": "emotion(beta)",
+    "de": "Emotion (Beta)",
+    "es": "Emociones (beta)",
+    "fr": "émotion(beta)",
+    "id": "emosi(beta)",
+    "ja": "感情 (beta)",
+    "ja-jph": "かんじょう (beta)",
+    "ko": "감정(베타)",
+    "pl": "emocje(beta)",
+    "uk": "Емоції (бета)",
+    "zh-hant": "情感 (beta)",
+    "nl": "emotie(beta)",
+    "it": "emozione (beta)",
+    "hr": "emocija(beta)",
+    "ru": "эмоция(beta)",
+    "pt": "emoção(beta)",
+    "fi": "tunteita(beta)",
+    "tr": "duygu (beta)",
+    "tk": "duýgy(beta)"
+  },
+  "description": {
+    "zh": "[测试版]使用个性积木赋予程小奔新功能，让你的程小奔会笑会闹会撒娇~",
+    "en": "[beta]Use the emotion blocks to add new abilities to Codey Rocky. Sometimes it smiles, sometimes it gets naughty. Sometimes it asks you for some care~",
+    "de": "[beta]Verwenden Sie die Emotionsblöcke, um Codey Rocky neue Fähigkeiten hinzuzufügen. Manchmal lächelt es, manchmal wird es frech. Manchmal bittet es Sie um eine gewisse Sorgfalt ~",
+    "es": "[beta] Usa los bloques de emociones para añadir nuevas habilidades a Codey Rocky. A veces sonríe, a veces se pone travieso. A veces te pide que lo cuides un poco~",
+    "fr": "[beta] Utilisez les blocs d'émotion pour ajouter de nouvelles capacités à Codery Rocky. Parfois, il sourit, parfois il devient vilain. Parfois, il vous demande certains soins ~",
+    "id": "[beta]Gunakan blok emosi untuk menambah kemampuan baru ke Codey Rocky. Terkadang dia tersenyum, terkadang menjadi nakal. Terkadang meminta perhatianmu~",
+    "ja": "[beta]感情ブロックを使用して、Codey Rockyに新しい機能を追加します。 時には笑顔、時にはいたずらな性格になります。",
+    "ja-jph": "[beta]かんじょうブロックをしようして、Codey Rockyにあたらしいきのうをついかします。 ときにはえがお、ときにはいたずらなせいかくになります。",
+    "ko": "[beta] 감정 블록을 사용하여 Codey Rocky에 새로운 기능을 추가해보세요. 때로는 미소 짓고 때로는 장난꾸러기가 됩니다.\n때때로 당신에게 약간의 관심을 요구할 때도 있습니다.",
+    "pl": "[beta]Użyj bloków emocji, aby dodać nowe zdolności do Codey Rocky. Czasami się uśmiecha, czasami robi się niegrzeczny. Czasami prosi o opiekę ~",
+    "uk": "[beta]Використовуйте блоки з емоціями, щоб моделювати поведінку Codey Rocky. Іноді він посміхається, іноді хоче пустувати. Іноді він потребує вашої турботи~",
+    "zh-hant": "[beta]使用情感命令方塊為 Codey Rocky添加新的功能。有時候微笑, 有時候變得頑皮。有時它會要求你的關心 ~",
+    "nl": "[beta]Gebruik de emotie blokken om nieuwe vaardigheden toe te voegen aan Codey Rocky. Soms glimlacht Rockey, soms is Rockey ondeugend. Soms vraagt Rockey u om wat zorg ~",
+    "it": "[beta]Utilizzare i blocchi Emotion per aggiungere nuove abilità a Codey Rocky. A volte sorride, a volte diventa cattivo. A volte ti chiede un po' di cura ~",
+    "hr": "[beta]Koristite emocijske blokove kako bi dodali nove mogućnosti Codey Rocky-u. Nekad će se smijati,nekad će biti zločest. Nekad te pita za malo pažnje",
+    "ru": "[beta]Используйте блоки эмоций, чтобы добавить новые возможности Codey Rocky. Иногда он будет улыбаться, иногда будет озорничать. Иногда он хочет, чтобы о нем заботились~",
+    "pt": "[beta]Usa os blocos de emoção para adicionar novas habilidades ao Codey Rocky. Às vezes ele sorri outras vezes ele fica impertinente. Às vezes ele pede-te para lhe dares alguma atenção~",
+    "fi": "[beta] Käytä tunneblokkeja lisäämällä uusia kykyjä Codey Rockeyhin. Joskus se hymyilee, joskus se on tuhma. Joskus se pyytää huolenpitoa ~",
+    "tr": "[beta] Codey Rocky'ye yeni yetenekler eklemek için duygu bloklarını kullanın. Bazen gülümser, bazen yaramaz olur. Bazen bazı bakım için sorar~",
+    "tk": "[beta]Codey Rocky robotyňyza täze aýratynlyklary goşmak üçin duýgy bloklaryndan peýdalanyň. Ol käwagt ýylgyrar, käwagt bezzatlyk eder. Käwagt bolsa sizden ideg etmegiňizi sorar~"
+  },
+  "targets": [
+    "codey"
+  ],
+  "main": "codey_emotion/index.js",
+  "codeTypes": [
+    "python"
+  ],
+  "device": false,
+  "sortId": 999,
+  "version": "0.3.4",
+  "extApiVersion": [
+    "1.0.0"
+  ],
+  "platform": [
+    "mblockpc",
+    "mblockweb",
+    "mblockapp"
+  ],
+  "homepage": "http://www.mblock.cc/api-docs/_preview/mblock-5/zh/use-extensions/use-extensions.html"
+}

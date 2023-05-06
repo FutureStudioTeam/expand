@@ -1,0 +1,22 @@
+export default {
+    "audio_player_rj25": "Аудіопрогравач",
+    "extensionName": "Аудіопрогравач",
+    "extensionDescription": "Audio Player",
+    "audioplayer_init": "ініціалізувати аудіопрогравач на: будь-який білий порт (I2C)",
+    "audioplayer_play_by_sn": "аудіопрогравач: грати аудіо файл [FILE_SN]",
+    "audioplayer_play_by_name": "аудіопрогравач: відтворити аудіофайл з ім'ям [FILE_NAME]",
+    "AUDIOPLAYER_SET_PLAY_MODE_PLAY_MODE_0": "один файл",
+    "AUDIOPLAYER_SET_PLAY_MODE_PLAY_MODE_1": "зациклити",
+    "AUDIOPLAYER_SET_PLAY_MODE_PLAY_MODE_2": "по порядку",
+    "AUDIOPLAYER_SET_PLAY_MODE_PLAY_MODE_3": "перемішати",
+    "audioplayer_set_play_mode": "аудіопрогравач: встановити режим [PLAY_MODE]",
+    "audioplayer_play_previous": "аудіопрогравач: грати попередній аудіо файл",
+    "audioplayer_play_next": "аудіопрогравач: грати наступний аудіо файл",
+    "audioplayer_pause": "аудіопрогравач: пауза/продовжити",
+    "audioplayer_stop": "аудіопрогравач: зупинити відтворення",
+    "audioplayer_set_volume": "аудіопрогравач: встановити гучність на [VOLUME] %",
+    "audioplayer_volume_up": "аудіопрогравач: збільшити гучність",
+    "audioplayer_volume_down": "аудіопрогравач: зменшити гучність",
+    "audioplayer_record": "аудіопрогравач: почати запис і зберегти як [FILE_NAME]",
+    "audioplayer_record_stop": "аудіопрогравач: зупинити запис"
+};

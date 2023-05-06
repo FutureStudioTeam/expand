@@ -1,0 +1,23 @@
+export default {
+    "halocode_mbuild_servodriver": "서보 드라이버",
+    "extensionName": "서보 드라이버",
+    "extensionDescription": "",
+    "BLOCK_1550543186478_INDEX_0": "1",
+    "BLOCK_1550543186478_INDEX_1": "2",
+    "BLOCK_1550543186478_INDEX_2": "3",
+    "BLOCK_1550543186478_INDEX_3": "4",
+    "BLOCK_1550543186478_INDEX_4": "5",
+    "BLOCK_1550543186478_INDEX_5": "6",
+    "BLOCK_1550543186478_INDEX_6": "7",
+    "BLOCK_1550543186478_INDEX_7": "8",
+    "BLOCK_1550543186478": "서보 드라이버 [index] 각도를 설정 [angle] °",
+    "BLOCK_1550543202398": "서보 드라이버 [index] 각도를 증가 시킵니다. [angle] °",
+    "BLOCK_1550543213773": "서보 드라이버 [index] 제로 위치로 돌아가기",
+    "BLOCK_1550543222423": "서보 드라이버 [index] 현재 각도 (°)",
+    "BLOCK_1550543238558": "서보 드라이버 [index] 하 중 (%)",
+    "cate_dc643ec1": "서보 드라이버",
+    "BLOCK_1547779213407": "서보 [ID] 으로 회전 [angle] (°)",
+    "BLOCK_1547779701469": "스피커 [ID]  사운드 재생 [audio]",
+    "BLOCK_1547779887637": "스피커 [ID]  오디오 파일 재생 [audio] 완료 될 때까지",
+    "BLOCK_1547781171854": "스피커 [ID]  볼륨 설정 [volume] %"
+};

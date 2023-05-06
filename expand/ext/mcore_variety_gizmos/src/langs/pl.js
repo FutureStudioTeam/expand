@@ -1,0 +1,23 @@
+export default {
+    "mcore_variety_gizmos": "Variety gizmos",
+    "extensionName": "Variety gizmos",
+    "extensionDescription": "Zestaw dodatkowych elementów do mBota i Rangera. Zawiera m.in. serwo, wyłączniki krańcowe, wyświetlacz 7-segmentowy i przykłady ich zastosowania. Pozwala na tworzenie bardziej rozbudowanych projektów.",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_PORT_0": "port1",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_PORT_1": "port2",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_PORT_2": "port3",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_PORT_3": "port4",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_LED_POSTION_0": "wszystkie",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_LED_POSTION_1": "1",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_LED_POSTION_2": "2",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_LED_POSTION_3": "3",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_LED_POSTION_4": "4",
+    "mcore_show_external_led_time": "[ICON] moduł LED [PORT] zapal [LED_POSTION] na [COLOR] przez [TIME] s",
+    "mcore_show_external_led": "[ICON] moduł LED [PORT] zapal [LED_POSTION] na [COLOR] ",
+    "mcore_show_external_led_rgb": "[ICON] moduł LED [PORT] zapal [LED_POSTION] na R [R] G [G] B [B]",
+    "MCORE_RUN_SERVO_SLOT_0": "slot1",
+    "MCORE_RUN_SERVO_SLOT_1": "slot2",
+    "mcore_run_servo": "[ICON] serwo [PORT] [SLOT] ustaw w pozycji [DEGREE] ",
+    "mcore_show_7segments_number": "[ICON] wyświetlacz 7-seg. [PORT] pokaż liczbę [NUMBER]",
+    "mcore_event_limit_switch": "[ICON] Wyłącznik krańcowy [PORT] [SLOT] jest wciśnięty?",
+    "CATEGORY_VARITY": "Variety gizmos"
+};

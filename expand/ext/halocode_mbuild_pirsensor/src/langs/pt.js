@@ -1,0 +1,21 @@
+export default {
+    "halocode_mbuild_pirsensor": "Sensor de movimento",
+    "extensionName": "Sensor de movimento",
+    "extensionDescription": "",
+    "EVENT_PIR_INDEX_0": "1",
+    "EVENT_PIR_INDEX_1": "2",
+    "EVENT_PIR_INDEX_2": "3",
+    "EVENT_PIR_INDEX_3": "4",
+    "EVENT_PIR_INDEX_4": "5",
+    "EVENT_PIR_INDEX_5": "6",
+    "EVENT_PIR_INDEX_6": "7",
+    "EVENT_PIR_INDEX_7": "8",
+    "event_pir": "sensor de movimento [index] detecta o corpo humano?",
+    "pir_count": "sensor de movimento[index] número de vezes que um corpo humano detectado",
+    "pir_count_make_zero": "sensor de movimento [index] Redefine o número de vezes",
+    "cate_7477652c": "Sensor de movimento",
+    "BLOCK_1547779213407": "servo [ID] gira para [angle] (°)",
+    "BLOCK_1547779701469": "Falante [ID]  reproduzir som [audio]",
+    "BLOCK_1547779887637": "Falante [ID]  reproduzir arquivo de áudio [audio] até que feito",
+    "BLOCK_1547781171854": "Falante [ID]  definir o volume para [volume] %"
+};

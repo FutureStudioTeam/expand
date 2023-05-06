@@ -1,0 +1,50 @@
+{
+    "id": "lego_ev3",
+    "iconURL": "lego_ev3/imgs/849e6ae3af6a4aef80b788be28bf1e93.png",
+    "coverURL": "./res/849e6ae3af6a4aef80b788be28bf1e93.png",
+    "name": {
+        "zh": "LEGO EV3",
+        "en": "LEGO EV3",
+        "de": "LEGO EV3",
+        "es": "LEGO EV3",
+        "fr": "LEGO EV3",
+        "id": "LEGO EV3",
+        "ja": "LEGO EV3",
+        "ja-jph": "LEGO EV3",
+        "ko": "LEGO EV3",
+        "pl": "LEGO EV3",
+        "uk": "LEGO EV3",
+        "zh-hant": "LEGO EV3",
+        "nl": "LEGO EV3",
+        "it": "LEGO EV3",
+        "hr": "LEGO EV3",
+        "ru": "LEGO EV3",
+        "pt": "LEGO EV3",
+        "fi": "LEGO EV3",
+        "tr": "LEGO EV3",
+        "tk": "LEGO EV3",
+        "ar": "LEGO EV3",
+        "ca": "LEGO EV3",
+        "cs": "LEGO EV3",
+        "fa": "LEGO EV3",
+        "km": "LEGO EV3",
+        "vi": "LEGO EV3"
+    },
+    "description": {},
+    "main": "lego_ev3/index.js",
+    "device": true,
+    "sortId": 999,
+    "version": "0.0.4",
+    "extApiVersion": [
+        "1.0.0",
+        "1.0.1",
+        "1.0.2",
+        "1.0.4"
+    ],
+    "platform": [
+        "mblockweb",
+        "mblockpc"
+    ],
+    "homepage": "",
+    "feature": []
+}

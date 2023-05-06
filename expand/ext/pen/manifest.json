@@ -1,0 +1,76 @@
+{
+    "id": "pen",
+    "iconURL": "pen/imgs/1a26b1ccf6b14c5abfefb22bb5d1e939.png",
+    "coverURL": "./res/1a26b1ccf6b14c5abfefb22bb5d1e939.png",
+    "name": {
+        "zh": "画笔",
+        "en": "Pen",
+        "de": "Malstift",
+        "es": "Lápiz",
+        "fr": "Stylo",
+        "id": "Pena",
+        "ja": "ペン",
+        "ja-jph": "ペン",
+        "ko": "펜",
+        "pl": "Pisak",
+        "uk": "Ручка",
+        "zh-hant": "畫筆",
+        "nl": "Pen",
+        "it": "Penna",
+        "hr": "Olovka",
+        "ru": "Перо",
+        "pt": "Caneta",
+        "fi": "Kynä",
+        "tr": "Kalem",
+        "tk": "Galam",
+        "fa": "خودکار",
+        "vi": "Bút"
+    },
+    "description": {
+        "zh": "让角色画出有趣的图案~",
+        "en": "Draw with your sprites.",
+        "de": "Zeichne mit Sprites.",
+        "es": "Dibuja con tus gráficos animados.",
+        "fr": "Dessine avec tes objets.",
+        "id": "Menggambar dengan sprite Anda.",
+        "ja": "スプライトで絵を描きましょう。",
+        "ja-jph": "スプライトでえをかきましょう。",
+        "ko": "당신의 스프라이트를 그립니다.",
+        "pl": "Narysuj za pomocą swoich duszków.",
+        "uk": "Малювати за допомогою спрайтів.",
+        "zh-hant": "讓角色畫出有趣的圖~",
+        "nl": "Tekenen met je sprites.",
+        "it": "Disegnare con il tuo costume.",
+        "hr": "Crtaj sa svojim predlošcima.",
+        "ru": "Нарисовать своими спрайтами.",
+        "pt": "Desenhar com os teus atores.",
+        "fi": "Piirrä oma hahmo.",
+        "tr": "Kendi Kuklan ile çiz.",
+        "tk": "Öz spraýtlaryň bilen çek.",
+        "fa": "با شخصیت خود بکشید.",
+        "vi": "Vẽ với nhân vật của bạn."
+    },
+    "fromScratch3": true,
+    "targets": [
+        "sprites"
+    ],
+    "main": "pen/index.js",
+    "device": false,
+    "sortId": 999,
+    "version": "0.3.4",
+    "extApiVersion": [
+        "1.0.0",
+        "1.0.1",
+        "1.0.2",
+        "1.0.3"
+    ],
+    "platform": [
+        "mblockweb",
+        "mblockapp",
+        "mblockpc"
+    ],
+    "homepage": "http://www.mblock.cc/api-docs/_preview/mblock-5/zh/use-extensions/use-extensions.html",
+    "feature": [
+        "worker"
+    ]
+}

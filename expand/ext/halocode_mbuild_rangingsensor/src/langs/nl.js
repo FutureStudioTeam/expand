@@ -1,0 +1,20 @@
+export default {
+    "halocode_mbuild_rangingsensor": "Variërende sensor",
+    "extensionName": "Variërende sensor",
+    "extensionDescription": "",
+    "OP_RANGING_INDEX_0": "1",
+    "OP_RANGING_INDEX_1": "2",
+    "OP_RANGING_INDEX_2": "3",
+    "OP_RANGING_INDEX_3": "4",
+    "OP_RANGING_INDEX_4": "5",
+    "OP_RANGING_INDEX_5": "6",
+    "OP_RANGING_INDEX_6": "7",
+    "OP_RANGING_INDEX_7": "8",
+    "op_ranging": "variërende sensor[index] afstand tot een object (cm)",
+    "event_ranging_pressed": "variërende sensor[index] buiten afstand bereik?",
+    "cate_a8ddb2a0": "Variërende sensor",
+    "BLOCK_1547779213407": "Servo [ID] draait om [angle] (°)",
+    "BLOCK_1547779701469": "Spreker [ID]  geluid afspelen [audio]",
+    "BLOCK_1547779887637": "Spreker [ID]  audiobestand afspelen [audio] tot gedaan",
+    "BLOCK_1547781171854": "Spreker [ID]  Stel het volume in op [volume] %"
+};

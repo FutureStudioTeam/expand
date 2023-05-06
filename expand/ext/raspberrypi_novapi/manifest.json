@@ -1,0 +1,74 @@
+{
+    "id": "raspberrypi_novapi",
+    "iconURL": "raspberrypi_novapi/imgs/00a0d93fcb36472ea599dbbc1d2b29d6.jpg",
+    "coverURL": "./res/00a0d93fcb36472ea599dbbc1d2b29d6.jpg",
+    "name": {
+        "zh": "NovaPi",
+        "en": "NovaPi",
+        "de": "NovaPi",
+        "es": "NovaPi",
+        "fr": "NovaPi",
+        "id": "NovaPi",
+        "ja": "NovaPi",
+        "ja-jph": "NovaPi",
+        "ko": "NovaPi",
+        "pl": "NovaPi",
+        "uk": "NovaPi",
+        "zh-hant": "NovaPi",
+        "nl": "NovaPi",
+        "it": "NovaPi",
+        "hr": "NovaPi",
+        "ru": "NovaPi",
+        "pt": "NovaPi",
+        "fi": "NovaPi",
+        "tr": "NovaPi",
+        "tk": "NovaPi",
+        "fa": "NovaPi"
+    },
+    "description": {
+        "zh": "",
+        "en": "",
+        "de": "",
+        "es": "",
+        "fr": "",
+        "id": "",
+        "ja": "",
+        "ja-jph": "",
+        "ko": "",
+        "pl": "",
+        "uk": "",
+        "zh-hant": "",
+        "nl": "",
+        "it": "",
+        "hr": "",
+        "ru": "",
+        "pt": "",
+        "fi": "",
+        "tr": "",
+        "tk": "",
+        "fa": ""
+    },
+    "fromScratch3": false,
+    "targets": [
+        "raspberrypi_camera"
+    ],
+    "main": "raspberrypi_novapi/index.js",
+    "codeTypes": [
+        "python"
+    ],
+    "device": false,
+    "sortId": 999,
+    "version": "1.0.2",
+    "extApiVersion": [
+        "1.0.0",
+        "1.0.1",
+        "1.0.2",
+        "1.0.3"
+    ],
+    "platform": [
+        "mblockweb",
+        "mblockpc"
+    ],
+    "homepage": "http://www.mblock.cc/api-docs/_preview/mblock-5/zh/use-extensions/use-extensions.html",
+    "feature": []
+}

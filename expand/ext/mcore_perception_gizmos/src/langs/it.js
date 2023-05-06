@@ -1,0 +1,21 @@
+export default {
+    "mcore_perception_gizmos": "Sensing Gizmos",
+    "extensionName": "Sensing Gizmos",
+    "extensionDescription": "Nei 5 progetti di estensione mBot, si può accedere a vari esempi per imparare a utilizzare i sensori e padroneggiare le basi dell'elettronica.",
+    "MCORE_RUN_FAN_PORT_0": "port1",
+    "MCORE_RUN_FAN_PORT_1": "port2",
+    "MCORE_RUN_FAN_PORT_2": "port3",
+    "MCORE_RUN_FAN_PORT_3": "port4",
+    "MCORE_RUN_FAN_FAN_ROTATE_0": "clockwise",
+    "MCORE_RUN_FAN_FAN_ROTATE_1": "anticlockwise",
+    "MCORE_RUN_FAN_FAN_ROTATE_2": "stop",
+    "mcore_run_fan": "[ICON] fan [PORT] [FAN_ROTATE] rotazione",
+    "MCORE_DETECT_EXTERNAL_LOUDNESS_PORT_0": "port3",
+    "MCORE_DETECT_EXTERNAL_LOUDNESS_PORT_1": "port4",
+    "mcore_detect_external_loudness": "[ICON] sound sensor [PORT] loudness",
+    "MCORE_DETEC_TEMPERATURE_SLOT_0": "slot1",
+    "MCORE_DETEC_TEMPERATURE_SLOT_1": "slot2",
+    "mcore_detec_temperature": "[ICON] valore del sensore temperatura [PORT] [SLOT] (℃)",
+    "mcore_detect_potentiometer": "[ICON] valore del potenziometro [PORT]",
+    "CATEGORY_PERCEPTION": "Gizmo"
+};

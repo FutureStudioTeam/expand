@@ -1,0 +1,22 @@
+export default {
+    "audio_player_rj25": "پخش کننده صوتی",
+    "extensionName": "پخش کننده صوتی",
+    "extensionDescription": "Audio Player",
+    "audioplayer_init": "مقداردهی اولیه پخش کننده صوتی در: هر پورت سفید (I2C)",
+    "audioplayer_play_by_sn": "پخش کننده صوتی: فایل صوتی [FILE_SN] پخش شود",
+    "audioplayer_play_by_name": "پخش کننده صوتی: فایل صوتی به نام [FILE_NAME] پخش شود",
+    "AUDIOPLAYER_SET_PLAY_MODE_PLAY_MODE_0": "تکی",
+    "AUDIOPLAYER_SET_PLAY_MODE_PLAY_MODE_1": "حلقه تكرار",
+    "AUDIOPLAYER_SET_PLAY_MODE_PLAY_MODE_2": "ترتیب",
+    "AUDIOPLAYER_SET_PLAY_MODE_PLAY_MODE_3": "تصادفی",
+    "audioplayer_set_play_mode": "پخش کننده صوتی: حالت به [PLAY_MODE] تنظیم شود",
+    "audioplayer_play_previous": "پخش کننده صوتی: فایل صوتی قبلی پخش شود",
+    "audioplayer_play_next": "پخش کننده صوتی: فایل صوتی بعدی پخش شود",
+    "audioplayer_pause": "پخش کننده صوتی: مکث/ادامه",
+    "audioplayer_stop": "پخش کننده صوتی: توقف پخش",
+    "audioplayer_set_volume": "پخش کننده صوتی: تنظیم صدا به [VOLUME] %",
+    "audioplayer_volume_up": "پخش کننده صوتی: افزایش صدا",
+    "audioplayer_volume_down": "پخش کننده صوتی: کاهش صدا",
+    "audioplayer_record": "پخش کننده صوتی: شروع به ضبط کردن و ذخیره در[FILE_NAME]",
+    "audioplayer_record_stop": "پخش کننده صوتی: توقف ضبط"
+};

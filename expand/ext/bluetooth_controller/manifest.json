@@ -1,0 +1,65 @@
+{
+  "id": "bluetooth_controller",
+  "iconURL": "bluetooth_controller/imgs/a39a37e23c614df6b33978a1631e7f7b.png",
+  "coverURL": "./res/a39a37e23c614df6b33978a1631e7f7b.png",
+  "res": [
+    "./imgs"
+  ],
+  "name": {
+    "zh": "蓝牙手柄",
+    "en": "Bluetooth Controller",
+    "de": "Bluetooth controller",
+    "es": "Bluetooth controller",
+    "fr": "Bluetooth controller",
+    "id": "Bluetooth controller",
+    "ja": "Bluetooth コントローラ",
+    "ja-jph": "Bluetooth controller",
+    "ko": "Bluetooth controller",
+    "pl": "Bluetooth controller",
+    "uk": "Bluetooth controller",
+    "zh-hant": "藍牙手把",
+    "nl": "Bluetooth controller",
+    "it": "Bluetooth controller ",
+    "hr": "Bluetooth controller",
+    "ru": "Bluetooth controller",
+    "pt": "Bluetooth controller",
+    "fi": "Bluetooth controller",
+    "tr": "Bluetooth Controller",
+    "tk": "Bluetooth controller"
+  },
+  "description": {
+    "zh": "用蓝牙手柄玩转舞台",
+    "en": "Use your Bluetooth controller to interact with the stage. ",
+    "de": "Interagieren Sie mit der Bühne mit Bluetooth controller. ",
+    "es": "Usa tu Bluetooth controller para interactuar con el escenario. ",
+    "fr": "Utilisez votre manette Bluetooth pour interagir avec la scène. ",
+    "id": "Menggunakan Bluetooth controller Anda untuk berinteraksi dengan panggung. ",
+    "ja": "Bluetooth コントローラを使用して、ステージとやり取りをします。 ",
+    "ja-jph": "Bluetooth controllerをしようして、ステージとやりとりをします。 ",
+    "ko": "Bluetooth controller를 사용하여 스테이지와 상호 작용 합니다. ",
+    "pl": "Użyj Bluetooth Controller do interakcji ze sceną. ",
+    "uk": "Використовуйте Bluetooth controller для взаємодії з сценою. ",
+    "zh-hant": "使用藍芽手把與舞臺進行互動。 ",
+    "nl": "Gebruik uw Bluetooth controller voor interactie met het werkgebied. ",
+    "it": "Usa il tuo Bluetooth controller per interagire con ilo scenario. ",
+    "hr": "Koristite Bluetooth controller za interakciju s pozornicom. ",
+    "ru": "Используйте свой Bluetooth controller для взаимодействия с площадкой. ",
+    "pt": "Usa o teu Bluetooth controller para interagir com o palco. ",
+    "fi": "Käytä Bluetooth controller vuorovaikutuksessa näyttämön kanssa. ",
+    "tr": "Sahne alanı ile etkileşimde bulunmak için Bluetooth kumandanızı kullanın. ",
+    "tk": "Sahna täsir etmek üçin Bluetooth dolandyryş enjamyňyzdan peýdalanyň. "
+  },
+  "main": "bluetooth_controller/index.js",
+  "codeTypes": [],
+  "device": true,
+  "sortId": 999,
+  "version": "0.3.4",
+  "extApiVersion": [
+    "1.0.0"
+  ],
+  "platform": [
+    "mblockpc",
+    "mblockweb"
+  ],
+  "homepage": "http://www.mblock.cc/api-docs/_preview/mblock-5/zh/hardware-guide/hardware-guide.html"
+}

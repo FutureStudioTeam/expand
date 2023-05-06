@@ -1,0 +1,21 @@
+export default {
+    "mcore_servo_pack": "Pack Servo",
+    "extensionName": "Pack Servo",
+    "extensionDescription": "Convierte tu mBot en un gato. Hazlo bailar, mirar alrededor y encenderse.",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_PORT_0": "puerto1",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_PORT_1": "puerto2",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_PORT_2": "puerto3",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_PORT_3": "puerto4",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_LED_POSTION_0": "todos",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_LED_POSTION_1": "1",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_LED_POSTION_2": "2",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_LED_POSTION_3": "3",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_LED_POSTION_4": "4",
+    "mcore_show_external_led_time": "[ICON] LED RGB [PORT] encendido [LED_POSTION] en [COLOR] durante [TIME] seg",
+    "mcore_show_external_led": "[ICON] LED RGB [PORT] encendido [LED_POSTION] en [COLOR]",
+    "mcore_show_external_led_rgb": "[ICON] LED RGB [PORT] encendido [LED_POSTION] en rojo [R] verde [G] azul [B]",
+    "MCORE_RUN_SERVO_SLOT_0": "conexión 1",
+    "MCORE_RUN_SERVO_SLOT_1": "conexión 2",
+    "mcore_run_servo": "[ICON] servo [PORT] [SLOT] girado en ángulo [DEGREE] ",
+    "CATEGORY_SERVO_PACK": "Pack Servo"
+};

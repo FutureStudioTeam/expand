@@ -1,0 +1,21 @@
+export default {
+    "halocode_mbuild_humituresensor": "سنسور رطوبت سنج",
+    "extensionName": "سنسور رطوبت سنج",
+    "extensionDescription": "",
+    "OP_TEMPERATURE_INDEX_0": "1",
+    "OP_TEMPERATURE_INDEX_1": "2",
+    "OP_TEMPERATURE_INDEX_2": "3",
+    "OP_TEMPERATURE_INDEX_3": "4",
+    "OP_TEMPERATURE_INDEX_4": "5",
+    "OP_TEMPERATURE_INDEX_5": "6",
+    "OP_TEMPERATURE_INDEX_6": "7",
+    "OP_TEMPERATURE_INDEX_7": "8",
+    "op_temperature": "حسگر humiture [index] درجه حرارت (° c)",
+    "op_htemperature": "حسگر humiture [index] درجه حرارت (° c)",
+    "op_humidity": "حسگر humiture [index] رطوبت هوا (%)",
+    "cate_5ce6a4bb": "سنسور رطوبت سنج",
+    "BLOCK_1547779213407": "سروو [ID] می چرخد به زاویه [angle] (°)",
+    "BLOCK_1547779701469": "بلندگو [ID] صدای [audio]  را پخش کند",
+    "BLOCK_1547779887637": "بلندگو [ID] [audio] را تا انتها، اجرا کند",
+    "BLOCK_1547781171854": "بلندگو [ID] صدا را روی [volume] % تنظیم کند"
+};

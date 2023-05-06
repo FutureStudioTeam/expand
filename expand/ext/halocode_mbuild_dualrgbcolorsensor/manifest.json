@@ -1,0 +1,79 @@
+{
+    "id": "halocode_mbuild_dualrgbcolorsensor",
+    "iconURL": "halocode_mbuild_dualrgbcolorsensor/imgs/3647c2881a89404c9ab54c285d74786e.png",
+    "coverURL": "./res/3647c2881a89404c9ab54c285d74786e.png",
+    "name": {
+        "zh": "双路颜色传感器",
+        "en": "Dual RGB Sensor",
+        "de": "Dualer RGB-Sensor",
+        "es": "Sensor RGB dual",
+        "fr": "Double capteur RGB",
+        "id": "Sensor RGB ganda",
+        "ja": "デュアルRGBセンサー",
+        "ja-jph": "デュアルRGBセンサー",
+        "ko": "듀얼 RGB 센서",
+        "pl": "Podwójny czujnik RGB",
+        "uk": "Подвійний RGB сенсор",
+        "zh-hant": "雙顏色感測器",
+        "nl": "Dubbele RGB sensor",
+        "it": "Doppio sensore RGB",
+        "hr": "Dual RGB senzor",
+        "ru": "Двойной датчик RGB",
+        "pt": "Sensor duplo RGB",
+        "fi": "Dual RGB-anturi",
+        "tr": "Çift RGB sensör",
+        "tk": "Ikileýin RGB duýujy enjam",
+        "ca": "Sensor RGB dual",
+        "cs": "Duální senzor RGB",
+        "fa": "سنسور RGB دوگانه",
+        "vi": "Cảm biến Dual RGB"
+    },
+    "description": {
+        "zh": "",
+        "en": "",
+        "de": "",
+        "es": "",
+        "fr": "",
+        "id": "",
+        "ja": "",
+        "ja-jph": "",
+        "ko": "",
+        "pl": "",
+        "uk": "",
+        "zh-hant": "",
+        "nl": "",
+        "it": "",
+        "hr": "",
+        "ru": "",
+        "pt": "",
+        "fi": "",
+        "tr": "",
+        "tk": "",
+        "ca": "",
+        "cs": "",
+        "fa": "",
+        "vi": ""
+    },
+    "fromScratch3": false,
+    "targets": [
+        "haloboard",
+        "cyberpi"
+    ],
+    "main": "halocode_mbuild_dualrgbcolorsensor/index.js",
+    "codeTypes": [
+        "python"
+    ],
+    "device": false,
+    "sortId": 999,
+    "version": "0.0.7",
+    "extApiVersion": [
+        "1.0.2"
+    ],
+    "platform": [
+        "mblockpc",
+        "mblockweb",
+        "mblockapp"
+    ],
+    "homepage": "http://www.mblock.cc/api-docs/_preview/mblock-5/zh/use-extensions/use-extensions.html",
+    "feature": []
+}

@@ -1,0 +1,21 @@
+export default {
+    "halocode_mbuild_pirsensor": "Cảm biến chuyển động PIR",
+    "extensionName": "Cảm biến chuyển động PIR",
+    "extensionDescription": "",
+    "EVENT_PIR_INDEX_0": "1",
+    "EVENT_PIR_INDEX_1": "2",
+    "EVENT_PIR_INDEX_2": "3",
+    "EVENT_PIR_INDEX_3": "4",
+    "EVENT_PIR_INDEX_4": "5",
+    "EVENT_PIR_INDEX_5": "6",
+    "EVENT_PIR_INDEX_6": "7",
+    "EVENT_PIR_INDEX_7": "8",
+    "event_pir": "Cảm biến PIR [index] phát hiện cơ thể con người?",
+    "pir_count": "Cảm biến PIR[index] Số lần phát hiện",
+    "pir_count_make_zero": "Cảm biến PIR [index] Reset số lần",
+    "cate_7477652c": "Cảm biến chuyển động PIR",
+    "BLOCK_1547779213407": "servo [ID] quay sang [angle] (°)",
+    "BLOCK_1547779701469": "loa [ID]  phát âm thanh [audio]",
+    "BLOCK_1547779887637": "loa [ID]  phát tệp âm thanh [audio] cho đến khi hoàn tất",
+    "BLOCK_1547781171854": "loa [ID]  thiết lập âm lượng [volume] %"
+};

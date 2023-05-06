@@ -1,0 +1,21 @@
+export default {
+    "halocode_mbuild_humituresensor": "Capteur humiture",
+    "extensionName": "Capteur humiture",
+    "extensionDescription": "",
+    "OP_TEMPERATURE_INDEX_0": "1",
+    "OP_TEMPERATURE_INDEX_1": "2",
+    "OP_TEMPERATURE_INDEX_2": "3",
+    "OP_TEMPERATURE_INDEX_3": "4",
+    "OP_TEMPERATURE_INDEX_4": "5",
+    "OP_TEMPERATURE_INDEX_5": "6",
+    "OP_TEMPERATURE_INDEX_6": "7",
+    "OP_TEMPERATURE_INDEX_7": "8",
+    "op_temperature": "capteur d’cherchant [index] température (° c)",
+    "op_htemperature": "cherchant[index] température (° f)",
+    "op_humidity": "capteur d’cherchant [index] humidité de l’air (%)",
+    "cate_5ce6a4bb": "Capteur humiture",
+    "BLOCK_1547779213407": "orienter le servo-moteur [ID] à un angle de [angle] (°)",
+    "BLOCK_1547779701469": "haut-parleur [ID]  jouer le son [audio]",
+    "BLOCK_1547779887637": "haut-parleur [ID]  lire le fichier audio [audio] jusqu'au bout",
+    "BLOCK_1547781171854": "haut-parleur [ID]  Réglez le volume sur [volume] %"
+};

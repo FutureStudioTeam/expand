@@ -1,0 +1,79 @@
+{
+    "id": "codeyneuron",
+    "iconURL": "codeyneuron/imgs/5e9d6568ca684792a8d14eb658a72fc5.png",
+    "coverURL": "./res/5e9d6568ca684792a8d14eb658a72fc5.png",
+    "name": {
+        "zh": "神经元",
+        "en": "Neuron",
+        "de": "Neuron",
+        "es": "Neuron",
+        "fr": "Neuron",
+        "id": "Neuron",
+        "ja": "Neuron",
+        "ja-jph": "Neuron",
+        "ko": "Neuron",
+        "pl": "Neuron",
+        "uk": "Neuron",
+        "zh-hant": "Neuron",
+        "nl": "Neuron",
+        "it": "Neuron",
+        "hr": "Neuron",
+        "ru": "Neuron",
+        "pt": "Neuron",
+        "fi": "Neuron",
+        "tr": "Neuron",
+        "tk": "Neuron",
+        "ca": "Neuron",
+        "cs": "Neuron",
+        "fa": "Neuron",
+        "vi": "Neuron"
+    },
+    "description": {
+        "zh": "小程可以连接神经元，实现更多好玩又有趣的应用~",
+        "en": "Connect Codey to Neuron to create more engaging applications!",
+        "de": "Verbinden Sie Codey mit Neuron, um fortgeschrittene Anwendungen zu erstellen!",
+        "es": "¡Conecta Codey a Neuron para crear más inventos apasionantes!",
+        "fr": "Connectez Codey à Neuron pour créer des applications plus intéressantes!",
+        "id": "Hubungkan Codey ke Neuron untuk membuat aplikasi yang lebih menarik!",
+        "ja": "CodeyをNeuronに接続して、より魅力的なアプリケーションを作成する",
+        "ja-jph": "CodeyをNeuronにせつぞくして、よりみりょくてきなアプリケーションをさくせいする",
+        "ko": "Codey를 Neuron에 연결하여 더 흥미로운 동작을 만들어보세요!",
+        "pl": "Połącz Codey'a z Neuronem aby stworzyć angażujące zastosowania!",
+        "uk": "Підключіть Codey до Neuron для створення програм з новими функціями!",
+        "zh-hant": "連接Codey 與 Neuron, 創造更引人入勝的應用!",
+        "nl": "Verbind Codey met Neuron om nog meer boeiende toepassingen te creëren!",
+        "it": "Connetti Codey a Neuron per creare applicazioni più divertenti!",
+        "hr": "Spojite Codey na Neuron kako bi storili više privlačnih aplikacija!",
+        "ru": "Подключите Codey к Neuron, чтобы создать больше увлекательных проектов!",
+        "pt": "Conecta o Codey ao Neuron para criar aplicativos mais envolventes!",
+        "fi": "Yhdistä Codey Neuron luomaan miellyttävämpiä sovelluksia!",
+        "tr": "Daha ilgi çekici uygulamalar oluşturmak için Codey'i Neuron'a bağlayın!",
+        "tk": "Has gyzykly ýerine ýetirişler üçin Codey robotyny Neurona baglaň!",
+        "ca": "Connectar Codey a NEURON per a crear aplicacions més atractives!",
+        "cs": "Připoj Codey do Neuronu pro vytvoření více poutavých aplikací!",
+        "fa": "اتصال Codey به Neuron برای ایجاد برنامه های کاربردی جذاب تر!",
+        "vi": "Kết nối Codey với neuron để tạo các ứng dụng hấp dẫn hơn!"
+    },
+    "fromScratch3": false,
+    "targets": [
+        "codey"
+    ],
+    "main": "codeyneuron/index.js",
+    "codeTypes": [
+        "python"
+    ],
+    "device": false,
+    "sortId": 999,
+    "version": "0.3.6",
+    "extApiVersion": [
+        "1.0.0",
+        "1.0.1"
+    ],
+    "platform": [
+        "mblockpc",
+        "mblockweb",
+        "mblockapp"
+    ],
+    "homepage": "http://www.mblock.cc/api-docs/_preview/mblock-5/zh/use-extensions/use-extensions.html",
+    "feature": []
+}

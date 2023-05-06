@@ -1,0 +1,83 @@
+{
+    "id": "halocode_mbuild_leddriver",
+    "iconURL": "halocode_mbuild_leddriver/imgs/1c62ae319afb46269d370c9cabc0039e.png",
+    "coverURL": "./res/1c62ae319afb46269d370c9cabc0039e.png",
+    "name": {
+        "zh": "彩灯驱动",
+        "en": "LED Driver",
+        "de": "LED-Fahrer",
+        "es": "controlador LED",
+        "fr": "Pilote LED",
+        "id": "Sopir LED",
+        "ja": "LEDドライバ",
+        "ja-jph": "LEDドライバ",
+        "ko": "LED 드라이버",
+        "pl": "Sterownik LED",
+        "uk": "LED модуль",
+        "zh-hant": "LED 驅動器",
+        "nl": "LED driver",
+        "it": "Controllo LED",
+        "hr": "LED kontroler",
+        "ru": "Светодиодный драйвер",
+        "pt": "Driver de LED",
+        "fi": "LED-ohjain",
+        "tr": "LED sürücü",
+        "tk": "LED Draýweri",
+        "ar": "محرك LED",
+        "ca": "Controlador de leds",
+        "cs": "Ovladač LED",
+        "fa": "درایور LED",
+        "km": "ឈ្នាន់អំពូល LED",
+        "vi": "Điều khiển LED"
+    },
+    "description": {
+        "zh": "",
+        "en": "",
+        "de": "",
+        "es": "",
+        "fr": "",
+        "id": "",
+        "ja": "",
+        "ja-jph": "",
+        "ko": "",
+        "pl": "",
+        "uk": "",
+        "zh-hant": "",
+        "nl": "",
+        "it": "",
+        "hr": "",
+        "ru": "",
+        "pt": "",
+        "fi": "",
+        "tr": "",
+        "tk": "",
+        "ar": "",
+        "ca": "",
+        "cs": "",
+        "fa": "",
+        "km": "",
+        "vi": ""
+    },
+    "fromScratch3": false,
+    "targets": [
+        "haloboard",
+        "cyberpi"
+    ],
+    "main": "halocode_mbuild_leddriver/index.js",
+    "codeTypes": [
+        "python"
+    ],
+    "device": false,
+    "sortId": 999,
+    "version": "0.0.5",
+    "extApiVersion": [
+        "1.0.2"
+    ],
+    "platform": [
+        "mblockpc",
+        "mblockweb",
+        "mblockapp"
+    ],
+    "homepage": "http://docs.makeblock.com/diy-platform/zh/mbuild/hardware/light/led-driver.html",
+    "feature": []
+}

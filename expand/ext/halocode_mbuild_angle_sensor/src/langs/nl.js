@@ -1,0 +1,20 @@
+export default {
+    "halocode_mbuild_angle_sensor": "Hoek sensor",
+    "extensionName": "Hoek sensor",
+    "extensionDescription": "",
+    "BLOCK_1559703114098_INDEX_0": "1",
+    "BLOCK_1559703114098_INDEX_1": "2",
+    "BLOCK_1559703114098_INDEX_2": "3",
+    "BLOCK_1559703114098_INDEX_3": "4",
+    "BLOCK_1559703114098_INDEX_4": "5",
+    "BLOCK_1559703114098_INDEX_5": "6",
+    "BLOCK_1559703114098_INDEX_6": "7",
+    "BLOCK_1559703114098_INDEX_7": "8",
+    "BLOCK_1559703114098": "hoeksensor [index] gedraaide hoek (°)",
+    "BLOCK_1559703352577": "hoeksensor[index] Reset gedraaide hoek",
+    "BLOCK_1559703305709": "hoeksensor [index] hoeksnelheid (°/s)",
+    "BLOCK_1559703446126_DIR_0": "Klok mee",
+    "BLOCK_1559703446126_DIR_1": "Linksom",
+    "BLOCK_1559703446126": "角度传感器 [index] [dir] 转动？",
+    "cate_04e224f4": "角度传感器"
+};

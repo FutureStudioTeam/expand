@@ -1,0 +1,71 @@
+{
+    "id": "novapi_mbuild_flame_sensor",
+    "iconURL": "novapi_mbuild_flame_sensor/imgs/8f98137ac3d448e98188e53dde0dab7c.png",
+    "coverURL": "./res/8f98137ac3d448e98188e53dde0dab7c.png",
+    "name": {
+        "zh": "火焰传感器",
+        "en": "Flame Sensor",
+        "de": "Flame Sensor",
+        "es": "Flame Sensor",
+        "fr": "Flame Sensor",
+        "id": "Flame Sensor",
+        "ja": "Flame Sensor",
+        "ja-jph": "Flame Sensor",
+        "ko": "Flame Sensor",
+        "pl": "Flame Sensor",
+        "uk": "Flame Sensor",
+        "zh-hant": "Flame Sensor",
+        "nl": "Flame Sensor",
+        "it": "Flame Sensor",
+        "hr": "Flame Sensor",
+        "ru": "Flame Sensor",
+        "pt": "Flame Sensor",
+        "fi": "Flame Sensor",
+        "tr": "Flame Sensor",
+        "tk": "Flame Sensor",
+        "fa": "Flame Sensor"
+    },
+    "description": {
+        "zh": "",
+        "en": "",
+        "de": "",
+        "es": "",
+        "fr": "",
+        "id": "",
+        "ja": "",
+        "ja-jph": "",
+        "ko": "",
+        "pl": "",
+        "uk": "",
+        "zh-hant": "",
+        "nl": "",
+        "it": "",
+        "hr": "",
+        "ru": "",
+        "pt": "",
+        "fi": "",
+        "tr": "",
+        "tk": "",
+        "fa": ""
+    },
+    "fromScratch3": false,
+    "targets": [
+        "novapi"
+    ],
+    "main": "novapi_mbuild_flame_sensor/index.js",
+    "codeTypes": [
+        "python"
+    ],
+    "device": false,
+    "sortId": 999,
+    "version": "0.0.1",
+    "extApiVersion": [
+        "1.0.2"
+    ],
+    "platform": [
+        "mblockpc",
+        "mblockweb"
+    ],
+    "homepage": "http://www.mblock.cc/api-docs/_preview/mblock-5/zh/use-extensions/use-extensions.html",
+    "feature": []
+}

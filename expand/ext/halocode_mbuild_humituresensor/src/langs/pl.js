@@ -1,0 +1,21 @@
+export default {
+    "halocode_mbuild_humituresensor": "Czujnik humiture",
+    "extensionName": "Czujnik humiture",
+    "extensionDescription": "",
+    "OP_TEMPERATURE_INDEX_0": "1",
+    "OP_TEMPERATURE_INDEX_1": "2",
+    "OP_TEMPERATURE_INDEX_2": "3",
+    "OP_TEMPERATURE_INDEX_3": "4",
+    "OP_TEMPERATURE_INDEX_4": "5",
+    "OP_TEMPERATURE_INDEX_5": "6",
+    "OP_TEMPERATURE_INDEX_6": "7",
+    "OP_TEMPERATURE_INDEX_7": "8",
+    "op_temperature": "Czujnik humitation [index] temperatury (°C)",
+    "op_htemperature": "humitation[index] Temperatura (°F)",
+    "op_humidity": "Czujnik humitation [index] wilgotność powietrza (%)",
+    "cate_5ce6a4bb": "Czujnik humiture",
+    "BLOCK_1547779213407": "Serwa [ID] obraca się do [angle] (°)",
+    "BLOCK_1547779701469": "Głośnik [ID]  Odtwarzanie dźwięku [audio]",
+    "BLOCK_1547779887637": "Głośnik [ID]  Odtwarzanie pliku audio [audio] aż do zrobienia",
+    "BLOCK_1547781171854": "Głośnik [ID]  ustawić głośność na [volume] %"
+};

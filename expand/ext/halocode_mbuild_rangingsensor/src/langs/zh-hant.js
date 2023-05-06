@@ -1,0 +1,20 @@
+export default {
+    "halocode_mbuild_rangingsensor": "測距感測器",
+    "extensionName": "測距感測器",
+    "extensionDescription": "",
+    "OP_RANGING_INDEX_0": "1",
+    "OP_RANGING_INDEX_1": "2",
+    "OP_RANGING_INDEX_2": "3",
+    "OP_RANGING_INDEX_3": "4",
+    "OP_RANGING_INDEX_4": "5",
+    "OP_RANGING_INDEX_5": "6",
+    "OP_RANGING_INDEX_6": "7",
+    "OP_RANGING_INDEX_7": "8",
+    "op_ranging": "測距感測器 [index] 量測到物體的距離(cm)",
+    "event_ranging_pressed": "測距感測器 [index] 超出量測範圍?",
+    "cate_a8ddb2a0": "測距感測器",
+    "BLOCK_1547779213407": "伺服馬達 [ID] 旋轉到 [angle] 度",
+    "BLOCK_1547779701469": "喇叭 [ID] 播放 [audio] 聲音",
+    "BLOCK_1547779887637": "喇叭 [ID] 播放 [audio] 音樂檔直到結束",
+    "BLOCK_1547781171854": "喇叭 [ID] 的音量設定為 [volume] %"
+};

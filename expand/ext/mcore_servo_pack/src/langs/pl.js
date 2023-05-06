@@ -1,0 +1,21 @@
+export default {
+    "mcore_servo_pack": "Zestaw serwo",
+    "extensionName": "Zestaw serwo",
+    "extensionDescription": "Zestaw zawiera serwomechanizm (silniczek z możliwością definiowania kąta obrotu/pozycji) z elementami mocującymi. Dzięki niemu Twój mBot będzie w stanie podnosić - przesuwać - chwytać przedmioty. Dodatkowo w zestawie znajdziesz moduł LED do sygnalizacji.",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_PORT_0": "port1",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_PORT_1": "port2",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_PORT_2": "port3",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_PORT_3": "port4",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_LED_POSTION_0": "wszystkie",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_LED_POSTION_1": "1",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_LED_POSTION_2": "2",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_LED_POSTION_3": "3",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_LED_POSTION_4": "4",
+    "mcore_show_external_led_time": "[ICON] moduł LED [PORT] zapal [LED_POSTION] na [COLOR] przez [TIME] s",
+    "mcore_show_external_led": "[ICON] moduł LED [PORT] zapal [LED_POSTION] na [COLOR]",
+    "mcore_show_external_led_rgb": "[ICON] moduł LED [PORT] zapal [LED_POSTION] na R [R] G [G] B [B]",
+    "MCORE_RUN_SERVO_SLOT_0": "slot1",
+    "MCORE_RUN_SERVO_SLOT_1": "slot2",
+    "mcore_run_servo": "[ICON] serwo [PORT] [SLOT] ustaw w pozycji [DEGREE] ",
+    "CATEGORY_SERVO_PACK": "Zestaw serwo"
+};

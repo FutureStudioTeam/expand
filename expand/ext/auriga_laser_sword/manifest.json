@@ -1,0 +1,73 @@
+{
+    "id": "auriga_laser_sword",
+    "iconURL": "auriga_laser_sword/imgs/bc6f3bcec9ad4d7185c508830b050f89.png",
+    "coverURL": "./res/bc6f3bcec9ad4d7185c508830b050f89.png",
+    "name": {
+        "zh": "激光剑",
+        "en": "LED Sword",
+        "de": "LED Schwert",
+        "es": "Espada LED",
+        "fr": "Épée à LED",
+        "id": "Pedang LED",
+        "ja": "LED剣",
+        "ja-jph": "LEDけん",
+        "ko": "LED 검",
+        "pl": "Miecz LED",
+        "uk": "LED меч",
+        "zh-hant": "LED 光劍",
+        "nl": "LED zwaard",
+        "it": "Spada LED",
+        "hr": "LED mač",
+        "ru": "Светодиодный меч",
+        "pt": "Espada LED",
+        "fi": "LED miekka",
+        "tr": "LED Kılıç",
+        "tk": "LED gylyç",
+        "fa": "شمشیر LED"
+    },
+    "description": {
+        "zh": "将mBot Ranger改造为属于自己的激光剑，还原光剑电影效果。",
+        "en": "Turn your mBot Ranger into a LED sword. ",
+        "de": "Verwandeln Sie Ihren mBot Ranger in ein LED-Schwert. ",
+        "es": "Convierte tu mBot Ranger en una espada LED. ",
+        "fr": "Transformez votre mbot Ranger en une épée LED. ",
+        "id": "Mengubah mBot Ranger Anda menjadi pedang LED. ",
+        "ja": "mBot RangerをLED剣に変形する",
+        "ja-jph": "ｍBot RangerをLEDけんにへんけいする ",
+        "ko": "mBot Ranger를 LED 검으로 바꾸십시오.",
+        "pl": "Zamień swojego Rangera w miecz z gwiezdnych wojen",
+        "uk": "Перетворіть вашого mBot Ranger на LED меч. ",
+        "zh-hant": "將 mBot Ranger 變身為 LED 光劍 ",
+        "nl": "Verander je mBot Ranger in een LED-zwaard. ",
+        "it": "Trasforma il tuo mBot Ranger in una spada a LED. ",
+        "hr": "Pretvorite svoj mBot Ranger u LED mač. ",
+        "ru": "Превратите ваш mBot Ranger в светодиодный меч. ",
+        "pt": "Transforma o teu mBot Ranger numa Espada LED. ",
+        "fi": "Muuta Mbot Ranger LED miekaksi. ",
+        "tr": "mBot Ranger'ınızı bir LED kılıca dönüştürün. ",
+        "tk": "Öz mBot Ranger robotyňyzy LED gylyjyna öwüriň. ",
+        "fa": "MBot رنجر خود را به یک شمشیر LED تبدیل کنید. "
+    },
+    "fromScratch3": false,
+    "targets": [
+        "auriga"
+    ],
+    "main": "auriga_laser_sword/index.js",
+    "codeTypes": [
+        "arduinoc"
+    ],
+    "device": false,
+    "sortId": 999,
+    "version": "0.4.2",
+    "extApiVersion": [
+        "1.0.0",
+        "1.0.1"
+    ],
+    "platform": [
+        "mblockpc",
+        "mblockweb",
+        "mblockapp"
+    ],
+    "homepage": "http://www.mblock.cc/api-docs/_preview/mblock-5/zh/use-extensions/use-extensions.html",
+    "feature": []
+}

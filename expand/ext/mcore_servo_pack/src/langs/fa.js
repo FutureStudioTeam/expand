@@ -1,0 +1,21 @@
+export default {
+    "mcore_servo_pack": "بسته سرو",
+    "extensionName": "بسته سرو",
+    "extensionDescription": "ام بات خود را به یک گربه تبدیل کنید، آن را به رقص در آورید ، و توجه همه را به آن جلب کنید.",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_PORT_0": "پورت 1",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_PORT_1": "پورت 2",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_PORT_2": "پورت 3",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_PORT_3": "پورت 4",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_LED_POSTION_0": "همه",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_LED_POSTION_1": "1",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_LED_POSTION_2": "2",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_LED_POSTION_3": "3",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_LED_POSTION_4": "4",
+    "mcore_show_external_led_time": "[ICON] ال ای دی آر جی بی [PORT] در [LED_POSTION] با رنگ [COLOR] به مدت [TIME] ثانیه روشن شود",
+    "mcore_show_external_led": "[ICON] ال ای دی آر جی بی [PORT] در [LED_POSTION] با رنگ [COLOR] روشن شود",
+    "mcore_show_external_led_rgb": "[ICON] چراغ LED RGB [PORT] چراغ [LED_POSTION] را با رنگ قرمز [R] سبز [G] آبی [B] روشن کند",
+    "MCORE_RUN_SERVO_SLOT_0": "slot1",
+    "MCORE_RUN_SERVO_SLOT_1": "slot2",
+    "mcore_run_servo": "[ICON] سروو [PORT] [SLOT] در موقعیت [DEGREE] قرار دارد ",
+    "CATEGORY_SERVO_PACK": "بسته سرو"
+};

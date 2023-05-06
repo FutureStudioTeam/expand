@@ -1,0 +1,42 @@
+{
+  "name": "detect-file",
+  "description": "Detects if a file exists and returns the resolved filepath.",
+  "version": "1.0.0",
+  "homepage": "https://github.com/doowb/detect-file",
+  "author": "Brian Woodward (https://github.com/doowb)",
+  "repository": "doowb/detect-file",
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "gulp-format-md": "*",
+    "mocha": "*"
+  },
+  "verb": {
+    "layout": "default",
+    "tasks": [
+      "readme"
+    ],
+    "plugins": [
+      "gulp-format-md"
+    ],
+    "related": {
+      "list": [
+        "fs-exists-sync"
+      ]
+    },
+    "reflinks": [
+      "verb",
+      "verb-readme-generator"
+    ],
+    "lint": {
+      "reflinks": true
+    }
+  }
+}

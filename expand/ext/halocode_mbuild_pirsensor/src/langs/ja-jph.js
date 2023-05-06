@@ -1,0 +1,21 @@
+export default {
+    "halocode_mbuild_pirsensor": "PIRセンサー",
+    "extensionName": "PIRセンサー",
+    "extensionDescription": "",
+    "EVENT_PIR_INDEX_0": "1",
+    "EVENT_PIR_INDEX_1": "2",
+    "EVENT_PIR_INDEX_2": "3",
+    "EVENT_PIR_INDEX_3": "4",
+    "EVENT_PIR_INDEX_4": "5",
+    "EVENT_PIR_INDEX_5": "6",
+    "EVENT_PIR_INDEX_6": "7",
+    "EVENT_PIR_INDEX_7": "8",
+    "event_pir": "PIRセンサー[index] がひとのうごきをけんしゅつする",
+    "pir_count": "PIRセンサー[index] がじんたいをけんしゅつしたかいすう",
+    "pir_count_make_zero": "PIRセンサー [index] のかいすうをリセットする",
+    "cate_7477652c": "PIRセンサー",
+    "BLOCK_1547779213407": "サーボ [ID] を [angle] (°) までかいてんする",
+    "BLOCK_1547779701469": "スピーカー [ID] で[audio] をさいせいする",
+    "BLOCK_1547779887637": "スピーカー [ID] で [audio] をかんりょうまでさいせいする",
+    "BLOCK_1547781171854": "スピーカー [ID] のおんりょうを [volume] %にせっていする"
+};

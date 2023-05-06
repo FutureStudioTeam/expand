@@ -1,0 +1,22 @@
+export default {
+    "audio_player_rj25": "Audiospeler",
+    "extensionName": "Audiospeler",
+    "extensionDescription": "Audio Player",
+    "audioplayer_init": "initialiseren audio-speler op: elke witte poort (I2C)",
+    "audioplayer_play_by_sn": "audiospeler: speel audiobestand [FILE_SN]",
+    "audioplayer_play_by_name": "audiospeler: speel audiobestand met naam [FILE_NAME]",
+    "AUDIOPLAYER_SET_PLAY_MODE_PLAY_MODE_0": "enkel",
+    "AUDIOPLAYER_SET_PLAY_MODE_PLAY_MODE_1": "herhaal",
+    "AUDIOPLAYER_SET_PLAY_MODE_PLAY_MODE_2": "volgorde",
+    "AUDIOPLAYER_SET_PLAY_MODE_PLAY_MODE_3": "willekeurig",
+    "audioplayer_set_play_mode": "audiospeler: zet modus [PLAY_MODE]",
+    "audioplayer_play_previous": "audiospeler: speel vorig audiobestand",
+    "audioplayer_play_next": "audiospeler: speel volgend audiobestand",
+    "audioplayer_pause": "audiospeler: pauze/doorgaan",
+    "audioplayer_stop": "audiospeler: stop afspelen",
+    "audioplayer_set_volume": "audiospeler: zet volume op [VOLUME] %",
+    "audioplayer_volume_up": "audiospeler: volume hoger",
+    "audioplayer_volume_down": "audiospeler: volume lager",
+    "audioplayer_record": "audiospeler: start opname en sla op [FILE_NAME]",
+    "audioplayer_record_stop": "audiospeler: stop opnemen"
+};

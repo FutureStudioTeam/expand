@@ -1,0 +1,71 @@
+{
+    "id": "novapi_mbuild_pirsensor",
+    "iconURL": "novapi_mbuild_pirsensor/imgs/f5efb29d04d04a26af6677744e2703f7.png",
+    "coverURL": "./res/f5efb29d04d04a26af6677744e2703f7.png",
+    "name": {
+        "zh": "热运动传感器",
+        "en": "PIR Sensor",
+        "de": "PIR Sensor",
+        "es": "PIR Sensor",
+        "fr": "PIR Sensor",
+        "id": "PIR Sensor",
+        "ja": "PIR Sensor",
+        "ja-jph": "PIR Sensor",
+        "ko": "PIR Sensor",
+        "pl": "PIR Sensor",
+        "uk": "PIR Sensor",
+        "zh-hant": "PIR Sensor",
+        "nl": "PIR Sensor",
+        "it": "PIR Sensor",
+        "hr": "PIR Sensor",
+        "ru": "PIR Sensor",
+        "pt": "PIR Sensor",
+        "fi": "PIR Sensor",
+        "tr": "PIR Sensor",
+        "tk": "PIR Sensor",
+        "fa": "PIR Sensor"
+    },
+    "description": {
+        "zh": "",
+        "en": "",
+        "de": "",
+        "es": "",
+        "fr": "",
+        "id": "",
+        "ja": "",
+        "ja-jph": "",
+        "ko": "",
+        "pl": "",
+        "uk": "",
+        "zh-hant": "",
+        "nl": "",
+        "it": "",
+        "hr": "",
+        "ru": "",
+        "pt": "",
+        "fi": "",
+        "tr": "",
+        "tk": "",
+        "fa": ""
+    },
+    "fromScratch3": false,
+    "targets": [
+        "novapi"
+    ],
+    "main": "novapi_mbuild_pirsensor/index.js",
+    "codeTypes": [
+        "python"
+    ],
+    "device": false,
+    "sortId": 999,
+    "version": "0.0.1",
+    "extApiVersion": [
+        "1.0.2"
+    ],
+    "platform": [
+        "mblockpc",
+        "mblockweb"
+    ],
+    "homepage": "http://www.mblock.cc/api-docs/_preview/mblock-5/zh/use-extensions/use-extensions.html",
+    "feature": []
+}

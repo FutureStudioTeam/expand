@@ -1,0 +1,20 @@
+export default {
+    "auriga_perception_gizmos": "Perception Gizmos",
+    "extensionName": "Perception Gizmos",
+    "extensionDescription": "Zestaw dodatkowych elementów do mBota i Rangera.  Zawiera wyświetlacz LED matrix, czujnik dźwięku, potencjometr, silniczek DC z wentylatorem, czujnik temperatury i wilgotności oraz elementy montażowe. Pozwala na tworzenie bardziej rozbudowanych projektów.",
+    "AURIGA_RUN_FAN_PORT_0": "port6",
+    "AURIGA_RUN_FAN_PORT_1": "port7",
+    "AURIGA_RUN_FAN_PORT_2": "port8",
+    "AURIGA_RUN_FAN_PORT_3": "port9",
+    "AURIGA_RUN_FAN_PORT_4": "port10",
+    "AURIGA_RUN_FAN_FAN_ROTATE_0": "w prawo",
+    "AURIGA_RUN_FAN_FAN_ROTATE_1": "w lewo",
+    "AURIGA_RUN_FAN_FAN_ROTATE_2": "stop",
+    "auriga_run_fan": "[ICON] wiatrak [PORT] obracaj [FAN_ROTATE]",
+    "auriga_detect_external_loudness": "[ICON] czujnik dźwięku [PORT]",
+    "AURIGA_DETEC_TEMPERATURE_SLOT_0": "slot1",
+    "AURIGA_DETEC_TEMPERATURE_SLOT_1": "slot2",
+    "auriga_detec_temperature": "[ICON] czujnik temperatury [PORT] [SLOT](℃)",
+    "auriga_detect_potentiometer": "[ICON] potencjometr[PORT]",
+    "CATEGORY_PERCEPTION": "Perception Gizmos"
+};

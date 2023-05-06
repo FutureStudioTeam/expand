@@ -1,0 +1,19 @@
+{
+  "name": "just-debounce",
+  "version": "1.1.0",
+  "description": "a simple debounce with no dependencies or crazy defaults",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hayes/just-debounce.git"
+  },
+  "author": "Michael Hayes",
+  "license": "MIT",
+  "homepage": "https://github.com/hayes/just-debounce",
+  "devDependencies": {
+    "eslint": "^7.20.0",
+    "eslint-plugin-prettier": "^3.3.1",
+    "prettier": "^2.2.1",
+    "tape": "^5.1.1"
+  }
+}

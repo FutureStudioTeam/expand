@@ -1,0 +1,25 @@
+{
+  "name": "@kunz/noble-mac",
+  "description": "Noble (Node.js Bluetooth LE) bindings using CoreBluetooth API",
+  "version": "1.0.6",
+  "author": "kun@makeblock",
+  "license": "Apache-2.0",
+  "main": "index.js",
+  "gypfile": true,
+  "engines": {
+    "node": ">=6.14.2"
+  },
+  "dependencies": {
+    "cross-spawn": "^6.0.5",
+    "napi-thread-safe-callback": "0.0.6",
+    "noble": "1.9.3",
+    "node-addon-api": "^1.1.0",
+    "node-pre-gyp": "^0.10.0"
+  },
+  "binary": {
+    "module_name": "noble_mac",
+    "module_path": "./native/",
+    "host": "https://github.com/kungvwow/noble-mac/releases/download/",
+    "remote_path": "{version}"
+  }
+}

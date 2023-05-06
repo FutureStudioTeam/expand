@@ -1,0 +1,23 @@
+export default {
+    "mcore_variety_gizmos": "ガジェットパック",
+    "extensionName": "ガジェットパック",
+    "extensionDescription": "6のmBot拡張プロジェクトでは、あなたのロボットやデバイスを移動させる方法や、思い通りに形を変更させることについて学べます。 ",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_PORT_0": "ポート1",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_PORT_1": "ポート2",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_PORT_2": "ポート3",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_PORT_3": "ポート4",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_LED_POSTION_0": "全て",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_LED_POSTION_1": "1",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_LED_POSTION_2": "2",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_LED_POSTION_3": "3",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_LED_POSTION_4": "4",
+    "mcore_show_external_led_time": "[ICON]RGB LED [PORT]の[LED_POSTION] に[COLOR] 色で[TIME] 秒点灯する",
+    "mcore_show_external_led": "[ICON]RGB LED [PORT] の[LED_POSTION] に[COLOR] 色で点灯する ",
+    "mcore_show_external_led_rgb": "[ICON]RGB LED [PORT] の[LED_POSTION] に赤 [R] 緑[G] 青 [B] で 点灯する",
+    "MCORE_RUN_SERVO_SLOT_0": "スロット1",
+    "MCORE_RUN_SERVO_SLOT_1": "スロット2",
+    "mcore_run_servo": "[ICON] サーボ[PORT] の[SLOT] の角度を[DEGREE] にする ",
+    "mcore_show_7segments_number": "[ICON] 7セグメントディスプレイ [PORT] に [NUMBER] を表示する",
+    "mcore_event_limit_switch": "[ICON] リミットスイッチ[PORT] の[SLOT]",
+    "CATEGORY_VARITY": "ガジェット"
+};

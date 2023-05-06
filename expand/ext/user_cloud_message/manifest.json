@@ -1,0 +1,72 @@
+{
+    "id": "user_cloud_message",
+    "iconURL": "user_cloud_message/imgs/37ec759f09954da2b744f8fc7658a018.png",
+    "coverURL": "./res/37ec759f09954da2b744f8fc7658a018.png",
+    "name": {
+        "zh": "帐号云广播",
+        "en": "User cloud message",
+        "de": "User Cloud Nachricht",
+        "es": "Mensaje en la nube de usuario",
+        "fr": "Message Cloud de l'utilisateur",
+        "id": "User cloud message",
+        "ja": "ユーザークラウドメッセージ",
+        "ja-jph": "ユーザークラウドメッセージ",
+        "ko": "사용자 클라우드 메시지",
+        "pl": "Wiadomość w chmurze użytkownika",
+        "uk": "Повідомлення коритувача хмари",
+        "zh-hant": "使用者雲訊息",
+        "nl": "Gebruiker cloud bericht",
+        "it": "Messaggio cloud utente",
+        "hr": "Poruka korisnika u oblaku",
+        "ru": "Облачное сообщение пользователя",
+        "pt": "Mensagem de nuvem do utilizador",
+        "fi": "Käyttäjän pilvi-viesti",
+        "tr": "Kullanıcı bulut iletisi",
+        "tk": "Ulanyjynyň bulut ulgamy habary",
+        "fa": "پیام Cloud کاربر"
+    },
+    "description": {
+        "zh": "通过帐号云广播，实现同帐号作品间跨设备和跨作品的数据互联",
+        "en": "With the user cloud message extension, you can easily sync data of your account across different devices and projects.   ",
+        "de": "Mit der User-Cloud-Nachricht-Erweiterung können Sie die Daten Ihres Kontos synchronisieren über verschiedene Geräte und Projekte.   ",
+        "es": "Con la extensión mensaje en la nube de usuario, puedes sincronizar fácilmente datos de tu cuenta entre diferentes dispositivos y proyectos.   ",
+        "fr": "Avec l'extension de message Cloud utilisateur, vous pouvez facilement synchroniser les données de votre compte sur différents périphériques et projets.   ",
+        "id": "Dengan pengguna internet pesan ekstensi, Anda dengan mudah dapat sync data akun Anda melalui perangkat yang berbeda dan proyek.   ",
+        "ja": "ユーザークラウドメッセージの拡張機能を使用すると、アカウントのデータを様々なデバイスやプロジェクトに簡単に同期できます。   ",
+        "ja-jph": "ユーザークラウドメッセージのかくちょうきのうをしようすると、アカウントのデータをさまざまなデバイスやプロジェクトにかんたんにどうきできます。",
+        "ko": "클라우드 메시지 확장을 사용하면, 계정의 데이터를 다양한 기기와 프로젝트로 동기화할 수 있습니다.",
+        "pl": "Dzięki rozszerzeniu wiadomości w chmurze, możesz łatwo synchronizować dane z konta na różnych urządzeniach i w różnych projektach.   ",
+        "uk": "За допомогою розширення хмарних повідомлень можна легко синхронізувати дані вашого облікового запису на різних пристроях і проектах.   ",
+        "zh-hant": "通過使用者雲訊息擴展, 您可以輕鬆地在不同的設備和專案之間同步帳戶的資料。   ",
+        "nl": "Met de gebruiker cloud-bericht-extensie kunt u eenvoudig gegevens van uw account synchroniseren over verschillende apparaten en projecten.   ",
+        "it": "Con l'estensione cloud dei messaggi utente, puoi facilmente sincronizzare i dati del tuo account su diversi dispositivi e progetti.   ",
+        "hr": "Sa proširenjem za poruke u oblaku, možete jednostavno sinkronizirati podatke sa vašeg računa po različitim uređajima i projektima.   ",
+        "ru": "Благодаря расширению \"пользовательское облачное сообщение\", Вы можете легко синхронизировать данные своей учетной записи с различными устройствами и проектами.   ",
+        "pt": "Com a extensão da mensagem de nuvem do utilizador, podes sincronizar facilmente os dados da tua conta em diferentes dispositivos e projetos.   ",
+        "fi": "Käyttäjän pilvi-sanoman laajennuksen avulla voit helposti synkronoida tilisi tiedot eri laitteissa ja projekteissa.   ",
+        "tr": "Kullanıcı bulut iletisi uzantısı ile, hesabınızdaki verileri farklı cihaz ve projelerde eşleyebilirsiniz.   ",
+        "tk": "Ulanyjynyň bulut ulgamy giňeldişi bilen öz hasabyňyzyň maglumatlaryny dürli enjamlar we taslamalaryň arasynda aňsatlyk bilen sinhronizirläp bilersiňiz.",
+        "fa": "با فرمت پیام cloud کاربر ، شما به راحتی می توانید داده های حساب کاربری خود را در دستگاه ها و پروژه های مختلف همگام سازی کنید.   "
+    },
+    "fromScratch3": false,
+    "targets": [
+        "sprites"
+    ],
+    "main": "user_cloud_message/index.js",
+    "codeTypes": [
+        "python"
+    ],
+    "device": false,
+    "sortId": 999,
+    "version": "1.2.4",
+    "extApiVersion": [
+        "1.0.0"
+    ],
+    "platform": [
+        "mblockpc",
+        "mblockweb",
+        "mblockapp"
+    ],
+    "homepage": "http://www.mblock.cc/api-docs/_preview/mblock-5/zh/use-extensions/use-extensions.html",
+    "feature": []
+}

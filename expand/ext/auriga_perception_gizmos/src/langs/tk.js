@@ -1,0 +1,20 @@
+export default {
+    "auriga_perception_gizmos": "Duýujy enjamlar",
+    "extensionName": "Duýujy enjamlar",
+    "extensionDescription": "mBot Rangeriniň iki sany giňeldiş taslamalarynda siz duýujy enjamlary gündelik durmuşyňyzda nähili ulanmalydygyňyzy öwrenersiňiz we elektronika barada has çuňňur düşünje edinersiňiz. ",
+    "AURIGA_RUN_FAN_PORT_0": "port6",
+    "AURIGA_RUN_FAN_PORT_1": "port7",
+    "AURIGA_RUN_FAN_PORT_2": "port8",
+    "AURIGA_RUN_FAN_PORT_3": "port9",
+    "AURIGA_RUN_FAN_PORT_4": "port10",
+    "AURIGA_RUN_FAN_FAN_ROTATE_0": "sagadyň öwrüliş ugrunda",
+    "AURIGA_RUN_FAN_FAN_ROTATE_1": "sagadyň öwrüliş ugrunyň tersine",
+    "AURIGA_RUN_FAN_FAN_ROTATE_2": "dur",
+    "auriga_run_fan": "[ICON] [PORT] wentilýatory [FAN_ROTATE] aýlanýar",
+    "auriga_detect_external_loudness": "[ICON][PORT] ses duýujy enjamyň kuwwatlylygy",
+    "AURIGA_DETEC_TEMPERATURE_SLOT_0": "slot1",
+    "AURIGA_DETEC_TEMPERATURE_SLOT_1": "slot2",
+    "auriga_detec_temperature": "[ICON] gyzgynlyk derejesini duýujy enjam [PORT] [SLOT] gyzgynlyk derejesi(℃)",
+    "auriga_detect_potentiometer": "[ICON] potensiometr [PORT] belgini görkezýär",
+    "CATEGORY_PERCEPTION": "Duýujy enjamlar"
+};

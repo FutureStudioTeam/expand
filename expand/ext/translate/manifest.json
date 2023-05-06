@@ -1,0 +1,83 @@
+{
+    "id": "translate",
+    "iconURL": "translate/imgs/d7723a5d4d6f40eba5072b724ec44e24.png",
+    "coverURL": "./res/d7723a5d4d6f40eba5072b724ec44e24.png",
+    "name": {
+        "zh": "翻译",
+        "en": "Translate",
+        "de": "Translate",
+        "es": "Translate",
+        "fr": "Translate",
+        "id": "Translate",
+        "ja": "Translate",
+        "ja-jph": "Translate",
+        "ko": "Translate",
+        "pl": "Translate",
+        "uk": "Translate",
+        "zh-hant": "Translate",
+        "nl": "Translate",
+        "it": "Translate",
+        "hr": "Translate",
+        "ru": "Translate",
+        "pt": "Translate",
+        "fi": "Translate",
+        "tr": "Translate",
+        "tk": "Translate",
+        "ar": "Translate",
+        "ca": "Translate",
+        "cs": "Translate",
+        "fa": "Translate",
+        "km": "Translate",
+        "vi": "Translate"
+    },
+    "description": {
+        "zh": "把文字翻译成多种语言。\n(中国地区暂不支持使用)",
+        "en": "Translate text into many languages. (not available in China yet)",
+        "de": "Translate text into many languages. (not available in China yet)",
+        "es": "Translate text into many languages. (not available in China yet)",
+        "fr": "Translate text into many languages. (not available in China yet)",
+        "id": "Translate text into many languages. (not available in China yet)",
+        "ja": "Translate text into many languages. (not available in China yet)",
+        "ja-jph": "Translate text into many languages. (not available in China yet)",
+        "ko": "Translate text into many languages. (not available in China yet)",
+        "pl": "Translate text into many languages. (not available in China yet)",
+        "uk": "Translate text into many languages. (not available in China yet)",
+        "zh-hant": "Translate text into many languages. (not available in China yet)",
+        "nl": "Translate text into many languages. (not available in China yet)",
+        "it": "Translate text into many languages. (not available in China yet)",
+        "hr": "Translate text into many languages. (not available in China yet)",
+        "ru": "Translate text into many languages. (not available in China yet)",
+        "pt": "Translate text into many languages. (not available in China yet)",
+        "fi": "Translate text into many languages. (not available in China yet)",
+        "tr": "Translate text into many languages. (not available in China yet)",
+        "tk": "Translate text into many languages. (not available in China yet)",
+        "ar": "Translate text into many languages. (not available in China yet)",
+        "ca": "Translate text into many languages. (not available in China yet)",
+        "cs": "Translate text into many languages. (not available in China yet)",
+        "fa": "Translate text into many languages. (not available in China yet)",
+        "km": "Translate text into many languages. (not available in China yet)",
+        "vi": "Translate text into many languages. (not available in China yet)"
+    },
+    "fromScratch3": true,
+    "targets": [
+        "sprites"
+    ],
+    "main": "translate/index.js",
+    "device": false,
+    "sortId": 999,
+    "version": "0.3.5",
+    "extApiVersion": [
+        "1.0.0",
+        "1.0.1",
+        "1.0.2",
+        "1.0.3"
+    ],
+    "platform": [
+        "mblockweb",
+        "mblockpc"
+    ],
+    "homepage": "http://www.mblock.cc/api-docs/_preview/mblock-5/zh/use-extensions/use-extensions.html",
+    "feature": [
+        "worker"
+    ]
+}

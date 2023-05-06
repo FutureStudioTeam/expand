@@ -1,0 +1,22 @@
+export default {
+    "halocode_mbuild_joystick": "ジョイスティック",
+    "extensionName": "ジョイスティック",
+    "extensionDescription": "",
+    "BLOCK_1559707965944_INDEX_0": "1",
+    "BLOCK_1559707965944_INDEX_1": "2",
+    "BLOCK_1559707965944_INDEX_2": "3",
+    "BLOCK_1559707965944_INDEX_3": "4",
+    "BLOCK_1559707965944_INDEX_4": "5",
+    "BLOCK_1559707965944_INDEX_5": "6",
+    "BLOCK_1559707965944_INDEX_6": "7",
+    "BLOCK_1559707965944_INDEX_7": "8",
+    "BLOCK_1559707965944_DIR_0": "うわむき",
+    "BLOCK_1559707965944_DIR_1": "したむき",
+    "BLOCK_1559707965944_DIR_2": "ひだりに",
+    "BLOCK_1559707965944_DIR_3": "みぎに",
+    "BLOCK_1559707965944": "ジョイスティック [index] が [dir] ゆれている",
+    "BLOCK_1559708436297_AXIS_0": "xじく",
+    "BLOCK_1559708436297_AXIS_1": "yじく",
+    "BLOCK_1559708436297": "ジョイスティック [index] の [axis] じくのかくど",
+    "cate_38b05160": "ジョイスティック"
+};

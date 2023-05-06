@@ -1,0 +1,20 @@
+export default {
+    "auriga_perception_gizmos": "Detecterende snufjes",
+    "extensionName": "Detecterende snufjes",
+    "extensionDescription": "In de 2 mBot Ranger extensieprojecten leer je hoe je sensoren in het dagelijks leven gebruikt en een beter begrip van elektronica. ",
+    "AURIGA_RUN_FAN_PORT_0": "port6",
+    "AURIGA_RUN_FAN_PORT_1": "port7",
+    "AURIGA_RUN_FAN_PORT_2": "port8",
+    "AURIGA_RUN_FAN_PORT_3": "port9",
+    "AURIGA_RUN_FAN_PORT_4": "port10",
+    "AURIGA_RUN_FAN_FAN_ROTATE_0": "Klok mee",
+    "AURIGA_RUN_FAN_FAN_ROTATE_1": "linksom",
+    "AURIGA_RUN_FAN_FAN_ROTATE_2": "Stoppen",
+    "auriga_run_fan": "[ICON]Fan [PORT] [FAN_ROTATE] Draait",
+    "auriga_detect_external_loudness": "[ICON] geluids sensor [PORT] Loudness",
+    "AURIGA_DETEC_TEMPERATURE_SLOT_0": "Slot1",
+    "AURIGA_DETEC_TEMPERATURE_SLOT_1": "Slot2",
+    "auriga_detec_temperature": "[ICON]Temperatuursensor [PORT] [SLOT] temperatuur (℃)",
+    "auriga_detect_potentiometer": "[ICON] Potentiometer[PORT] Waarde",
+    "CATEGORY_PERCEPTION": "Detecterende snufjes"
+};

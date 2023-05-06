@@ -1,0 +1,21 @@
+export default {
+    "halocode_mbuild_pirsensor": "سنسور PIR",
+    "extensionName": "سنسور PIR",
+    "extensionDescription": "",
+    "EVENT_PIR_INDEX_0": "1",
+    "EVENT_PIR_INDEX_1": "2",
+    "EVENT_PIR_INDEX_2": "3",
+    "EVENT_PIR_INDEX_3": "4",
+    "EVENT_PIR_INDEX_4": "5",
+    "EVENT_PIR_INDEX_5": "6",
+    "EVENT_PIR_INDEX_6": "7",
+    "EVENT_PIR_INDEX_7": "8",
+    "event_pir": "سنسور PIR [index] بدن انسان را تشخیص می دهد?",
+    "pir_count": "سنسور PIR [index] تعداد دفعاتی که بدن انسان تشخیص داده شد",
+    "pir_count_make_zero": "سنسور پیر [index] بازگرداندن تعداد به حالت اولیه",
+    "cate_7477652c": "سنسور PIR",
+    "BLOCK_1547779213407": "سروو [ID] به زاویه [angle] (°) بچرخد",
+    "BLOCK_1547779701469": "بلندگو [ID] صدای [audio]  را پخش کند",
+    "BLOCK_1547779887637": "بلندگو [ID] [audio] را تا انتها، اجرا کند",
+    "BLOCK_1547781171854": "بلندگو [ID] صدا را روی [volume] % تنظیم کند"
+};

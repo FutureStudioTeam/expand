@@ -1,0 +1,68 @@
+{
+    "id": "googlesheet",
+    "iconURL": "googlesheet/imgs/c9864e1745f74133859e8a1c4a8c7108.png",
+    "coverURL": "./res/c9864e1745f74133859e8a1c4a8c7108.png",
+    "name": {
+        "zh": "谷歌表格",
+        "en": "Google Sheets",
+        "de": "Google Sheets",
+        "es": "Google Sheets (hojas de cálculo)",
+        "fr": "Google Sheets",
+        "id": "Google lembar",
+        "ja": "Googleシート",
+        "ja-jph": "Google シート",
+        "ko": "Google 스프레드시트",
+        "pl": "Arkusze Google",
+        "uk": "Таблиці Google",
+        "zh-hant": "Google 表格",
+        "nl": "Google-bladen",
+        "it": "Fogli di Google",
+        "hr": "Google listovi",
+        "ru": "Google листы",
+        "pt": "Planilhas Google",
+        "fi": "Google Sheets-sivut",
+        "tr": "Google sayfa",
+        "tk": "Google Sheets",
+        "fa": "صفحات گوگل"
+    },
+    "description": {
+        "zh": "可通过 mBlock 将数据输入到谷歌表格中。\n（仅在谷歌服务区域内可用）",
+        "en": "With this extension, you can input data into Google sheets with mBlock. (only available in Google services areas)",
+        "de": "Mit dieser Erweiterung können Sie mit mBlock Daten in Google-Blätter eingeben. (Nur in den Bereichen der Google-Dienste verfügbar)",
+        "es": "Con esta extensión, puedes introducir datos en Google Sheets con mBlock. (Solo donde Google dé servicio.)",
+        "fr": "Grâce à cette extension, vous pouvez entrer des données dans Google Sheets avec mBlock. (uniquement disponible dans les zones de services Google)",
+        "id": "Dengan perpanjangan ini, Anda dapat memasukkan data ke Google lembaran dengan mBlock. (hanya tersedia di area-area layanan Google)",
+        "ja": "この拡張機能を使用すると、mBlockでGoogle シートにデータを入力することができます(Googleサービスエリアでのみ利用可能)。",
+        "ja-jph": "このかくちょうきのうをしようすると、mBlock で Google シートにデータをにゅうりょくすることができます。(Google サービスエリアでのみりようかのう)",
+        "ko": "이 확장을 사용 하면 mBlock을 사용 하 여 Google 시트에 데이터를 입력 할 수 있습니다. (Google 서비스 지역 에서만 사용 가능)",
+        "pl": "Z tego rozszerzenia, można wprowadzać dane do arkuszy Google z mBlock. (dostępne tylko w obszarach usług Google)",
+        "uk": "З цим розширенням mBlock, ви можете зберігати дані в Google таблицях. (доступно лише в країнах з підтримкою служб Google)",
+        "zh-hant": "通過此擴展, 您可以使用 mBlock 將資料輸入到 Google 工作表中。(僅適用于 Google 服務區域)",
+        "nl": "Met deze extensie u gegevens invoeren in Google Sheets met mBlock. (alleen beschikbaar in Google Services-gebieden)",
+        "it": "Con questa estensione, è possibile inserire i dati in fogli Google con mBlock. (disponibile solo nelle aree dei servizi Google)",
+        "hr": "Pomoću ovog proširenja možete unijeti podatke u Google listove s mBlock. (dostupno samo u područjima Googleovih usluga)",
+        "ru": "С помощью этого расширения, вы можете вводить данные в Google листы с Мблокк. (доступно только в сервисных зонах Google)",
+        "pt": "Com essa extensão, você pode inserir dados em planilhas do Google com o mBlock. (disponível apenas nas áreas de serviços do Google)",
+        "fi": "Tämän laajennuksen avulla voit syöttää tietoja Google Sheets palveluun mBlockilla. (saatavilla vain Google-palveluiden alueilla)",
+        "tr": "Bu uzantıyla, mBlock ile Google sayfalarına veri girebilirsiniz. (yalnızca Google hizmetleri alanlarında kullanılabilir)",
+        "tk": "Şu giňeldiş bilen siz Google sheets platformasyna mBlock bilen maglumat girizip bilersiňiz. (diňe Google hyzmatlarynyň elýeterli ýerlerinde mümkindir)",
+        "fa": "با این پسوند ، شما می توانید داده ها را با mBlockبه صفحات گوگل وارد کنید. (فقط در حوزه های خدمات Google دردسترس است)"
+    },
+    "targets": [
+        "sprites"
+    ],
+    "main": "googlesheet/index.js",
+    "device": false,
+    "sortId": 999,
+    "version": "0.1.5",
+    "extApiVersion": [
+        "1.0.0",
+        "1.0.1"
+    ],
+    "platform": [
+        "mblockpc",
+        "mblockweb"
+    ],
+    "homepage": "http://www.mblock.cc/api-docs/_preview/mblock-5/zh/use-extensions/use-extensions.html",
+    "feature": []
+}

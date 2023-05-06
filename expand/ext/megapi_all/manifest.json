@@ -1,0 +1,73 @@
+{
+    "id": "megapi_all",
+    "iconURL": "megapi_all/imgs/011f1c767ec7406b85672499ab3702b8.png",
+    "coverURL": "./res/011f1c767ec7406b85672499ab3702b8.png",
+    "name": {
+        "zh": "创客平台",
+        "en": "Maker's Platform",
+        "de": "Maker's Platform",
+        "es": "Maker's Platform",
+        "fr": "Maker's Platform",
+        "id": "Maker's Platform",
+        "ja": "Maker's Platform",
+        "ja-jph": "Maker's Platform",
+        "ko": "Maker's Platform",
+        "pl": "Maker's Platform",
+        "uk": "Maker's Platform",
+        "zh-hant": "Maker's Platform",
+        "nl": "Maker's Platform",
+        "it": "Maker's Platform",
+        "hr": "Maker's Platform",
+        "ru": "Maker's Platform",
+        "pt": "Maker's Platform",
+        "fi": "Maker's Platform",
+        "tr": "Maker's Platform",
+        "tk": "Maker's Platform",
+        "fa": "Maker's Platform"
+    },
+    "description": {
+        "zh": "Ultimate 2.0创客扩展合集",
+        "en": "mBot Ranger Extensions Collection",
+        "de": "mBot Ranger Extensions Collection",
+        "es": "mBot Ranger Extensions Collection",
+        "fr": "mBot Ranger Extensions Collection",
+        "id": "mBot Ranger Extensions Collection",
+        "ja": "mBot Ranger Extensions Collection",
+        "ja-jph": "mBot Ranger Extensions Collection",
+        "ko": "mBot Ranger Extensions Collection",
+        "pl": "mBot Ranger Extensions Collection",
+        "uk": "mBot Ranger Extensions Collection",
+        "zh-hant": "mBot Ranger Extensions Collection",
+        "nl": "mBot Ranger Extensions Collection",
+        "it": "mBot Ranger Extensions Collection",
+        "hr": "mBot Ranger Extensions Collection",
+        "ru": "mBot Ranger Extensions Collection",
+        "pt": "mBot Ranger Extensions Collection",
+        "fi": "mBot Ranger Extensions Collection",
+        "tr": "mBot Ranger Extensions Collection",
+        "tk": "mBot Ranger Extensions Collection",
+        "fa": "mBot Ranger Extensions Collection"
+    },
+    "fromScratch3": false,
+    "targets": [
+        "megapi"
+    ],
+    "main": "megapi_all/index.js",
+    "codeTypes": [
+        "arduinoc"
+    ],
+    "device": false,
+    "sortId": 999,
+    "version": "1.0.1",
+    "extApiVersion": [
+        "1.0.0",
+        "1.0.1"
+    ],
+    "platform": [
+        "mblockpc",
+        "mblockweb",
+        "mblockapp"
+    ],
+    "homepage": "http://www.mblock.cc/api-docs/_preview/mblock-5/zh/use-extensions/use-extensions.html",
+    "feature": []
+}

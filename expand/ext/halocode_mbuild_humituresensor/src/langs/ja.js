@@ -1,0 +1,21 @@
+export default {
+    "halocode_mbuild_humituresensor": "温湿度センサー",
+    "extensionName": "温湿度センサー",
+    "extensionDescription": "",
+    "OP_TEMPERATURE_INDEX_0": "1",
+    "OP_TEMPERATURE_INDEX_1": "2",
+    "OP_TEMPERATURE_INDEX_2": "3",
+    "OP_TEMPERATURE_INDEX_3": "4",
+    "OP_TEMPERATURE_INDEX_4": "5",
+    "OP_TEMPERATURE_INDEX_5": "6",
+    "OP_TEMPERATURE_INDEX_6": "7",
+    "OP_TEMPERATURE_INDEX_7": "8",
+    "op_temperature": "温湿度センサー [index] の温度（℃）",
+    "op_htemperature": "温湿度センサー [index] の温度（℉）",
+    "op_humidity": "温湿度センサー [index] の湿度（%）",
+    "cate_5ce6a4bb": "温湿度センサー",
+    "BLOCK_1547779213407": "サーボ [ID] を [angle] (°) まで回転する",
+    "BLOCK_1547779701469": "スピーカー [ID] で[audio] を再生する",
+    "BLOCK_1547779887637": "スピーカー [ID] で [audio] を完了まで再生する",
+    "BLOCK_1547781171854": "スピーカー [ID] の音量を [volume] %に設定する"
+};

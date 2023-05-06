@@ -1,0 +1,33 @@
+{
+    "compilerOptions": {
+        "declaration": true,
+        "removeComments": false,
+        "rootDir": "./ts",
+        "outDir": "./build",
+        "sourceMap": true,
+        "noUnusedParameters": true,
+        "moduleResolution": "node",
+        "module": "CommonJs",
+        "esModuleInterop": true,
+        "target": "ES2017",
+        "baseUrl": "./ts",
+        "allowSyntheticDefaultImports": true,
+        "strict": false,
+        "forceConsistentCasingInFileNames": true,
+        "noImplicitReturns": true,
+        "noImplicitThis": true,
+        "strictNullChecks": false,
+        "suppressImplicitAnyIndexErrors": true,
+        "preserveConstEnums": true,
+        "lib": [
+            "DOM",
+            "ES2015"
+        ]
+    },
+    "exclude": [
+        "node_modules",
+        "build",
+        "dist",
+        "**/*.spec.ts"
+    ]
+}

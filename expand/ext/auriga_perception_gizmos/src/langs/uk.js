@@ -1,0 +1,20 @@
+export default {
+    "auriga_perception_gizmos": "Гаджети сприйняття",
+    "extensionName": "Гаджети сприйняття",
+    "extensionDescription": "У 2 проектах розширення до mBot Ranger ви дізнаєтеся, як використовувати датчики в повсякденному житті та засвоїте принципи роботи електроніки. ",
+    "AURIGA_RUN_FAN_PORT_0": "порт 6",
+    "AURIGA_RUN_FAN_PORT_1": "порт 7",
+    "AURIGA_RUN_FAN_PORT_2": "порт 8",
+    "AURIGA_RUN_FAN_PORT_3": "порт 9",
+    "AURIGA_RUN_FAN_PORT_4": "порт 10",
+    "AURIGA_RUN_FAN_FAN_ROTATE_0": "за годинниковою стрілкою",
+    "AURIGA_RUN_FAN_FAN_ROTATE_1": "проти годинникової стрілки",
+    "AURIGA_RUN_FAN_FAN_ROTATE_2": "зупинити",
+    "auriga_run_fan": "[ICON] вентилятор [PORT] [FAN_ROTATE] обертів",
+    "auriga_detect_external_loudness": "[ICON] датчик звуку [PORT] гучність",
+    "AURIGA_DETEC_TEMPERATURE_SLOT_0": "slot1",
+    "AURIGA_DETEC_TEMPERATURE_SLOT_1": "SLOT2",
+    "auriga_detec_temperature": "[ICON] термометр [PORT] [SLOT] температура (℃)",
+    "auriga_detect_potentiometer": "[ICON] потенціометр [PORT] значення",
+    "CATEGORY_PERCEPTION": "Гаджети сприйняття"
+};

@@ -1,0 +1,21 @@
+export default {
+    "halocode_mbuild_humituresensor": "Humiture-anturi",
+    "extensionName": "Humiture-anturi",
+    "extensionDescription": "",
+    "OP_TEMPERATURE_INDEX_0": "1",
+    "OP_TEMPERATURE_INDEX_1": "2",
+    "OP_TEMPERATURE_INDEX_2": "3",
+    "OP_TEMPERATURE_INDEX_3": "4",
+    "OP_TEMPERATURE_INDEX_4": "5",
+    "OP_TEMPERATURE_INDEX_5": "6",
+    "OP_TEMPERATURE_INDEX_6": "7",
+    "OP_TEMPERATURE_INDEX_7": "8",
+    "op_temperature": "humiture-anturi [index] lämpötila (°C)",
+    "op_htemperature": "humiture[index] lämpötila（℉）",
+    "op_humidity": "humiture-anturi [index] ilmankosteus (%)",
+    "cate_5ce6a4bb": "Humiture-anturi",
+    "BLOCK_1547779213407": "servo [ID] pyörii [angle] (°)",
+    "BLOCK_1547779701469": "kaiutin [ID]  toistaa äänen [audio]",
+    "BLOCK_1547779887637": "kaiutin [ID] toistaa äänitiedoston [audio] kunnes valmis",
+    "BLOCK_1547781171854": "kaiutin [ID]  aseta äänenvoimakkuus [volume] %"
+};

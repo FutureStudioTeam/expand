@@ -1,0 +1,36 @@
+{
+  "name": "through2-filter",
+  "version": "3.0.0",
+  "description": "A through2 to create an Array.prototype.filter analog for streams.",
+  "files": [
+    "index.js"
+  ],
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:brycebaril/through2-filter.git"
+  },
+  "author": "Bryce B. Baril",
+  "license": "MIT",
+  "jshintConfig": {
+    "asi": true,
+    "globalstrict": true,
+    "validthis": true,
+    "eqnull": true,
+    "node": true,
+    "loopfunc": true,
+    "newcap": false,
+    "eqeqeq": false
+  },
+  "devDependencies": {
+    "tape": "^4.0.0",
+    "stream-spigot": "^3.0.5",
+    "concat-stream": "^1.4.7"
+  },
+  "dependencies": {
+    "through2": "~2.0.0",
+    "xtend": "~4.0.0"
+  }
+}

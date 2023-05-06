@@ -1,0 +1,23 @@
+export default {
+    "mcore_variety_gizmos": "Gadget Pack",
+    "extensionName": "Paket Gawai",
+    "extensionDescription": "Dalam proyek ekstensi mBot 6, Anda akan mempelajari cara membuat robot atau perangkat bergerak dan berubah bentuk seperti yang Anda inginkan. ",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_PORT_0": "port1",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_PORT_1": "port2",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_PORT_2": "port3",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_PORT_3": "port4",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_LED_POSTION_0": "semua",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_LED_POSTION_1": "1",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_LED_POSTION_2": "2",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_LED_POSTION_3": "3",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_LED_POSTION_4": "4",
+    "mcore_show_external_led_time": "[ICON] LED RGB [PORT] menyala [LED_POSTION] dengan warna [COLOR] selama [TIME] detik",
+    "mcore_show_external_led": "[ICON] LED RGB [PORT] menyala [LED_POSTION] dengan warna [COLOR] ",
+    "mcore_show_external_led_rgb": "[ICON] LED RGB [PORT] menyala [LED_POSTION] dengan warna merah [R] hijau [G] biru [B]",
+    "MCORE_RUN_SERVO_SLOT_0": "slot1",
+    "MCORE_RUN_SERVO_SLOT_1": "slot2",
+    "mcore_run_servo": "[ICON] servo [PORT] [SLOT] diposisikan pada [DEGREE] ",
+    "mcore_show_7segments_number": "[ICON] tujuh segmen [PORT] menampilkan angka [NUMBER]",
+    "mcore_event_limit_switch": "[ICON] sakelar batas [PORT] [SLOT] ditekan？",
+    "CATEGORY_VARITY": "Gawai"
+};

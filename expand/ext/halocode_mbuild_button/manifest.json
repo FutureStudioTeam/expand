@@ -1,0 +1,83 @@
+{
+    "id": "halocode_mbuild_button",
+    "iconURL": "halocode_mbuild_button/imgs/2a697d52b4c741abac15cf6569af0180.png",
+    "coverURL": "./res/2a697d52b4c741abac15cf6569af0180.png",
+    "name": {
+        "zh": "按钮",
+        "en": "Button",
+        "de": "knopf",
+        "es": "Botón",
+        "fr": "bouton",
+        "id": "Tombol",
+        "ja": "ボタン",
+        "ja-jph": "ボタン",
+        "ko": "단추",
+        "pl": "Przycisk",
+        "uk": "Кнопка",
+        "zh-hant": "按钮",
+        "nl": "Knop",
+        "it": "Pulsante",
+        "hr": "Gumb",
+        "ru": "Кнопку",
+        "pt": "Botão",
+        "fi": "Painiketta",
+        "tr": "Düğme",
+        "tk": "Düwme",
+        "ar": "زر",
+        "ca": "Botó",
+        "cs": "Tlačítko",
+        "fa": "دکمه",
+        "km": "ប៊ូតុង",
+        "vi": "Nút nhấn"
+    },
+    "description": {
+        "zh": "",
+        "en": "",
+        "de": "",
+        "es": "",
+        "fr": "",
+        "id": "",
+        "ja": "",
+        "ja-jph": "",
+        "ko": "",
+        "pl": "",
+        "uk": "",
+        "zh-hant": "",
+        "nl": "",
+        "it": "",
+        "hr": "",
+        "ru": "",
+        "pt": "",
+        "fi": "",
+        "tr": "",
+        "tk": "",
+        "ar": "",
+        "ca": "",
+        "cs": "",
+        "fa": "",
+        "km": "",
+        "vi": ""
+    },
+    "fromScratch3": false,
+    "targets": [
+        "haloboard",
+        "cyberpi"
+    ],
+    "main": "halocode_mbuild_button/index.js",
+    "codeTypes": [
+        "python"
+    ],
+    "device": false,
+    "sortId": 999,
+    "version": "0.0.2",
+    "extApiVersion": [
+        "1.0.2"
+    ],
+    "platform": [
+        "mblockpc",
+        "mblockweb",
+        "mblockapp"
+    ],
+    "homepage": "http://docs.makeblock.com/diy-platform/zh/mbuild/hardware/interaction/button.html",
+    "feature": []
+}

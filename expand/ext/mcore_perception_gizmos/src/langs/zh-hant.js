@@ -1,0 +1,21 @@
+export default {
+    "mcore_perception_gizmos": "感知小發明",
+    "extensionName": "感知小發明",
+    "extensionDescription": "在 mBot 擴展專案中, 您可以透過各種範例幫助您瞭解如何使用感測器，並且掌握電子模組的知識。",
+    "MCORE_RUN_FAN_PORT_0": "連接埠1",
+    "MCORE_RUN_FAN_PORT_1": "連接埠2",
+    "MCORE_RUN_FAN_PORT_2": "連接埠3",
+    "MCORE_RUN_FAN_PORT_3": "連接埠4",
+    "MCORE_RUN_FAN_FAN_ROTATE_0": "順時針",
+    "MCORE_RUN_FAN_FAN_ROTATE_1": "逆時針",
+    "MCORE_RUN_FAN_FAN_ROTATE_2": "停止",
+    "mcore_run_fan": "[ICON] 小風扇 [PORT] [FAN_ROTATE] 轉動",
+    "MCORE_DETECT_EXTERNAL_LOUDNESS_PORT_0": "連接埠3",
+    "MCORE_DETECT_EXTERNAL_LOUDNESS_PORT_1": "連接埠4",
+    "mcore_detect_external_loudness": "[ICON] 聲音感測器 [PORT] 音量",
+    "MCORE_DETEC_TEMPERATURE_SLOT_0": "插座1",
+    "MCORE_DETEC_TEMPERATURE_SLOT_1": "插座2",
+    "mcore_detec_temperature": "[ICON] 溫度感測器 [PORT] [SLOT] 溫度(℃)",
+    "mcore_detect_potentiometer": "[ICON] 可變電阻 [PORT] 數值",
+    "CATEGORY_PERCEPTION": "感知小發明"
+};

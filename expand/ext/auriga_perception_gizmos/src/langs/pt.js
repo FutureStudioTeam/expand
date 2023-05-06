@@ -1,0 +1,20 @@
+export default {
+    "auriga_perception_gizmos": "Aparelhos sensoriais",
+    "extensionName": "Aparelhos Sensoriais",
+    "extensionDescription": "Nos projetos de extensão Ranger 2 mBot, irás aprender em como usar os sensores no dia-a-dia e obter uma melhor compreensão sobre electrónica.",
+    "AURIGA_RUN_FAN_PORT_0": "port6",
+    "AURIGA_RUN_FAN_PORT_1": "port7",
+    "AURIGA_RUN_FAN_PORT_2": "Port8",
+    "AURIGA_RUN_FAN_PORT_3": "port9",
+    "AURIGA_RUN_FAN_PORT_4": "port10",
+    "AURIGA_RUN_FAN_FAN_ROTATE_0": "No sentido horário",
+    "AURIGA_RUN_FAN_FAN_ROTATE_1": "No sentido anti-horário",
+    "AURIGA_RUN_FAN_FAN_ROTATE_2": "Parar",
+    "auriga_run_fan": "[ICON]Fã [PORT] [FAN_ROTATE] Gira",
+    "auriga_detect_external_loudness": "[ICON] sensor de som [PORT] Sonoridade",
+    "AURIGA_DETEC_TEMPERATURE_SLOT_0": "slot1",
+    "AURIGA_DETEC_TEMPERATURE_SLOT_1": "slot2",
+    "auriga_detec_temperature": "[ICON]sensor de temperatura [PORT] [SLOT] temperatura (℃)",
+    "auriga_detect_potentiometer": "[ICON] Potenciômetro[PORT] Valor",
+    "CATEGORY_PERCEPTION": "Aparelhos sensoriais"
+};

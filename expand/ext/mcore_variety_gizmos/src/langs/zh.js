@@ -1,0 +1,23 @@
+export default {
+    "mcore_variety_gizmos": "百变小发明",
+    "extensionName": "百变小发明",
+    "extensionDescription": "包含6个mBot的扩展案例，进一步丰富硬件设备的运动控制和外形形态。",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_PORT_0": "接口1",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_PORT_1": "接口2",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_PORT_2": "接口3",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_PORT_3": "接口4",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_LED_POSTION_0": "全部",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_LED_POSTION_1": "1",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_LED_POSTION_2": "2",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_LED_POSTION_3": "3",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_LED_POSTION_4": "4",
+    "mcore_show_external_led_time": "[ICON] RGB LED [PORT] 亮起 [LED_POSTION] 灯，颜色为 [COLOR] ，持续 [TIME] 秒",
+    "mcore_show_external_led": "[ICON] RGB LED [PORT] 亮起 [LED_POSTION] 灯，颜色为 [COLOR]",
+    "mcore_show_external_led_rgb": "[ICON] RGB LED [PORT] 亮起 [LED_POSTION] 灯，颜色为红 [R] 绿 [G] 蓝 [B]",
+    "MCORE_RUN_SERVO_SLOT_0": "插头1",
+    "MCORE_RUN_SERVO_SLOT_1": "插头2",
+    "mcore_run_servo": "[ICON] 舵机 [PORT] [SLOT] 角度 [DEGREE] 度",
+    "mcore_show_7segments_number": "[ICON] 数码管 [PORT] 显示数字 [NUMBER]",
+    "mcore_event_limit_switch": "[ICON] 限位开关 [PORT] [SLOT] 被按下？",
+    "CATEGORY_VARITY": "百变小发明"
+};

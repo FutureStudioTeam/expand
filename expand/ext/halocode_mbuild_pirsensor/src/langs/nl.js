@@ -1,0 +1,21 @@
+export default {
+    "halocode_mbuild_pirsensor": "PIR sensor",
+    "extensionName": "PIR sensor",
+    "extensionDescription": "",
+    "EVENT_PIR_INDEX_0": "1",
+    "EVENT_PIR_INDEX_1": "2",
+    "EVENT_PIR_INDEX_2": "3",
+    "EVENT_PIR_INDEX_3": "4",
+    "EVENT_PIR_INDEX_4": "5",
+    "EVENT_PIR_INDEX_5": "6",
+    "EVENT_PIR_INDEX_6": "7",
+    "EVENT_PIR_INDEX_7": "8",
+    "event_pir": "PIR sensor [index] detecteert menselijk lichaam?",
+    "pir_count": "PIR sensor[index] aantal keren dat een menselijk lichaam ontdekt",
+    "pir_count_make_zero": "PIR sensor [index] resets aantal keren",
+    "cate_7477652c": "PIR sensor",
+    "BLOCK_1547779213407": "Servo [ID] draait om [angle] (°)",
+    "BLOCK_1547779701469": "Spreker [ID]  geluid afspelen [audio]",
+    "BLOCK_1547779887637": "Spreker [ID]  audiobestand afspelen [audio] tot gedaan",
+    "BLOCK_1547781171854": "Spreker [ID]  Stel het volume in op [volume] %"
+};

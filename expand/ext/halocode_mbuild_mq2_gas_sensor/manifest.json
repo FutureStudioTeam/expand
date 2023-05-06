@@ -1,0 +1,79 @@
+{
+    "id": "halocode_mbuild_mq2_gas_sensor",
+    "iconURL": "halocode_mbuild_mq2_gas_sensor/imgs/ead0a83d1615473f93e4f72b5d9e3274.png",
+    "coverURL": "./res/ead0a83d1615473f93e4f72b5d9e3274.png",
+    "name": {
+        "zh": "MQ2气体传感器",
+        "en": "MQ2 Gas Sensor",
+        "de": "MQ2 Gas Sensor",
+        "es": "MQ2 Gas Sensor",
+        "fr": "Capteur de gaz MQ2",
+        "id": "MQ2 Gas Sensor",
+        "ja": "MQ2ガスセンサー",
+        "ja-jph": "MQ2ガスセンサー",
+        "ko": "MQ2 Gas Sensor",
+        "pl": "Czujnik Gazu MQ2",
+        "uk": "Датчик газу MQ2",
+        "zh-hant": "MQ2 氣體感測器",
+        "nl": "MQ2 Gas Sensor",
+        "it": "Sensore gas MQ2",
+        "hr": "MQ2 senzor plina",
+        "ru": "MQ2 Gas Sensor",
+        "pt": "MQ2 Gas Sensor",
+        "fi": "MQ2 Gas Sensor",
+        "tr": "MQ2 Gas Sensor",
+        "tk": "MQ2 Gazy duýujy enjam",
+        "ca": "Sensor de gas MQ2",
+        "cs": "Plynový senzor MQ2",
+        "fa": "MQ2 Gas Sensor",
+        "vi": "MQ2 Cảm biến khí gas"
+    },
+    "description": {
+        "zh": "",
+        "en": "",
+        "de": "",
+        "es": "",
+        "fr": "",
+        "id": "",
+        "ja": "",
+        "ja-jph": "",
+        "ko": "",
+        "pl": "",
+        "uk": "",
+        "zh-hant": "",
+        "nl": "",
+        "it": "",
+        "hr": "",
+        "ru": "",
+        "pt": "",
+        "fi": "",
+        "tr": "",
+        "tk": "",
+        "ca": "",
+        "cs": "",
+        "fa": "",
+        "vi": ""
+    },
+    "fromScratch3": false,
+    "targets": [
+        "haloboard",
+        "cyberpi"
+    ],
+    "main": "halocode_mbuild_mq2_gas_sensor/index.js",
+    "codeTypes": [
+        "python"
+    ],
+    "device": false,
+    "sortId": 999,
+    "version": "0.0.2",
+    "extApiVersion": [
+        "1.0.2"
+    ],
+    "platform": [
+        "mblockpc",
+        "mblockweb",
+        "mblockapp"
+    ],
+    "homepage": "http://docs.makeblock.com/diy-platform/zh/mbuild/hardware/sensors/gas-sensor.html",
+    "feature": []
+}

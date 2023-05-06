@@ -1,0 +1,21 @@
+export default {
+    "halocode_mbuild_pirsensor": "PIRセンサー",
+    "extensionName": "PIRセンサー",
+    "extensionDescription": "",
+    "EVENT_PIR_INDEX_0": "1",
+    "EVENT_PIR_INDEX_1": "2",
+    "EVENT_PIR_INDEX_2": "3",
+    "EVENT_PIR_INDEX_3": "4",
+    "EVENT_PIR_INDEX_4": "5",
+    "EVENT_PIR_INDEX_5": "6",
+    "EVENT_PIR_INDEX_6": "7",
+    "EVENT_PIR_INDEX_7": "8",
+    "event_pir": "PIRセンサー[index] が人の動きを検出する",
+    "pir_count": "PIRセンサー[index] が人体を検出した回数",
+    "pir_count_make_zero": "PIRセンサー [index] の回数をリセットする",
+    "cate_7477652c": "PIRセンサー",
+    "BLOCK_1547779213407": "サーボ [ID] を [angle] (°) まで回転する",
+    "BLOCK_1547779701469": "スピーカー [ID] で[audio] を再生する",
+    "BLOCK_1547779887637": "スピーカー [ID] で [audio] を完了まで再生する",
+    "BLOCK_1547781171854": "スピーカー [ID] の音量を [volume] %に設定する"
+};

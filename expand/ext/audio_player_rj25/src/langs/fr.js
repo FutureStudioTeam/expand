@@ -1,0 +1,22 @@
+export default {
+    "audio_player_rj25": "Lecteur audio",
+    "extensionName": "Lecteur audio",
+    "extensionDescription": "Audio Player",
+    "audioplayer_init": "initialiser le lecteur audio à: n'importe quel port blanc (I2C)",
+    "audioplayer_play_by_sn": "lecteur audio: jouer le fichier audio [FILE_SN]",
+    "audioplayer_play_by_name": "lecteur audio: lire le fichier audio nommé [FILE_NAME]",
+    "AUDIOPLAYER_SET_PLAY_MODE_PLAY_MODE_0": "simple",
+    "AUDIOPLAYER_SET_PLAY_MODE_PLAY_MODE_1": "boucle",
+    "AUDIOPLAYER_SET_PLAY_MODE_PLAY_MODE_2": "dans l'ordre",
+    "AUDIOPLAYER_SET_PLAY_MODE_PLAY_MODE_3": "aléatoire",
+    "audioplayer_set_play_mode": "lecteur audio : régler le mode sur [PLAY_MODE]",
+    "audioplayer_play_previous": "lecteur audio: lire le fichier audio précédent",
+    "audioplayer_play_next": "lecteur audio: lire le fichier audio suivant",
+    "audioplayer_pause": "lecteur audio: pause/reprise",
+    "audioplayer_stop": "lecteur audio: arrêter la lecture",
+    "audioplayer_set_volume": "lecteur audio: volume à [VOLUME] %",
+    "audioplayer_volume_up": "lecteur audio: monter le volume",
+    "audioplayer_volume_down": "lecteur audio: baisser le volume",
+    "audioplayer_record": "lecteur audio: démarrer l'enregistrement et [FILE_NAME]",
+    "audioplayer_record_stop": "lecteur audio: arrêter l'enregistrement"
+};

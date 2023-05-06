@@ -1,0 +1,21 @@
+export default {
+    "mcore_servo_pack": "Серво Пак",
+    "extensionName": "Серво Пак",
+    "extensionDescription": "Перетворіть вашого mBot в кішку. Запрограмуйте його танцювати, дивитися навколо і світити очима.",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_PORT_0": "порт 1",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_PORT_1": "порт 2",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_PORT_2": "порт 3",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_PORT_3": "порт 4",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_LED_POSTION_0": "всі",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_LED_POSTION_1": "1",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_LED_POSTION_2": "2",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_LED_POSTION_3": "3",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_LED_POSTION_4": "4",
+    "mcore_show_external_led_time": "[ICON] LED стрічка [PORT] увімкнути світлодіод [LED_POSTION] колір [COLOR] на [TIME] сек",
+    "mcore_show_external_led": "[ICON] LED стрічка [PORT] увімкнути світлодіод [LED_POSTION] колір [COLOR]",
+    "mcore_show_external_led_rgb": "[ICON] LED стрічка [PORT] увімкнути світлодіод [LED_POSTION] колір червоний [R] зелений [G] синій [B]",
+    "MCORE_RUN_SERVO_SLOT_0": "роз'єм1",
+    "MCORE_RUN_SERVO_SLOT_1": "роз'єм2",
+    "mcore_run_servo": "[ICON] Серво [PORT] [SLOT] розташований на [DEGREE] ",
+    "CATEGORY_SERVO_PACK": "Серво Пак"
+};

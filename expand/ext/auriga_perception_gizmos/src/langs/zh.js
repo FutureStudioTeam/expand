@@ -1,0 +1,20 @@
+export default {
+    "auriga_perception_gizmos": "感知小发明",
+    "extensionName": "感知小发明",
+    "extensionDescription": "包含2个mBot Ranger的扩展案例，丰富的传感器应用案例，非常适合学习电子知识。",
+    "AURIGA_RUN_FAN_PORT_0": "接口6",
+    "AURIGA_RUN_FAN_PORT_1": "接口7",
+    "AURIGA_RUN_FAN_PORT_2": "接口8",
+    "AURIGA_RUN_FAN_PORT_3": "接口9",
+    "AURIGA_RUN_FAN_PORT_4": "接口10",
+    "AURIGA_RUN_FAN_FAN_ROTATE_0": "顺时针",
+    "AURIGA_RUN_FAN_FAN_ROTATE_1": "逆时针",
+    "AURIGA_RUN_FAN_FAN_ROTATE_2": "停止",
+    "auriga_run_fan": "[ICON] 小风扇 [PORT] [FAN_ROTATE] 转动",
+    "auriga_detect_external_loudness": "[ICON] 声音传感器 [PORT] 响度",
+    "AURIGA_DETEC_TEMPERATURE_SLOT_0": "插头1",
+    "AURIGA_DETEC_TEMPERATURE_SLOT_1": "插头2",
+    "auriga_detec_temperature": "[ICON] 温度传感器 [PORT] [SLOT] 温度℃",
+    "auriga_detect_potentiometer": "[ICON] 电位器 [PORT] 读数",
+    "CATEGORY_PERCEPTION": "感知小发明"
+};

@@ -1,0 +1,21 @@
+export default {
+    "mcore_perception_gizmos": "Сенсорные устройства",
+    "extensionName": "Сенсорные устройства",
+    "extensionDescription": "В 5 проектах расширения для mBot можно найти множество примеров использования датчиков и отточить свои базовые знания электроники.",
+    "MCORE_RUN_FAN_PORT_0": "Порт1",
+    "MCORE_RUN_FAN_PORT_1": "Порт2",
+    "MCORE_RUN_FAN_PORT_2": "Порт3",
+    "MCORE_RUN_FAN_PORT_3": "Порт4",
+    "MCORE_RUN_FAN_FAN_ROTATE_0": "по часовой стрелке",
+    "MCORE_RUN_FAN_FAN_ROTATE_1": "против часовой стрелки",
+    "MCORE_RUN_FAN_FAN_ROTATE_2": "остановить",
+    "mcore_run_fan": "[ICON] вентилятор [PORT] [FAN_ROTATE] вращается",
+    "MCORE_DETECT_EXTERNAL_LOUDNESS_PORT_0": "Порт3",
+    "MCORE_DETECT_EXTERNAL_LOUDNESS_PORT_1": "Порт4",
+    "mcore_detect_external_loudness": "[ICON] звуковой датчик [PORT] громкость",
+    "MCORE_DETEC_TEMPERATURE_SLOT_0": "слот 1",
+    "MCORE_DETEC_TEMPERATURE_SLOT_1": "слот 2",
+    "mcore_detec_temperature": "[ICON]датчик температуры [PORT] [SLOT] температура (℃)",
+    "mcore_detect_potentiometer": "[ICON] потенциометр [PORT] отображает значение",
+    "CATEGORY_PERCEPTION": "Устройства"
+};

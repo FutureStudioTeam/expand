@@ -1,0 +1,23 @@
+export default {
+    "mcore_variety_gizmos": "Tiện ích Pack",
+    "extensionName": "Tiện ích Pack",
+    "extensionDescription": "Trong các dự án mở rộng 6 mBot, bạn sẽ học cách làm thế nào để làm cho robot hoặc thiết bị của bạn di chuyển và thay đổi hình dạng của nó như bạn muốn. ",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_PORT_0": "port1",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_PORT_1": "port2",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_PORT_2": "port3",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_PORT_3": "port4",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_LED_POSTION_0": "tất cả",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_LED_POSTION_1": "1",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_LED_POSTION_2": "2",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_LED_POSTION_3": "3",
+    "MCORE_SHOW_EXTERNAL_LED_TIME_LED_POSTION_4": "4",
+    "mcore_show_external_led_time": "[ICON] ĐÈN LED RGB [PORT]sáng lên tại vị trí [LED_POSTION]với màu[COLOR] trong [TIME] Giây",
+    "mcore_show_external_led": "[ICON] ĐÈN LED RGB [PORT] sáng lên tại vị trí [LED_POSTION] với màu [COLOR] ",
+    "mcore_show_external_led_rgb": "[ICON] ĐÈN LED RGB [PORT]sáng lên [LED_POSTION]với màu đỏ [R] Xanh [G] Blue [B]",
+    "MCORE_RUN_SERVO_SLOT_0": "vị trí 1",
+    "MCORE_RUN_SERVO_SLOT_1": "vị trí 2",
+    "mcore_run_servo": "động cơ servo [PORT] [SLOT] đặt tại góc [DEGREE] độ ",
+    "mcore_show_7segments_number": "[ICON] led bảy đoạn [PORT] Hiển thị số [NUMBER]",
+    "mcore_event_limit_switch": "công tắc hành trình [PORT] [SLOT] được nhấn",
+    "CATEGORY_VARITY": "Tiện ích "
+};
